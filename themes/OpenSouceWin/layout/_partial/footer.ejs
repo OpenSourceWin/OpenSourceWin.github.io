@@ -1,0 +1,12 @@
+<script>
+window.onload = function () {
+    const navWrap = document.getElementById('navWrap');
+    window.addEventListener('scroll', function() {
+    if (window.scrollY > 100) {
+        navWrap.style.backgroundColor = '#000';
+    } else {
+        navWrap.style.backgroundColor = 'transparent';
+    }
+    })
+}
+</script>

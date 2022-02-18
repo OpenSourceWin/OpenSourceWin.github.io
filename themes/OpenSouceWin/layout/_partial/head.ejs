@@ -1,0 +1,69 @@
+<head>
+
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <!--Description-->
+
+    <%
+    var description = '';
+    if (page.description) {
+        description = page.description;
+    } else if (config.description) {
+        description = config.description;
+    } else if (page.excerpt) {
+        description = strip_html(page.excerpt).replace(/^\s*/, '').replace(/\s*$/, '');
+    } else if (page.content) {
+        description = strip_html(page.content).replace(/^\s*/, '').replace(/\s*$/, '').substring(0, 150);
+    }
+    %>
+
+    <% if (description) { %>
+        <meta name="description" content="<%= description %>"/>
+    <% } %>
+
+    <!--Author-->
+    <% if (config.author) { %>
+        <meta name="author" content="<%= config.author %>"/>
+    <% } %>
+
+    <!--Open Graph Title-->
+    <% if (page.title) { %>
+        <meta property="og:title" content="<%= page.title %>"/>
+    <% } else { %>
+        <meta property="og:title" content="<%= config.title %>"/>
+    <% } %>
+
+    <!--Open Graph Description-->
+    <% if (description) { %>
+        <meta property="og:description" content="<%= description %>"/>
+    <% } %>
+
+    <!--Open Graph Site Name-->
+        <meta property="og:site_name" content="<%= config.title %>"/>
+
+    <!--Type page-->
+    <% if(page.title) { %>
+        <meta property="og:type" content="article"/>
+    <% } else { %>
+        <meta property="og:type" content="website"/>
+    <% } %>
+
+    <!-- Title -->
+    <%
+    var title = [];
+    if (page.current > 1) title.push(__('page', page.current));
+    if (page.title) title.push(page.title);
+    if (page.category) title.push(page.category);
+    if (page.tag) title.push(page.tag);
+    if (page.archive) {
+        if (page.year) title.push(__('archive_b', page.year + (page.month ? '/' + page.month : '')));
+        else title.push(__('archive_a'));
+    }
+    title.push(config.title);
+    %>
+    <title><%= title.join(' - ') %></title>
+
+    <%- css('css/index.css') %>
+</head>
