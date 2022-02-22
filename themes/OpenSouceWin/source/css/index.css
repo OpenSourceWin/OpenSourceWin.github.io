@@ -1,7 +1,11 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: PingFangSC, PingFangSC-Regular;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   padding-bottom: 80px;
 }
 img {
@@ -74,10 +78,15 @@ a {
 
 .text {
   font-size: 16px;
-  text-align: center;
   color: #3a3a3a;
   margin-top: 40px;
   line-height: 28px;
+  display: flex;
+  justify-content: center;
+}
+
+.text > * {
+  max-width: 760px;
 }
 
 .user-list {
