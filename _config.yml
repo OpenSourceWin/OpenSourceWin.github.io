@@ -103,3 +103,15 @@ theme: OpenSouceWin
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+asset_pipeline:
+  revisioning:
+    enable: true
+  clean_css:
+    enable: true
+  uglify_js:
+    enable: true
+  imagemin:
+    enable: true
+  html_minifier:
+    enable: true
