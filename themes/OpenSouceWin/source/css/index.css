@@ -161,7 +161,7 @@ a {
 .thumbnail2 {
   flex: none;
   width: 350px;
-  height: auto;
+  height: 100%;
   background: #d8d8d8;
   margin-right: 62px;
 }
@@ -170,6 +170,9 @@ a {
   margin-top: 30px;
   font-size: 16px;
   color: #3a3a3a;
+}
+.detail-right2 a {
+  color: #33a3dc;
 }
 .nick2 {
   font-size: 24px;
