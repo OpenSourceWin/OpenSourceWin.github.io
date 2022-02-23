@@ -1,9 +1,8 @@
 ---
 title: hsluoyz
 description: Beijing
-github_id: 3787410
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/hsluoyz)
 

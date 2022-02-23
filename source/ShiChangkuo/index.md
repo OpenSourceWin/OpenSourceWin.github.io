@@ -1,9 +1,8 @@
 ---
 title: ShiChangkuo
 description: Beijing, China
-github_id: 55725251
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/ShiChangkuo)
 

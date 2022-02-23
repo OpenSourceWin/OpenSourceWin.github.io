@@ -1,9 +1,8 @@
 ---
 title: littletomatodonkey
 description: Shanghai, China
-github_id: 14270174
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/littletomatodonkey)
 

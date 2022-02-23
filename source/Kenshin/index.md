@@ -1,10 +1,9 @@
 ---
 title: Kenshin
 description: China
-github_id: 81074
+avatar: avatar.png
 ---
 
-王磊:, 独立开发者，全栈工程师，Chrome 扩展：简悦、简 Tab 以及 gnvm 作者。
 [GitHub 主页](https://github.com/Kenshin)
 
 ### 主要贡献项目

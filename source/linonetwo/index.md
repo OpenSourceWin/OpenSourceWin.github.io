@@ -1,10 +1,9 @@
 ---
 title: linonetwo
 description: ShanghaiTech University
-github_id: 3746270
+avatar: avatar.png
 ---
 
-林一二 - 字节跳动
 [GitHub 主页](https://github.com/linonetwo)
 
 ### 主要贡献项目

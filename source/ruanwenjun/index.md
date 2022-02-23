@@ -1,10 +1,9 @@
 ---
 title: ruanwenjun
 description: Shanghai China
-github_id: 22415594
+avatar: avatar.png
 ---
 
-未知
 [GitHub 主页](https://github.com/ruanwenjun)
 
 ### 主要贡献项目

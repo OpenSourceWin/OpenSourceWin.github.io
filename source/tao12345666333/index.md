@@ -1,10 +1,9 @@
 ---
 title: tao12345666333
 description: Beijing
-github_id: 3264292
+avatar: avatar.png
 ---
 
-张晋涛 开源先锋 33 人
 [GitHub 主页](https://github.com/tao12345666333)
 
 ### 主要贡献项目

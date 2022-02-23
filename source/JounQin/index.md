@@ -1,9 +1,8 @@
 ---
 title: JounQin
 description: Nanjing, Jiangsu, PRC
-github_id: 8336744
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/JounQin)
 

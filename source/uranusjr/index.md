@@ -1,9 +1,8 @@
 ---
 title: uranusjr
 description: Taipei, Taiwan
-github_id: 605277
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/uranusjr)
 

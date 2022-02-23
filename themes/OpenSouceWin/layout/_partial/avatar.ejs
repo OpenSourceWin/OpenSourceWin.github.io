@@ -1,7 +1,7 @@
 <%
     var image = '';
     if (item.avatar) {
-        image = config.root + item.avatar;
+        image = config.root + item.title + '/' + item.avatar;
     } else if (item.github_id) {
         image = 'https://avatars.githubusercontent.com/u/' + item.github_id;
     } else if (config.cover) {

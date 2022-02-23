@@ -1,10 +1,9 @@
 ---
 title: cipchk
 description: shanghai, china
-github_id: 2987467
+avatar: avatar.png
 ---
 
-ngx 贡献者
 [GitHub 主页](https://github.com/cipchk)
 
 ### 主要贡献项目

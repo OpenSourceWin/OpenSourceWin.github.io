@@ -1,10 +1,9 @@
 ---
 title: yihong0618
 description: China
-github_id: 15976103
+avatar: avatar.png
 ---
 
-伊洪 https://www.ximalaya.com/sound/474215643
 [GitHub 主页](https://github.com/yihong0618)
 
 ### 主要贡献项目

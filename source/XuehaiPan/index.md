@@ -1,9 +1,8 @@
 ---
 title: XuehaiPan
 description: Peking University, Beijing
-github_id: 16078332
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/XuehaiPan)
 

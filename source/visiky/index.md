@@ -1,9 +1,8 @@
 ---
 title: visiky
 description: HANGZHOU (杭州)
-github_id: 15646325
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/visiky)
 

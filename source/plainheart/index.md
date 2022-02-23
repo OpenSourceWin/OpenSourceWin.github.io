@@ -1,9 +1,8 @@
 ---
 title: plainheart
 description: Zhengzhou, China
-github_id: 26999792
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/plainheart)
 

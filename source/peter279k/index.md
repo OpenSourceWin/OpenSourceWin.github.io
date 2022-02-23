@@ -1,9 +1,8 @@
 ---
 title: peter279k
 description: Taipei, Taiwan
-github_id: 9021747
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/peter279k)
 

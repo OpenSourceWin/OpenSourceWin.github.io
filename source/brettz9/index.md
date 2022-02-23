@@ -1,9 +1,8 @@
 ---
 title: brettz9
 description: Shenzhen, China
-github_id: 20234
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/brettz9)
 

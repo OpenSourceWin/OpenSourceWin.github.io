@@ -1,10 +1,9 @@
 ---
 title: sy-records
 description: Xi'an, China
-github_id: 33931153
+avatar: avatar.png
 ---
 
-沈唁 - 鲁飞
 [GitHub 主页](https://github.com/sy-records)
 
 ### 主要贡献项目

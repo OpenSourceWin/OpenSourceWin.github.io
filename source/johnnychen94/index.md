@@ -1,10 +1,9 @@
 ---
 title: johnnychen94
 description: Shanghai, China
-github_id: 8684355
+avatar: avatar.png
 ---
 
-华东师大数学博士在读
 [GitHub 主页](https://github.com/johnnychen94)
 
 ### 主要贡献项目

@@ -1,9 +1,8 @@
 ---
 title: CarGuo
 description: China 广东 珠海
-github_id: 10770362
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/CarGuo)
 

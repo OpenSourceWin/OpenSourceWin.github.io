@@ -1,9 +1,8 @@
 ---
 title: vinceliuice
 description: PingXiang / JiangXi / China
-github_id: 7604295
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/vinceliuice)
 

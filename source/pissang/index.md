@@ -1,10 +1,9 @@
 ---
 title: pissang
 description: Shanghai, China
-github_id: 841551
+avatar: avatar.png
 ---
 
-百度
 [GitHub 主页](https://github.com/pissang)
 
 ### 主要贡献项目

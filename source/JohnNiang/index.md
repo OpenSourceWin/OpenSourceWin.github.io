@@ -1,10 +1,9 @@
 ---
 title: JohnNiang
 description: Code world
-github_id: 16865714
+avatar: avatar.png
 ---
 
-张亮-KubeSphere
 [GitHub 主页](https://github.com/JohnNiang)
 
 ### 主要贡献项目

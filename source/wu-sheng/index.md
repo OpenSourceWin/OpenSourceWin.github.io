@@ -1,10 +1,9 @@
 ---
 title: wu-sheng
 description: Beijing(China), SF(US)
-github_id: 5441976
+avatar: avatar.png
 ---
 
-吴晟
 [GitHub 主页](https://github.com/wu-sheng)
 
 ### 主要贡献项目

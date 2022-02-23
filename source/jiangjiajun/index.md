@@ -1,9 +1,8 @@
 ---
 title: jiangjiajun
 description: Beijing
-github_id: 19339784
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/jiangjiajun)
 

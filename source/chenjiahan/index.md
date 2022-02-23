@@ -1,10 +1,9 @@
 ---
 title: chenjiahan
 description: Hangzhou, China
-github_id: 7237365
+avatar: avatar.png
 ---
 
-陈嘉涵 - 有赞 Vant
 [GitHub 主页](https://github.com/chenjiahan)
 
 ### 主要贡献项目

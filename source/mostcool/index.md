@@ -1,9 +1,8 @@
 ---
 title: mostcool
 description: HuBei.WuHan
-github_id: 2172570
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/mostcool)
 

@@ -1,10 +1,9 @@
 ---
 title: geffzhang
 description: Shenzhen,China
-github_id: 439390
+avatar: avatar.png
 ---
 
-张善友，友浩达科技 CTO，微软最有价值专家MVP、腾讯云TVP、华为云MVP
 [GitHub 主页](https://github.com/geffzhang)
 
 ### 主要贡献项目

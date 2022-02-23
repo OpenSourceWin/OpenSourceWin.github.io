@@ -1,9 +1,8 @@
 ---
 title: lotem
 description: Beijing, China
-github_id: 151157
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/lotem)
 

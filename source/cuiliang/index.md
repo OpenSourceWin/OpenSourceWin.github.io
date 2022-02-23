@@ -1,9 +1,8 @@
 ---
 title: cuiliang
 description: BeiJing
-github_id: 1972649
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/cuiliang)
 

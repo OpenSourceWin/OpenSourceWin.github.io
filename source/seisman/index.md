@@ -1,10 +1,9 @@
 ---
 title: seisman
 description: Wuhan, China
-github_id: 3974108
+avatar: avatar.png
 ---
 
-男，90年生，USTC地球物理学博士
 [GitHub 主页](https://github.com/seisman)
 
 ### 主要贡献项目

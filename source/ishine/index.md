@@ -1,9 +1,8 @@
 ---
 title: ishine
 description: shanghai
-github_id: 2246101
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/ishine)
 

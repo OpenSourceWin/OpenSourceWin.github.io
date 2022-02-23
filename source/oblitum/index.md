@@ -1,9 +1,8 @@
 ---
 title: oblitum
 description: 無
-github_id: 1269815
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/oblitum)
 

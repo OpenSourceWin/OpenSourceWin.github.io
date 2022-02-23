@@ -1,9 +1,8 @@
 ---
 title: zhenglaizhang
 description: Shanghai China
-github_id: 1740859
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/zhenglaizhang)
 

@@ -1,10 +1,9 @@
 ---
 title: 88250
 description: Kunming, China
-github_id: 873584
+avatar: avatar.png
 ---
 
-B3lo、思源笔记作者
 [GitHub 主页](https://github.com/88250)
 
 ### 主要贡献项目

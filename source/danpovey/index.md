@@ -1,10 +1,9 @@
 ---
 title: danpovey
 description: Beijing
-github_id: 3298747
+avatar: avatar.png
 ---
 
-小米
 [GitHub 主页](https://github.com/danpovey)
 
 ### 主要贡献项目

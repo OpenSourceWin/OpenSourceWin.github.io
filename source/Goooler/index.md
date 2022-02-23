@@ -1,9 +1,8 @@
 ---
 title: Goooler
 description: Chengdu, China
-github_id: 10363352
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/Goooler)
 

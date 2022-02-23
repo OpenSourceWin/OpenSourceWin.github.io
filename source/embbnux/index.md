@@ -1,9 +1,8 @@
 ---
 title: embbnux
 description: Xiamen, China
-github_id: 7036536
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/embbnux)
 

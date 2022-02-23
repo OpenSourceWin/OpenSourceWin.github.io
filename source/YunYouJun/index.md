@@ -1,10 +1,9 @@
 ---
 title: YunYouJun
 description: China
-github_id: 25154432
+avatar: avatar.png
 ---
 
-云游君
 [GitHub 主页](https://github.com/YunYouJun)
 
 ### 主要贡献项目

@@ -1,10 +1,9 @@
 ---
 title: ShixiangWang
 description: Guangzhou, China
-github_id: 25057508
+avatar: avatar.png
 ---
 
-王诗翔
 [GitHub 主页](https://github.com/ShixiangWang)
 
 ### 主要贡献项目

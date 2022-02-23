@@ -1,9 +1,8 @@
 ---
 title: Sciroccogti
 description: Suzhou, Jiangsu Province, China
-github_id: 32357397
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/Sciroccogti)
 

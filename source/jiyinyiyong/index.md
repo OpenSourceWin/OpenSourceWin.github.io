@@ -1,9 +1,8 @@
 ---
 title: jiyinyiyong
 description: Shanghai, China
-github_id: 449224
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/jiyinyiyong)
 

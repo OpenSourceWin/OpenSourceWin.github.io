@@ -1,9 +1,8 @@
 ---
 title: horizonzy
 description: Chengdu, China
-github_id: 22524871
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/horizonzy)
 

@@ -1,9 +1,8 @@
 ---
 title: SekiBetu
 description: Hangzhou, Zhejiang, China
-github_id: 38283893
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/SekiBetu)
 

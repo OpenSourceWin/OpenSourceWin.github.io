@@ -1,10 +1,9 @@
 ---
 title: ruibaby
 description: Chengdu, China
-github_id: 21301288
+avatar: avatar.png
 ---
 
-FIT2CLOUD 飞致云旗下 Halo 项目（https://github.com/halo-dev/halo）负责人汪瑞原账号
 [GitHub 主页](https://github.com/ruibaby)
 
 ### 主要贡献项目

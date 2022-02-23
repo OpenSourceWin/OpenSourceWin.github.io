@@ -1,9 +1,8 @@
 ---
 title: aszx87410
 description: Taipei, Taiwan
-github_id: 2755720
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/aszx87410)
 

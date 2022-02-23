@@ -1,9 +1,8 @@
 ---
 title: CMingTseng
 description: Taipei
-github_id: 7948140
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/CMingTseng)
 

@@ -1,9 +1,8 @@
 ---
 title: tingyanshen
 description: Wuxi ⇄ AnHui, China
-github_id: 81901872
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/tingyanshen)
 

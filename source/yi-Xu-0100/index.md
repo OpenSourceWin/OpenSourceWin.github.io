@@ -1,9 +1,8 @@
 ---
 title: yi-Xu-0100
 description: China
-github_id: 25523606
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/yi-Xu-0100)
 

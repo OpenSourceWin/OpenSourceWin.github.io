@@ -1,10 +1,9 @@
 ---
 title: AlexV525
 description: Shanghai, China.
-github_id: 15884415
+avatar: avatar.png
 ---
 
-flutter
 [GitHub 主页](https://github.com/AlexV525)
 
 ### 主要贡献项目

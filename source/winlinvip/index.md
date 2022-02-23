@@ -1,9 +1,8 @@
 ---
 title: winlinvip
 description: beijing
-github_id: 2777660
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/winlinvip)
 

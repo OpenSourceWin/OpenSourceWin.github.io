@@ -1,10 +1,9 @@
 ---
 title: juzhiyuan
 description: China
-github_id: 2106987
+avatar: avatar.png
 ---
 
-琚致远 APISIX
 [GitHub 主页](https://github.com/juzhiyuan)
 
 ### 主要贡献项目

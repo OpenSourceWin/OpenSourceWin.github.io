@@ -1,9 +1,8 @@
 ---
 title: ClayGao
 description: Taiwan
-github_id: 48955965
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/ClayGao)
 

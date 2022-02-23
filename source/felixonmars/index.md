@@ -1,10 +1,9 @@
 ---
 title: felixonmars
 description: Wuhan, Hubei, China
-github_id: 1006477
+avatar: avatar.png
 ---
 
-https://twitter.com/felixonmars
 [GitHub 主页](https://github.com/felixonmars)
 
 ### 主要贡献项目

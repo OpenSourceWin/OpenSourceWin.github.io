@@ -1,9 +1,8 @@
 ---
 title: haizhilin2013
 description: ShenZhen, China
-github_id: 5070345
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/haizhilin2013)
 

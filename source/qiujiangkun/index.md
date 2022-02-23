@@ -1,9 +1,8 @@
 ---
 title: qiujiangkun
 description: Hong Kong, China
-github_id: 33482468
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/qiujiangkun)
 

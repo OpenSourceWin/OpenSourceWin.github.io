@@ -1,10 +1,9 @@
 ---
 title: kezhenxu94
 description: China
-github_id: 15965696
+avatar: avatar.png
 ---
 
-柯振旭
 [GitHub 主页](https://github.com/kezhenxu94)
 
 ### 主要贡献项目

@@ -1,10 +1,9 @@
 ---
 title: xrkffgg
 description: Beijing, China
-github_id: 29775873
+avatar: avatar.png
 ---
 
-元凛 - 蚂蚁
 [GitHub 主页](https://github.com/xrkffgg)
 
 ### 主要贡献项目

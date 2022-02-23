@@ -1,10 +1,9 @@
 ---
 title: spacewander
 description: Guangzhou,China
-github_id: 4161644
+avatar: avatar.png
 ---
 
-罗泽轩 - APISIX
 [GitHub 主页](https://github.com/spacewander)
 
 ### 主要贡献项目

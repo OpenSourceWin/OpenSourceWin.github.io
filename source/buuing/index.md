@@ -1,9 +1,8 @@
 ---
 title: buuing
 description: 北京
-github_id: 36689704
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/buuing)
 

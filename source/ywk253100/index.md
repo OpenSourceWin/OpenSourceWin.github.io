@@ -1,9 +1,8 @@
 ---
 title: ywk253100
 description: Beijing, China
-github_id: 5835782
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/ywk253100)
 

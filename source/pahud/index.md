@@ -1,9 +1,8 @@
 ---
 title: pahud
 description: Taipei
-github_id: 278432
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/pahud)
 

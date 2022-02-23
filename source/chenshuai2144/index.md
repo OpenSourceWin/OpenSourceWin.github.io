@@ -1,10 +1,9 @@
 ---
 title: chenshuai2144
 description: 浙江杭州
-github_id: 8186664
+avatar: avatar.png
 ---
 
-期贤（陈帅） - 蚂蚁
 [GitHub 主页](https://github.com/chenshuai2144)
 
 ### 主要贡献项目

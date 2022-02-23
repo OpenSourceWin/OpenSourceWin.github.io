@@ -1,9 +1,8 @@
 ---
 title: utzcoz
 description: Beijing, China
-github_id: 43091780
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/utzcoz)
 

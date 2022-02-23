@@ -1,9 +1,8 @@
 ---
 title: jiasli
 description: Shanghai, China
-github_id: 4003950
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/jiasli)
 

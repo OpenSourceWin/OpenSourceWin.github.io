@@ -1,10 +1,9 @@
 ---
 title: limingxinleo
 description: 上海
-github_id: 16648551
+avatar: avatar.png
 ---
 
-李铭昕
 [GitHub 主页](https://github.com/limingxinleo)
 
 ### 主要贡献项目

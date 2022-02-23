@@ -1,9 +1,8 @@
 ---
 title: rxliuli
 description: Beijing
-github_id: 24560368
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/rxliuli)
 

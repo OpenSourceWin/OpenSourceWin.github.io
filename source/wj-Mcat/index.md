@@ -1,10 +1,9 @@
 ---
 title: wj-Mcat
 description: Beijing
-github_id: 10242208
+avatar: avatar.png
 ---
 
-百度
 [GitHub 主页](https://github.com/wj-Mcat)
 
 ### 主要贡献项目

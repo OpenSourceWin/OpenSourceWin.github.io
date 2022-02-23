@@ -1,9 +1,8 @@
 ---
 title: binarywang
 description: China
-github_id: 1343140
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/binarywang)
 

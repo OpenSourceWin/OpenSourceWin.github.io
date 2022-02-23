@@ -1,9 +1,8 @@
 ---
 title: GiggleLiu
 description: Beijing, China
-github_id: 6257240
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/GiggleLiu)
 

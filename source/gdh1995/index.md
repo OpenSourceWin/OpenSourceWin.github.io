@@ -1,9 +1,8 @@
 ---
 title: gdh1995
 description: Beijing, China
-github_id: 5547703
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/gdh1995)
 

@@ -1,10 +1,9 @@
 ---
 title: tisonkun
 description: Guangzhou
-github_id: 18818196
+avatar: avatar.png
 ---
 
-tison
 [GitHub 主页](https://github.com/tisonkun)
 
 ### 主要贡献项目

@@ -1,10 +1,9 @@
 ---
 title: getActivity
 description: Guangzhou,China
-github_id: 28616817
+avatar: avatar.png
 ---
 
-Android轮子哥
 [GitHub 主页](https://github.com/getActivity)
 
 ### 主要贡献项目

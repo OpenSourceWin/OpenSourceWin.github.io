@@ -1,10 +1,9 @@
 ---
 title: iChenLei
 description: Shanghai China
-github_id: 14012511
+avatar: avatar.png
 ---
 
-@mobxjs @less @stylus 拼多多
 [GitHub 主页](https://github.com/iChenLei)
 
 ### 主要贡献项目

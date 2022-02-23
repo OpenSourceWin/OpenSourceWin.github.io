@@ -1,10 +1,9 @@
 ---
 title: njzjz
 description: Nanjing, China
-github_id: 9496702
+avatar: avatar.png
 ---
 
-曾晋哲 - Rutgers 化学博士在读
 [GitHub 主页](https://github.com/njzjz)
 
 ### 主要贡献项目

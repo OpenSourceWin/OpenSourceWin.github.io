@@ -1,7 +1,7 @@
 ---
 title: LinuxSuRen
 description: China
-github_id: 1450685
+avatar: avatar.png
 ---
 
 Rick - 程序员，业余开源布道者

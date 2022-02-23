@@ -1,10 +1,9 @@
 ---
 title: afc163
 description: Hangzhou, China
-github_id: 507615
+avatar: avatar.png
 ---
 
-偏右 - 蚂蚁
 [GitHub 主页](https://github.com/afc163)
 
 ### 主要贡献项目

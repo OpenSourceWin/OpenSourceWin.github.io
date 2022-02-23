@@ -1,10 +1,9 @@
 ---
 title: mysterywolf
 description: Shenyang, China | Windsor, Canada
-github_id: 34888354
+avatar: avatar.png
 ---
 
-RT-Thread
 [GitHub 主页](https://github.com/mysterywolf)
 
 ### 主要贡献项目

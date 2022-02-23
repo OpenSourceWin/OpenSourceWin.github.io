@@ -1,9 +1,8 @@
 ---
 title: dadiorchen
 description: Beijing, China
-github_id: 5744708
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/dadiorchen)
 

@@ -1,10 +1,9 @@
 ---
 title: waruqi
 description: Shanghai, China
-github_id: 151335
+avatar: avatar.png
 ---
 
-xmake&tbox作者
 [GitHub 主页](https://github.com/waruqi)
 
 ### 主要贡献项目

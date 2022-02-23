@@ -1,9 +1,8 @@
 ---
 title: aviraxp
 description: Beijing, China
-github_id: 18079988
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/aviraxp)
 

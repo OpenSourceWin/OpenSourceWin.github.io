@@ -1,10 +1,9 @@
 ---
 title: hi-rustin
 description: China
-github_id: 29879298
+avatar: avatar.png
 ---
 
-疑为 PingCap 员工
 [GitHub 主页](https://github.com/hi-rustin)
 
 ### 主要贡献项目

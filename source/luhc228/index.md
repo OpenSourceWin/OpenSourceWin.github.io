@@ -1,9 +1,8 @@
 ---
 title: luhc228
 description: Hangzhou, China
-github_id: 44047106
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/luhc228)
 

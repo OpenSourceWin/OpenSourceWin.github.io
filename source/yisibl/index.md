@@ -1,9 +1,8 @@
 ---
 title: yisibl
 description: China
-github_id: 2784308
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/yisibl)
 

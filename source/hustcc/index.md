@@ -1,9 +1,8 @@
 ---
 title: hustcc
 description: HangZhou, China
-github_id: 7856674
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/hustcc)
 

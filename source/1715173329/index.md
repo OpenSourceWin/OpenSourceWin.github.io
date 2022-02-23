@@ -1,10 +1,9 @@
 ---
 title: 1715173329
 description: Chongqing, China
-github_id: 22235437
+avatar: avatar.png
 ---
 
-沈天灵
 [GitHub 主页](https://github.com/1715173329)
 
 ### 主要贡献项目

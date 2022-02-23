@@ -1,9 +1,8 @@
 ---
 title: messense
 description: Shanghai, China
-github_id: 1556054
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/messense)
 

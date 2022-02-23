@@ -1,9 +1,8 @@
 ---
 title: LaoshuBaby
 description: Changping District,Beijing,China
-github_id: 42690037
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/LaoshuBaby)
 

@@ -1,10 +1,9 @@
 ---
 title: skyzh
 description: Shanghai, China
-github_id: 4198311
+avatar: avatar.png
 ---
 
-张迟 - 上海交大、TiKV
 [GitHub 主页](https://github.com/skyzh)
 
 ### 主要贡献项目

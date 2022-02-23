@@ -1,9 +1,8 @@
 ---
 title: andyzhangx
 description: Shanghai
-github_id: 4178417
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/andyzhangx)
 

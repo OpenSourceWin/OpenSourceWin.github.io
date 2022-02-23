@@ -1,9 +1,8 @@
 ---
 title: JBA-Khalifa
 description: Shandong, China
-github_id: 15086345
+avatar: avatar.png
 ---
-
 
 [GitHub 主页](https://github.com/JBA-Khalifa)
 
