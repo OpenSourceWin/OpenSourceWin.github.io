@@ -19,19 +19,10 @@
 </div>
 <!-- 詳情 -->
 <div class="container detail2">
-    <%
-        var image = '';
-        if (item.avatar) {
-            image = item.avatar;
-        } else if (config.cover) {
-            image = config.cover;
-        }
-    %>
-    <% if (image) { %>
-        <img src="<%= config.root %><%= image %>" alt="<%- item.title %>" class="thumbnail2">
-    <% } %>
+    <%- partial('avatar', {item: item}) %>
     <div class="detail-right2">
         <div class="nick2"><%- item.title %></div>
+        <div class="desc"><%- item.description %></div>
         <div>
             <%- item.content %>
         </div>

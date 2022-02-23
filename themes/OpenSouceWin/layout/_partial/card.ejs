@@ -1,15 +1,5 @@
 <a class="user-item" href="<%- config.root %><%- item.path %>">
-    <%
-        var image = '';
-        if (item.avatar) {
-            image = item.avatar;
-        } else if (config.cover) {
-            image = config.cover;
-        }
-    %>
-    <% if (image) { %>
-        <img src="<%= config.root %><%= image %>" alt="<%- item.title %>" class="avatar">
-    <% } %>
+    <%- partial('avatar', {item: item}) %>
     <div class="nickname"><%- item.title %></div>
     <% if (item.description) { %>
     <div class="description"><%- item.description %></div>

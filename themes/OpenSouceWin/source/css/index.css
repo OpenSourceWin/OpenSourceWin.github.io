@@ -47,7 +47,6 @@ a {
 .nav-item {
   padding: 8px 10px;
   font-weight: 500;
-  font-family: PingFangSC, PingFangSC-Medium;
 }
 .mr-50 {
   margin-right: 50px;
@@ -117,7 +116,6 @@ a {
 }
 .nickname {
   font-size: 24px;
-  font-family: PingFangSC, PingFangSC-Medium;
   font-weight: 500;
   text-align: center;
   color: #3a3a3a;
@@ -158,7 +156,7 @@ a {
   display: flex;
 }
 
-.thumbnail2 {
+.detail2 .avatar {
   flex: none;
   width: 350px;
   height: 100%;
@@ -167,19 +165,28 @@ a {
 }
 .detail-right2 {
   max-width:  544px;
-  margin-top: 30px;
   font-size: 16px;
   color: #3a3a3a;
 }
+
+.detail-right2 {
+  line-height: 1.6em;
+}
+
 .detail-right2 a {
-  color: #33a3dc;
+  color: #0969da;
 }
 .nick2 {
   font-size: 24px;
-  font-family: PingFangSC, PingFangSC-Medium;
   font-weight: 500;
-  margin-bottom: 40px;
 }
+
+.desc {
+  font-size: 14px;
+  margin-bottom: 40px;
+  color: #777;
+}
+
 @media (max-width: 760px) and (min-width: 53px)   {
   .header2 {
     padding: 80px 0 60px;
@@ -192,10 +199,9 @@ a {
     width: 216px;
     height: 261px;
   }
-  .thumbnail2 {
+  .detail2 .avatar {
     width: 220px;
   }
- 
 }
 
 @media (max-width: 540px)  {
@@ -227,7 +233,7 @@ a {
     display: block;
   }
 
-  .thumbnail2 {
+  .detail2 .avatar {
     width: 150px;
     margin-right: 0px;
   }
@@ -235,7 +241,7 @@ a {
     margin-top: 16px;
     font-size: 16px;
   }
-  .nick2 {
+  .desc {
     margin-bottom: 12px;
   }
 }
