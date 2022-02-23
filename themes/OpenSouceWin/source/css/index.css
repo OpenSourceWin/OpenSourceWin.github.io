@@ -272,6 +272,9 @@ a {
   .header {
     padding: 80px 0 80px;
   }
+  .logo {
+    display: none;
+  }
   .container {
     padding: 0 15px;
   }
