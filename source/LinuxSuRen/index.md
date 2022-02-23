@@ -4,18 +4,17 @@ description: China
 github_id: 1450685
 ---
 
-Rick 赵晓杰 - Jenkins
+Rick - 程序员，业余开源布道者
 [GitHub 主页](https://github.com/LinuxSuRen)
 
 ### 主要贡献项目
 
 * <https://github.com/kubesphere/ks-devops>
 * <https://github.com/kubesphere/kubesphere>
-* <https://github.com/kubesphere-sigs/ks>
-* <https://github.com/LinuxSuRen/hd-home>
+* <https://github.com/linuxsuren/goplay>
+* <https://github.com/LinuxSuRen/open-source-best-practice>
+* <https://github.com/opensource-f2f/episode>
 * <https://github.com/LinuxSuRen/http-downloader>
-* <https://github.com/kubesphere/console>
-* <https://github.com/kubesphere/ks-installer>
+* <https://github.com/linuxsuren/goplay>
+* <https://github.com/LinuxSuRen/remote-jobs-in-china>
 * <https://github.com/jenkins-zh/jenkins-cli>
-* <https://github.com/kubesphere/website>
-* <https://github.com/kubesphere/community>
