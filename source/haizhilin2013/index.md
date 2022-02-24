@@ -2,6 +2,7 @@
 title: haizhilin2013
 description: ShenZhen, China
 avatar: avatar.png
+ranking: 36
 ---
 
 [GitHub 主页](https://github.com/haizhilin2013)

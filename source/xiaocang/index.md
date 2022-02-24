@@ -2,6 +2,7 @@
 title: xiaocang
 description: China, Shenzhen
 avatar: avatar.png
+ranking: 47
 ---
 
 [GitHub 主页](https://github.com/xiaocang)

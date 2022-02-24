@@ -2,6 +2,7 @@
 title: Yurunsoft
 description: China JiangSu WuXi
 avatar: avatar.png
+ranking: 64
 ---
 
 [GitHub 主页](https://github.com/Yurunsoft)

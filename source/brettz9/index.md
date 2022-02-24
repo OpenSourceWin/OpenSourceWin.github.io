@@ -2,6 +2,7 @@
 title: brettz9
 description: Shenzhen, China
 avatar: avatar.png
+ranking: 97
 ---
 
 [GitHub 主页](https://github.com/brettz9)

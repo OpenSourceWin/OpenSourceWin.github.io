@@ -2,6 +2,7 @@
 title: SekiBetu
 description: Hangzhou, Zhejiang, China
 avatar: avatar.png
+ranking: 33
 ---
 
 [GitHub 主页](https://github.com/SekiBetu)

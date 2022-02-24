@@ -2,6 +2,7 @@
 title: yi-Xu-0100
 description: China
 avatar: avatar.png
+ranking: 44
 ---
 
 [GitHub 主页](https://github.com/yi-Xu-0100)

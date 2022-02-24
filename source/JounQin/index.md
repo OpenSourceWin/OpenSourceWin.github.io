@@ -2,6 +2,7 @@
 title: JounQin
 description: Nanjing, Jiangsu, PRC
 avatar: avatar.png
+ranking: 95
 ---
 
 [GitHub 主页](https://github.com/JounQin)

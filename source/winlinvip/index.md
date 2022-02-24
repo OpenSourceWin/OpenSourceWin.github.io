@@ -2,6 +2,7 @@
 title: winlinvip
 description: beijing
 avatar: avatar.png
+ranking: 70
 ---
 
 [GitHub 主页](https://github.com/winlinvip)

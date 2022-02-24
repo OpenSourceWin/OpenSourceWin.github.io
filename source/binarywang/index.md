@@ -2,6 +2,7 @@
 title: binarywang
 description: China
 avatar: avatar.png
+ranking: 92
 ---
 
 [GitHub 主页](https://github.com/binarywang)

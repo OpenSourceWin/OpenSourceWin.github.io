@@ -2,6 +2,7 @@
 title: getActivity
 description: Guangzhou,China
 avatar: avatar.png
+ranking: 58
 ---
 
 [GitHub 主页](https://github.com/getActivity)

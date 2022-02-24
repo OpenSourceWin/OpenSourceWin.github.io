@@ -2,6 +2,7 @@
 title: wj-Mcat
 description: Beijing
 avatar: avatar.png
+ranking: 62
 ---
 
 [GitHub 主页](https://github.com/wj-Mcat)

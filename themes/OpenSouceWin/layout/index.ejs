@@ -35,7 +35,7 @@
     <div class="list" id="detail">
         <div class="title">榜单详情</div>
         <div class="user-list">
-            <% site.pages.each(function(item){ %>
+            <% site.pages.sort('ranking').each(function(item){ %>
                 <%- partial('_partial/card', {item: item}) %>
             <% }); %>
         </div>

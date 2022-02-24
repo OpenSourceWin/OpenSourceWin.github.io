@@ -2,6 +2,7 @@
 title: horizonzy
 description: Chengdu, China
 avatar: avatar.png
+ranking: 50
 ---
 
 [GitHub 主页](https://github.com/horizonzy)

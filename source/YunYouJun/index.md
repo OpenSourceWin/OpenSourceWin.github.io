@@ -2,6 +2,7 @@
 title: YunYouJun
 description: China
 avatar: avatar.png
+ranking: 35
 ---
 
 [GitHub 主页](https://github.com/YunYouJun)

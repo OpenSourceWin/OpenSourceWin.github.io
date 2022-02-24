@@ -2,6 +2,7 @@
 title: oblitum
 description: 無
 avatar: avatar.png
+ranking: 91
 ---
 
 [GitHub 主页](https://github.com/oblitum)

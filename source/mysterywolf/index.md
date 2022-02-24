@@ -2,6 +2,7 @@
 title: mysterywolf
 description: Shenyang, China | Windsor, Canada
 avatar: avatar.png
+ranking: 18
 ---
 
 [GitHub 主页](https://github.com/mysterywolf)

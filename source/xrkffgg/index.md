@@ -2,6 +2,7 @@
 title: xrkffgg
 description: Beijing, China
 avatar: avatar.png
+ranking: 9
 ---
 
 [GitHub 主页](https://github.com/xrkffgg)

@@ -2,6 +2,7 @@
 title: yihong0618
 description: China
 avatar: avatar.png
+ranking: 39
 ---
 
 [GitHub 主页](https://github.com/yihong0618)

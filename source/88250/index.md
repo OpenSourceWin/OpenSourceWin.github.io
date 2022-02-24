@@ -2,6 +2,7 @@
 title: 88250
 description: Kunming, China
 avatar: avatar.png
+ranking: 57
 ---
 
 [GitHub 主页](https://github.com/88250)

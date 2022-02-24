@@ -2,6 +2,7 @@
 title: zhenglaizhang
 description: Shanghai China
 avatar: avatar.png
+ranking: 1
 ---
 
 [GitHub 主页](https://github.com/zhenglaizhang)

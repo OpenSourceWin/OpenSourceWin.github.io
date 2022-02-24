@@ -2,6 +2,7 @@
 title: GiggleLiu
 description: Beijing, China
 avatar: avatar.png
+ranking: 71
 ---
 
 [GitHub 主页](https://github.com/GiggleLiu)

@@ -2,6 +2,7 @@
 title: aviraxp
 description: Beijing, China
 avatar: avatar.png
+ranking: 75
 ---
 
 [GitHub 主页](https://github.com/aviraxp)

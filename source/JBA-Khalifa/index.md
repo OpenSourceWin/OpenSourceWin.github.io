@@ -2,6 +2,7 @@
 title: JBA-Khalifa
 description: Shandong, China
 avatar: avatar.png
+ranking: 7
 ---
 
 [GitHub 主页](https://github.com/JBA-Khalifa)

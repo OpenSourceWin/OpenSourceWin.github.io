@@ -2,6 +2,7 @@
 title: andyzhangx
 description: Shanghai
 avatar: avatar.png
+ranking: 96
 ---
 
 [GitHub 主页](https://github.com/andyzhangx)

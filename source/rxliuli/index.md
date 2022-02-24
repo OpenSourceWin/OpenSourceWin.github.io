@@ -2,6 +2,7 @@
 title: rxliuli
 description: Beijing
 avatar: avatar.png
+ranking: 66
 ---
 
 [GitHub 主页](https://github.com/rxliuli)

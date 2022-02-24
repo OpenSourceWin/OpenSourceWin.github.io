@@ -2,6 +2,7 @@
 title: CaptainEven
 description: Wuhan, China
 avatar: avatar.png
+ranking: 85
 ---
 
 [GitHub 主页](https://github.com/CaptainEven)

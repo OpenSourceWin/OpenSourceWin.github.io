@@ -2,6 +2,7 @@
 title: aszx87410
 description: Taipei, Taiwan
 avatar: avatar.png
+ranking: 43
 ---
 
 [GitHub 主页](https://github.com/aszx87410)
