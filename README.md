@@ -56,4 +56,6 @@ avatar: <个人头像文件，下面会介绍>
 
 ## 榜单列表
 
-以下是一百位入选此次榜单的用户列表。
+以下是九十九位入选此次榜单的用户列表。
+
+[OpenSource.win](https://opensource.win/#detail)
