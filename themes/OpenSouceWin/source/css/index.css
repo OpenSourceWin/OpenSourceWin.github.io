@@ -21,14 +21,16 @@ a {
 }
 .header {
   padding: 180px 0 296px;
-  background-image: url('https://image-static.segmentfault.com/295/377/2953772069-620debe78b024');
+  background-image: url('../img/bg-index.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
 }
 .header2 {
   padding: 142px 0 85px;
-  background-image: url('https://image-static.segmentfault.com/312/736/3127362809-620e00014a4c5');
+  background-image: url('../img/bg-detail.png');
+  background-size: cover;
+  background-position: bottom;
 }
 .nav-wrap {
   width: 100%;
@@ -54,7 +56,7 @@ a {
 .head-title {
   width: 52%;
 } 
-.slogon {
+.slogan {
   font-size: 42px;
   color: #ffe2b2;
   margin-top: 30px;
@@ -63,7 +65,7 @@ a {
   width: 462px;
   height: 77px;
   font-size: 40px;
-  background-image: url('https://image-static.segmentfault.com/416/097/4160979020-620df4bad2ac3');
+  background-image: url('../img/bg-title.png');
   background-repeat: no-repeat;
   background-size: 100% 100%;
   text-align: center;
@@ -129,7 +131,7 @@ a {
   line-height: 20px;
 }
 /* detail css */
-.slogon2 {
+.slogan2 {
   font-size: 16px;
   color: #ffffff;
   line-height: 28px;
@@ -225,7 +227,7 @@ a {
     width: 130px;
     height: 156px;
   }
-  .slogon2 {
+  .slogan2 {
     margin-top: 20px;
     font-size: 15px;
   }
@@ -284,7 +286,7 @@ a {
   .head-title {
     width: 90%;
   }
-  .slogon {
+  .slogan {
     font-size: 24px;
   }
   .list {

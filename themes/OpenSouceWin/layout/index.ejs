@@ -3,9 +3,9 @@
     <%- partial('_partial/menu') %>
     <!-- 头部内容 -->
     <div class="container">
-        <img src="https://image-static.segmentfault.com/492/642/492642807-620df21e06242" alt="" class="head-title">
-        <div class="slogon">
-            开源 · 开放 · 起航
+        <%- image_tag('img/logo-title.png', {class: 'head-title', alt: 'logo'}) %>
+        <div class="slogan">
+            寻找中国的超级码力
         </div>
     </div>
 </div>
@@ -15,11 +15,7 @@
         <div class="title">中国开源码力榜</div>
 
         <div class="text">
-            <p>
-                中国开源码力榜，由 SegmentFault 思否、开源社、腾源会、X-lab 实验室等核心成员发起，
-                <br />
-                旨在完全通过 GitHub 开发者协作影响力进行排名、评选。
-            </p>
+            <%- partial('_partial/slogan') %>
         </div>
     </div>
 
@@ -31,6 +27,7 @@
                 <li>开发者影响力基于 GitHub 全域开发者活跃数据计算得到。</li>
                 <li>影响力计算使用了开发者与项目之间的活动关联与图算法计算获得。</li>
                 <li>计算影响力的基本主张为：更有影响力的开发者在 GitHub 上更加活跃、更有影响力的开发者更倾向于参与到更有影响力的项目中、更有影响力的项目会吸引到更多更有影响力的开发者参与。</li>
+                <li>开源码力榜仅收录来自中国的协作影响力排名前 99 位的开发者，开发者归属地主要依据其 GitHub 上公开的地理位置信息及志愿者手工标注辨别，如有错漏欢迎通过 pr@sifou.com 向我们提出，我们将及时修正。</li>
             </ol>
         </div>
     </div>
