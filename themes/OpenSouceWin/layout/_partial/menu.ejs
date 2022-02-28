@@ -1,23 +1,29 @@
 <!-- 导航 -->
-<nav class="navbar navbar-expand-lg navbar-light" id="navWrap">
-    <ul class="d-flex aling-items-center justify-content-center w-100 me-auto mb-0 sm-scroll">
-        <li  class="nav-item me-3">
-            <a href="/"  class="nav-link"><%= config.title %></a>
-        </li>
-      <li class="nav-item me-3">
-            <a href="<%= config.url %>#ranking" class="nav-link">榜单背景</a>
-      </li>
-      <li class="nav-item me-3">
-            <a href="<%= config.url %>#standard" class="nav-link">评选标准</a>
-      </li>
-      <li class="nav-item me-3">
-        <a href="<%= config.url %>#detail" class="nav-link">榜单详情</a>
-      </li>
-      <li class="nav-item me-3">
-        <a href="<%= config.url %>#partner" class="nav-link">合作伙伴</a>
-      </li>
-      <li class="nav-item">
-        <a href="https://github.com/opensourcewin" target="_blank" class="nav-link">GitHub</a>
-      </li>
-    </ul>
+<nav class="navbar navbar-expand-lg navbar-dark" id="navWrap">
+    <div class="container container-fluid">
+      <a class="navbar-brand" href="/"><%= config.title %></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-sm-end" id="navbarSupportedContent">
+        <ul class="navbar-nav mb-2 mb-lg-0">
+          <li class="nav-item">
+                <a href="<%= config.url %>#ranking" class="nav-link">榜单背景</a>
+          </li>
+          <li class="nav-item">
+                <a href="<%= config.url %>#standard" class="nav-link">评选标准</a>
+          </li>
+          <li class="nav-item">
+            <a href="<%= config.url %>#detail" class="nav-link">榜单详情</a>
+          </li>
+          <li class="nav-item">
+            <a href="<%= config.url %>#partner" class="nav-link">合作伙伴</a>
+          </li>
+          <li class="nav-item">
+            <a href="https://github.com/opensourcewin" target="_blank" class="nav-link">GitHub</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  
  </nav>

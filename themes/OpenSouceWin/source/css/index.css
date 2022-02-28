@@ -38,6 +38,11 @@ a {
   top: 0;
   left: 0;
   box-sizing: border-box;
+  background-color: #212529;
+}
+
+.navbar-brand {
+  font-size: 16px;
 }
 #navWrap a {
   color: #fff;
@@ -162,6 +167,8 @@ a {
   font-weight: 500;
   font-size: 40px;
   line-height: 48px;
+  word-break: break-word;
+  word-wrap:break-word
 }
 .detail-list> li {
   list-style: none;
