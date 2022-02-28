@@ -1,12 +1,23 @@
 <!-- 导航 -->
-<div class="nav-wrap" id="navWrap">
-    <div class="container nav">
-        <div class="logo"><a href="/"><%= config.title %></a></div>
-        <div>
-            <a href="<%= config.url %>#ranking" class="nav-item mr-50">榜单背景</a>
-            <a href="<%= config.url %>#standard" class="nav-item mr-50">评选标准</a>
-            <a href="<%= config.url %>#detail" class="nav-item mr-50">榜单详情</a>
-            <a href="https://github.com/opensourcewin" target="_blank" class="nav-item">GitHub</a>
-        </div>
-    </div>
-</div>
+<nav class="navbar navbar-expand-lg navbar-light" id="navWrap">
+    <ul class="d-flex aling-items-center justify-content-center w-100 me-auto mb-0 sm-scroll">
+        <li  class="nav-item me-3">
+            <a href="/"  class="nav-link"><%= config.title %></a>
+        </li>
+      <li class="nav-item me-3">
+            <a href="<%= config.url %>#ranking" class="nav-link">榜单背景</a>
+      </li>
+      <li class="nav-item me-3">
+            <a href="<%= config.url %>#standard" class="nav-link">评选标准</a>
+      </li>
+      <li class="nav-item me-3">
+        <a href="<%= config.url %>#detail" class="nav-link">榜单详情</a>
+      </li>
+      <li class="nav-item me-3">
+        <a href="<%= config.url %>#partner" class="nav-link">合作伙伴</a>
+      </li>
+      <li class="nav-item">
+        <a href="https://github.com/opensourcewin" target="_blank" class="nav-link">GitHub</a>
+      </li>
+    </ul>
+ </nav>
