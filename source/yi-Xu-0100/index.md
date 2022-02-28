@@ -3,7 +3,7 @@ slug: yi-Xu-0100
 name: yi_Xu
 description: China
 avatar: avatar.png
-ranking: 44
+ranking: 48
 ---
 
 [GitHub 主页](https://github.com/yi-Xu-0100)

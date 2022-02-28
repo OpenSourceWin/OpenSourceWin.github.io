@@ -3,7 +3,7 @@ slug: seisman
 name: Dongdong Tian
 description: Wuhan, China
 avatar: avatar.png
-ranking: 32
+ranking: 36
 ---
 
 [GitHub 主页](https://github.com/seisman)

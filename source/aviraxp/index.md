@@ -3,7 +3,7 @@ slug: aviraxp
 name: Wang Han
 description: Beijing, China
 avatar: avatar.png
-ranking: 75
+ranking: 79
 ---
 
 [GitHub 主页](https://github.com/aviraxp)

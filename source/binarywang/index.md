@@ -3,7 +3,7 @@ slug: binarywang
 name: Binary Wang
 description: China
 avatar: avatar.png
-ranking: 92
+ranking: 97
 ---
 
 [GitHub 主页](https://github.com/binarywang)

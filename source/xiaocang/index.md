@@ -3,7 +3,7 @@ slug: xiaocang
 name: Johnny Wang
 description: China, Shenzhen
 avatar: avatar.png
-ranking: 47
+ranking: 51
 ---
 
 [GitHub 主页](https://github.com/xiaocang)

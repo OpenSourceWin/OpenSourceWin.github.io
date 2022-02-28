@@ -3,7 +3,7 @@ slug: vinceliuice
 name: Vince
 description: PingXiang / JiangXi / China
 avatar: avatar.png
-ranking: 52
+ranking: 56
 ---
 
 [GitHub 主页](https://github.com/vinceliuice)

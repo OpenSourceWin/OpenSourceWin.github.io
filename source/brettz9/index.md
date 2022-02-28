@@ -3,7 +3,7 @@ slug: brettz9
 name: Brett Zamir
 description: Shenzhen, China
 avatar: avatar.png
-ranking: 97
+ranking: 29
 ---
 
 [GitHub 主页](https://github.com/brettz9)
