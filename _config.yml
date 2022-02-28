@@ -106,7 +106,7 @@ deploy:
 
 asset_pipeline:
   revisioning:
-    enable: false
+    enable: true
   clean_css:
     enable: true
   uglify_js:
