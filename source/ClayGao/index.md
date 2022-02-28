@@ -2,6 +2,7 @@
 title: ClayGao
 description: Taiwan
 avatar: avatar.png
+ranking: 78
 ---
 
 [GitHub 主页](https://github.com/ClayGao)

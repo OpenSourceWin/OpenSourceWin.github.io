@@ -2,6 +2,7 @@
 title: XuehaiPan
 description: Peking University, Beijing
 avatar: avatar.png
+ranking: 88
 ---
 
 [GitHub 主页](https://github.com/XuehaiPan)

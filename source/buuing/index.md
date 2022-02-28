@@ -2,6 +2,7 @@
 title: buuing
 description: 北京
 avatar: avatar.png
+ranking: 93
 ---
 
 [GitHub 主页](https://github.com/buuing)

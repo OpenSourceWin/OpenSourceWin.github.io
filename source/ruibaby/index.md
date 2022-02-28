@@ -2,6 +2,7 @@
 title: ruibaby
 description: Chengdu, China
 avatar: avatar.png
+ranking: 72
 ---
 
 [GitHub 主页](https://github.com/ruibaby)

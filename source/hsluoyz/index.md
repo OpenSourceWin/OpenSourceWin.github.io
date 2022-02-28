@@ -2,6 +2,7 @@
 title: hsluoyz
 description: Beijing
 avatar: avatar.png
+ranking: 2
 ---
 
 [GitHub 主页](https://github.com/hsluoyz)

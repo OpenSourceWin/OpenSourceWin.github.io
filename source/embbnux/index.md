@@ -2,6 +2,7 @@
 title: embbnux
 description: Xiamen, China
 avatar: avatar.png
+ranking: 83
 ---
 
 [GitHub 主页](https://github.com/embbnux)

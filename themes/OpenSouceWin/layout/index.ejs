@@ -39,7 +39,7 @@
     <div class="list" id="detail">
         <div class="main-title">榜单详情</div>
         <div class="row mt-4">
-            <% site.pages.each(function(item){ %>
+            <% site.pages.sort('ranking').each(function(item){ %>
                 <%- partial('_partial/card', {item: item}) %>
             <% }); %>
         </div>

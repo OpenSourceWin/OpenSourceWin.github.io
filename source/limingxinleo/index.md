@@ -2,6 +2,7 @@
 title: limingxinleo
 description: 上海
 avatar: avatar.png
+ranking: 37
 ---
 
 [GitHub 主页](https://github.com/limingxinleo)

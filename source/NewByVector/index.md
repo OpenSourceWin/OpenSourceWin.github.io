@@ -2,6 +2,7 @@
 title: NewByVector
 description: HangZhou China
 avatar: avatar.png
+ranking: 84
 ---
 
 [GitHub 主页](https://github.com/NewByVector)

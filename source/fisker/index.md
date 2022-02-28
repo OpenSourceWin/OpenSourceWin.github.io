@@ -2,6 +2,7 @@
 title: fisker
 description: China
 avatar: avatar.png
+ranking: 34
 ---
 
 [GitHub 主页](https://github.com/fisker)

@@ -2,6 +2,7 @@
 title: afc163
 description: Hangzhou, China
 avatar: avatar.png
+ranking: 17
 ---
 
 [GitHub 主页](https://github.com/afc163)

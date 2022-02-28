@@ -2,6 +2,7 @@
 title: juzhiyuan
 description: China
 avatar: avatar.png
+ranking: 49
 ---
 
 [GitHub 主页](https://github.com/juzhiyuan)

@@ -2,6 +2,7 @@
 title: mostcool
 description: HuBei.WuHan
 avatar: avatar.png
+ranking: 29
 ---
 
 [GitHub 主页](https://github.com/mostcool)

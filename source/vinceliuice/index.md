@@ -2,6 +2,7 @@
 title: vinceliuice
 description: PingXiang / JiangXi / China
 avatar: avatar.png
+ranking: 52
 ---
 
 [GitHub 主页](https://github.com/vinceliuice)

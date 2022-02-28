@@ -2,6 +2,7 @@
 title: sy-records
 description: Xi'an, China
 avatar: avatar.png
+ranking: 13
 ---
 
 [GitHub 主页](https://github.com/sy-records)

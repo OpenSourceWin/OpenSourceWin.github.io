@@ -2,6 +2,7 @@
 title: ShixiangWang
 description: Guangzhou, China
 avatar: avatar.png
+ranking: 45
 ---
 
 [GitHub 主页](https://github.com/ShixiangWang)

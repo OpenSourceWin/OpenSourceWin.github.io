@@ -2,6 +2,7 @@
 title: CMingTseng
 description: Taipei
 avatar: avatar.png
+ranking: 74
 ---
 
 [GitHub 主页](https://github.com/CMingTseng)

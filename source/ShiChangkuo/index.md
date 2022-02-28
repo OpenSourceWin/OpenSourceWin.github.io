@@ -2,6 +2,7 @@
 title: ShiChangkuo
 description: Beijing, China
 avatar: avatar.png
+ranking: 90
 ---
 
 [GitHub 主页](https://github.com/ShiChangkuo)

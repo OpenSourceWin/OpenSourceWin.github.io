@@ -2,6 +2,7 @@
 title: ffang
 description: Beijing, China
 avatar: avatar.png
+ranking: 67
 ---
 
 [GitHub 主页](https://github.com/ffang)

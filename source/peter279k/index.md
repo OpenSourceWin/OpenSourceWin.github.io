@@ -2,6 +2,7 @@
 title: peter279k
 description: Taipei, Taiwan
 avatar: avatar.png
+ranking: 6
 ---
 
 [GitHub 主页](https://github.com/peter279k)

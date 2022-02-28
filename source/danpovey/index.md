@@ -2,6 +2,7 @@
 title: danpovey
 description: Beijing
 avatar: avatar.png
+ranking: 69
 ---
 
 [GitHub 主页](https://github.com/danpovey)

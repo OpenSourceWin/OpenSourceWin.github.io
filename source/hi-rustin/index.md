@@ -2,6 +2,7 @@
 title: hi-rustin
 description: China
 avatar: avatar.png
+ranking: 38
 ---
 
 [GitHub 主页](https://github.com/hi-rustin)

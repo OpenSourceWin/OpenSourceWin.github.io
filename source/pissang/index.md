@@ -2,6 +2,7 @@
 title: pissang
 description: Shanghai, China
 avatar: avatar.png
+ranking: 46
 ---
 
 [GitHub 主页](https://github.com/pissang)

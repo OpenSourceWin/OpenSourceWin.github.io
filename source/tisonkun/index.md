@@ -2,6 +2,7 @@
 title: tisonkun
 description: Guangzhou
 avatar: avatar.png
+ranking: 98
 ---
 
 [GitHub 主页](https://github.com/tisonkun)

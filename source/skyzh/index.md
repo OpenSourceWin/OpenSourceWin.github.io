@@ -2,6 +2,7 @@
 title: skyzh
 description: Shanghai, China
 avatar: avatar.png
+ranking: 21
 ---
 
 [GitHub 主页](https://github.com/skyzh)

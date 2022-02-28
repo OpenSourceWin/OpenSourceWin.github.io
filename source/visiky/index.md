@@ -2,6 +2,7 @@
 title: visiky
 description: HANGZHOU (杭州)
 avatar: avatar.png
+ranking: 42
 ---
 
 [GitHub 主页](https://github.com/visiky)

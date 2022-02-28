@@ -2,6 +2,7 @@
 title: seisman
 description: Wuhan, China
 avatar: avatar.png
+ranking: 32
 ---
 
 [GitHub 主页](https://github.com/seisman)

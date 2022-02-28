@@ -2,6 +2,7 @@
 title: ZeyuChen
 description: Shenzhen
 avatar: avatar.png
+ranking: 73
 ---
 
 [GitHub 主页](https://github.com/ZeyuChen)
