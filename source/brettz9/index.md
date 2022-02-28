@@ -1,5 +1,6 @@
 ---
-title: brettz9
+slug: brettz9
+name: Brett Zamir
 description: Shenzhen, China
 avatar: avatar.png
 ranking: 97

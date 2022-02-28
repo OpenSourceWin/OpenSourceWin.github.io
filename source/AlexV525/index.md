@@ -1,5 +1,6 @@
 ---
-title: AlexV525
+slug: AlexV525
+name: Alex Li
 description: Shanghai, China.
 avatar: avatar.png
 ranking: 11

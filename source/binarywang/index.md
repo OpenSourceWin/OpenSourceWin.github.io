@@ -1,5 +1,6 @@
 ---
-title: binarywang
+slug: binarywang
+name: Binary Wang
 description: China
 avatar: avatar.png
 ranking: 92

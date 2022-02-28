@@ -1,5 +1,6 @@
 ---
-title: JounQin
+slug: JounQin
+name: JounQin
 description: Nanjing, Jiangsu, PRC
 avatar: avatar.png
 ranking: 95

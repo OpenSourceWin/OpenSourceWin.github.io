@@ -1,5 +1,6 @@
 ---
-title: tao12345666333
+slug: tao12345666333
+name: Jintao Zhang
 description: Beijing
 avatar: avatar.png
 ranking: 61

@@ -1,5 +1,6 @@
 ---
-title: GiggleLiu
+slug: GiggleLiu
+name: Jinguo Liu
 description: Beijing, China
 avatar: avatar.png
 ranking: 71

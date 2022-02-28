@@ -1,5 +1,6 @@
 ---
-title: johnnychen94
+slug: johnnychen94
+name: Johnny Chen
 description: Shanghai, China
 avatar: avatar.png
 ranking: 22

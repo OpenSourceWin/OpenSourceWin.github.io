@@ -1,5 +1,6 @@
 ---
-title: uranusjr
+slug: uranusjr
+name: Tzu-ping Chung
 description: Taipei, Taiwan
 avatar: avatar.png
 ranking: 16

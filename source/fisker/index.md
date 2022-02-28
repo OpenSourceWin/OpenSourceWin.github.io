@@ -1,5 +1,6 @@
 ---
-title: fisker
+slug: fisker
+name: fisker Cheung
 description: China
 avatar: avatar.png
 ranking: 34

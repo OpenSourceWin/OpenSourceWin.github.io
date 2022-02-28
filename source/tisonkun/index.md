@@ -1,5 +1,6 @@
 ---
-title: tisonkun
+slug: tisonkun
+name: tison
 description: Guangzhou
 avatar: avatar.png
 ranking: 98

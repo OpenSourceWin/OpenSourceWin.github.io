@@ -1,5 +1,6 @@
 ---
-title: haizhilin2013
+slug: haizhilin2013
+name: haizhilin
 description: ShenZhen, China
 avatar: avatar.png
 ranking: 36

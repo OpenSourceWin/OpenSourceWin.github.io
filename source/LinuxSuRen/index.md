@@ -1,5 +1,6 @@
 ---
-title: LinuxSuRen
+slug: LinuxSuRen
+name: Rick
 description: China
 avatar: avatar.png
 ranking: 8

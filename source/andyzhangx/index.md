@@ -1,5 +1,6 @@
 ---
-title: andyzhangx
+slug: andyzhangx
+name: Andy Zhang
 description: Shanghai
 avatar: avatar.png
 ranking: 96

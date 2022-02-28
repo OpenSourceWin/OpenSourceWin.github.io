@@ -1,5 +1,6 @@
 ---
-title: pahud
+slug: pahud
+name: Pahud Hsieh
 description: Taipei
 avatar: avatar.png
 ranking: 5

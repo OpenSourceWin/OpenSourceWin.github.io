@@ -1,5 +1,6 @@
 ---
-title: juzhiyuan
+slug: juzhiyuan
+name: 琚致远
 description: China
 avatar: avatar.png
 ranking: 49

@@ -1,5 +1,6 @@
 ---
-title: danpovey
+slug: danpovey
+name: Daniel Povey
 description: Beijing
 avatar: avatar.png
 ranking: 69

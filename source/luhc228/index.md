@@ -1,5 +1,5 @@
 ---
-title: luhc228
+slug: luhc228
 description: Hangzhou, China
 avatar: avatar.png
 ranking: 80

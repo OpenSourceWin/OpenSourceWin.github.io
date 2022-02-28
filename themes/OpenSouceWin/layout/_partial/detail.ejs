@@ -19,7 +19,7 @@
                 <div class="d-flex">
                     <%- partial('avatar', { className: 'detail-avatar me-4', item: item}) %>
                     <div class="pt-3">
-                        <div class="detail-nick"><%- item.title %></div>
+                        <div class="detail-nick"><%- item.name ? item.name : item.slug %></div>
                         <div class="text-secondary mt-2"><%- item.description %></div>
                     </div>  
                 </div>

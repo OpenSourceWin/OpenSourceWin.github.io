@@ -1,5 +1,6 @@
 ---
-title: aszx87410
+slug: aszx87410
+name: Huli
 description: Taipei, Taiwan
 avatar: avatar.png
 ranking: 43

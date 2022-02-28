@@ -1,5 +1,5 @@
 ---
-title: Goooler
+slug: Goooler
 description: Chengdu, China
 avatar: avatar.png
 ranking: 12

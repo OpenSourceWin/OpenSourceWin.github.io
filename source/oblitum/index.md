@@ -1,5 +1,6 @@
 ---
-title: oblitum
+slug: oblitum
+name: Francisco Lopes
 description: 無
 avatar: avatar.png
 ranking: 91

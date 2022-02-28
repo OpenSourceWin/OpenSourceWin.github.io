@@ -1,5 +1,6 @@
 ---
-title: NewByVector
+slug: NewByVector
+name: vector
 description: HangZhou China
 avatar: avatar.png
 ranking: 84

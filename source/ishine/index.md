@@ -1,5 +1,5 @@
 ---
-title: ishine
+slug: ishine
 description: shanghai
 avatar: avatar.png
 ranking: 15

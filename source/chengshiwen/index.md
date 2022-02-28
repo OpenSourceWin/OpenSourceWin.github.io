@@ -1,5 +1,6 @@
 ---
-title: chengshiwen
+slug: chengshiwen
+name: Shiwen Cheng
 description: Beijing, China
 avatar: avatar.png
 ranking: 76

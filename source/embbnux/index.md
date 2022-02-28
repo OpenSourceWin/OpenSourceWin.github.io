@@ -1,5 +1,6 @@
 ---
-title: embbnux
+slug: embbnux
+name: Embbnux Ji
 description: Xiamen, China
 avatar: avatar.png
 ranking: 83

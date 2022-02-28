@@ -1,5 +1,6 @@
 ---
-title: geffzhang
+slug: geffzhang
+name: geffzhang
 description: Shenzhen,China
 avatar: avatar.png
 ranking: 55

@@ -1,5 +1,6 @@
 ---
-title: yihong0618
+slug: yihong0618
+name: yihong
 description: China
 avatar: avatar.png
 ranking: 39

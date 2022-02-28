@@ -1,5 +1,6 @@
 ---
-title: ffang
+slug: ffang
+name: Freeman(Yue) Fang
 description: Beijing, China
 avatar: avatar.png
 ranking: 67

@@ -1,5 +1,6 @@
 ---
-title: iChenLei
+slug: iChenLei
+name: Lei Chen
 description: Shanghai China
 avatar: avatar.png
 ranking: 54

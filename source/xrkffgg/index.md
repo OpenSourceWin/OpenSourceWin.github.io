@@ -1,5 +1,5 @@
 ---
-title: xrkffgg
+slug: xrkffgg
 description: Beijing, China
 avatar: avatar.png
 ranking: 9

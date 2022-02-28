@@ -1,5 +1,6 @@
 ---
-title: wj-Mcat
+slug: wj-Mcat
+name: 骑马小猫
 description: Beijing
 avatar: avatar.png
 ranking: 62

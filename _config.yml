@@ -7,14 +7,14 @@ title: '中国开源码力榜'
 subtitle: ''
 description: ''
 keywords:
-author: OpenSourceWin
+author: SegmentFault
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://opensource.win
-permalink: :year/:month/:day/:title/
+permalink: :slug/
 permalink_defaults:
 pretty_urls:
   trailing_index: false # Set to false to remove trailing 'index.html' from permalinks

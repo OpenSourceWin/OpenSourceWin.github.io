@@ -1,5 +1,6 @@
 ---
-title: Yurunsoft
+slug: Yurunsoft
+name: Yurun
 description: China JiangSu WuXi
 avatar: avatar.png
 ranking: 64

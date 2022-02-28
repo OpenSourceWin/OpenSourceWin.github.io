@@ -1,5 +1,6 @@
 ---
-title: limingxinleo
+slug: limingxinleo
+name: 李铭昕
 description: 上海
 avatar: avatar.png
 ranking: 37

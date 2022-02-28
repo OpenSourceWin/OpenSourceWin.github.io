@@ -1,5 +1,6 @@
 ---
-title: linonetwo
+slug: linonetwo
+name: lin onetwo
 description: ShanghaiTech University
 avatar: avatar.png
 ranking: 24

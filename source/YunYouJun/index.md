@@ -1,5 +1,6 @@
 ---
-title: YunYouJun
+slug: YunYouJun
+name: 云游君
 description: China
 avatar: avatar.png
 ranking: 35

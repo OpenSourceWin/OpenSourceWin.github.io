@@ -1,5 +1,6 @@
 ---
-title: jiasli
+slug: jiasli
+name: Jiashuo Li
 description: Shanghai, China
 avatar: avatar.png
 ranking: 99

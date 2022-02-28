@@ -1,5 +1,6 @@
 ---
-title: ShixiangWang
+slug: ShixiangWang
+name: Shixiang Wang (王诗翔)
 description: Guangzhou, China
 avatar: avatar.png
 ranking: 45

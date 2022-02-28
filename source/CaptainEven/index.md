@@ -1,5 +1,6 @@
 ---
-title: CaptainEven
+slug: CaptainEven
+name: Even
 description: Wuhan, China
 avatar: avatar.png
 ranking: 85

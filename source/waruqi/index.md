@@ -1,5 +1,6 @@
 ---
-title: waruqi
+slug: waruqi
+name: ruki
 description: Shanghai, China
 avatar: avatar.png
 ranking: 31

@@ -1,5 +1,6 @@
 ---
-title: qiujiangkun
+slug: qiujiangkun
+name: QiuJiangkun
 description: Hong Kong, China
 avatar: avatar.png
 ranking: 86

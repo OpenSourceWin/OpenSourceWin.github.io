@@ -1,5 +1,6 @@
 ---
-title: JBA-Khalifa
+slug: JBA-Khalifa
+name: Muhammad-Jibril B.A.
 description: Shandong, China
 avatar: avatar.png
 ranking: 7

@@ -1,5 +1,6 @@
 ---
-title: JohnNiang
+slug: JohnNiang
+name: John Niang
 description: Code world
 avatar: avatar.png
 ranking: 53

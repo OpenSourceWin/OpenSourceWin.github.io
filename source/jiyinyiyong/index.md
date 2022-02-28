@@ -1,5 +1,6 @@
 ---
-title: jiyinyiyong
+slug: jiyinyiyong
+name: 题叶
 description: Shanghai, China
 avatar: avatar.png
 ranking: 3

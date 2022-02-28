@@ -1,5 +1,6 @@
 ---
-title: felixonmars
+slug: felixonmars
+name: Felix Yan
 description: Wuhan, Hubei, China
 avatar: avatar.png
 ranking: 4

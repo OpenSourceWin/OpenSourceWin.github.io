@@ -1,5 +1,6 @@
 ---
-title: jiangjiajun
+slug: jiangjiajun
+name: Jason
 description: Beijing
 avatar: avatar.png
 ranking: 82

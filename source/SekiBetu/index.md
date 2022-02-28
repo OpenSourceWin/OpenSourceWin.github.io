@@ -1,5 +1,6 @@
 ---
-title: SekiBetu
+slug: SekiBetu
+name: 惜别
 description: Hangzhou, Zhejiang, China
 avatar: avatar.png
 ranking: 33

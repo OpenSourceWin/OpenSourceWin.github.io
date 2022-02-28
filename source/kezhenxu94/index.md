@@ -1,5 +1,6 @@
 ---
-title: kezhenxu94
+slug: kezhenxu94
+name: kezhenxu94
 description: China
 avatar: avatar.png
 ranking: 27

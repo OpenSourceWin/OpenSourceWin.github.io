@@ -1,5 +1,6 @@
 ---
-title: ywk253100
+slug: ywk253100
+name: Wenkai Yin(尹文开)
 description: Beijing, China
 avatar: avatar.png
 ranking: 79

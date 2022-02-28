@@ -1,5 +1,6 @@
 ---
-title: mysterywolf
+slug: mysterywolf
+name: Man, Jianting (Meco)
 description: Shenyang, China | Windsor, Canada
 avatar: avatar.png
 ranking: 18

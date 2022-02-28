@@ -1,5 +1,6 @@
 ---
-title: yi-Xu-0100
+slug: yi-Xu-0100
+name: yi_Xu
 description: China
 avatar: avatar.png
 ranking: 44

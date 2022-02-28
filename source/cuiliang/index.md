@@ -1,5 +1,6 @@
 ---
-title: cuiliang
+slug: cuiliang
+name: CuiLiang
 description: BeiJing
 avatar: avatar.png
 ranking: 68

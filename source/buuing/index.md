@@ -1,5 +1,6 @@
 ---
-title: buuing
+slug: buuing
+name: 菜唧唧
 description: 北京
 avatar: avatar.png
 ranking: 93

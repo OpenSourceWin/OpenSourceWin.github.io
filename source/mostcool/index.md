@@ -1,5 +1,6 @@
 ---
-title: mostcool
+slug: mostcool
+name: gaokai
 description: HuBei.WuHan
 avatar: avatar.png
 ranking: 29

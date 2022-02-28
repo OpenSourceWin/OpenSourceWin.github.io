@@ -1,5 +1,6 @@
 ---
-title: CMingTseng
+slug: CMingTseng
+name: Neo
 description: Taipei
 avatar: avatar.png
 ranking: 74

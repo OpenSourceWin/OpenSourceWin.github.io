@@ -1,5 +1,6 @@
 ---
-title: winlinvip
+slug: winlinvip
+name: Winlin
 description: beijing
 avatar: avatar.png
 ranking: 70

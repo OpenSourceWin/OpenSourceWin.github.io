@@ -1,5 +1,6 @@
 ---
-title: hi-rustin
+slug: hi-rustin
+name: 工业废水
 description: China
 avatar: avatar.png
 ranking: 38

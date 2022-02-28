@@ -1,5 +1,6 @@
 ---
-title: 88250
+slug: 88250
+name: D
 description: Kunming, China
 avatar: avatar.png
 ranking: 57

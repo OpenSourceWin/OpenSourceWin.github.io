@@ -1,5 +1,6 @@
 ---
-title: XuehaiPan
+slug: XuehaiPan
+name: Xuehai Pan
 description: Peking University, Beijing
 avatar: avatar.png
 ranking: 88

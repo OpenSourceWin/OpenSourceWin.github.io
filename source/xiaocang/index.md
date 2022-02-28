@@ -1,5 +1,6 @@
 ---
-title: xiaocang
+slug: xiaocang
+name: Johnny Wang
 description: China, Shenzhen
 avatar: avatar.png
 ranking: 47

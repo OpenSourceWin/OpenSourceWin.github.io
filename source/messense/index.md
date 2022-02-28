@@ -1,5 +1,6 @@
 ---
-title: messense
+slug: messense
+name: messense
 description: Shanghai, China
 avatar: avatar.png
 ranking: 26

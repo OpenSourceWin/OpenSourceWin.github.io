@@ -1,5 +1,6 @@
 ---
-title: yisibl
+slug: yisibl
+name: 一丝
 description: China
 avatar: avatar.png
 ranking: 30

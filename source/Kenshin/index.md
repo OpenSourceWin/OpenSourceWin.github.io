@@ -1,5 +1,6 @@
 ---
-title: Kenshin
+slug: Kenshin
+name: Kenshin Wang
 description: China
 avatar: avatar.png
 ranking: 40

@@ -1,5 +1,6 @@
 ---
-title: peter279k
+slug: peter279k
+name: Chun-Sheng, Li
 description: Taipei, Taiwan
 avatar: avatar.png
 ranking: 6

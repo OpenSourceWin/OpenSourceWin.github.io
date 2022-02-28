@@ -1,5 +1,6 @@
 ---
-title: seisman
+slug: seisman
+name: Dongdong Tian
 description: Wuhan, China
 avatar: avatar.png
 ranking: 32

@@ -1,5 +1,6 @@
 ---
-title: njzjz
+slug: njzjz
+name: Jinzhe Zeng
 description: Nanjing, China
 avatar: avatar.png
 ranking: 20

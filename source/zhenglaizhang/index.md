@@ -1,5 +1,6 @@
 ---
-title: zhenglaizhang
+slug: zhenglaizhang
+name: Zhenglai Zhang
 description: Shanghai China
 avatar: avatar.png
 ranking: 1

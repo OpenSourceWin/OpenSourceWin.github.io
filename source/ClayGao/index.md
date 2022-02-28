@@ -1,5 +1,6 @@
 ---
-title: ClayGao
+slug: ClayGao
+name: clayGao
 description: Taiwan
 avatar: avatar.png
 ranking: 78
