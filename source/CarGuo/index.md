@@ -3,7 +3,7 @@ slug: CarGuo
 name: Shuyu Guo
 description: China 广东 珠海
 avatar: avatar.png
-ranking: 87
+ranking: 92
 ---
 
 [GitHub 主页](https://github.com/CarGuo)

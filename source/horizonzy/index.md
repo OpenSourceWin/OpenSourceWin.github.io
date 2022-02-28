@@ -3,7 +3,7 @@ slug: horizonzy
 name: 赵延
 description: Chengdu, China
 avatar: avatar.png
-ranking: 50
+ranking: 54
 ---
 
 [GitHub 主页](https://github.com/horizonzy)

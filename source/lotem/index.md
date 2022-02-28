@@ -3,7 +3,7 @@ slug: lotem
 name: 居戎氏
 description: Beijing, China
 avatar: avatar.png
-ranking: 63
+ranking: 67
 ---
 
 [GitHub 主页](https://github.com/lotem)
