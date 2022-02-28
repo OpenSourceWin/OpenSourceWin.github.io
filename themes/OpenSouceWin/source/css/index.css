@@ -175,7 +175,7 @@ a {
 @media (max-width: 540px)  {
   .sm-scroll {
     overflow-x: scroll;
-    padding-left: 15em;
+    padding-left: 17em;
   }
   .main-title {
     font-size: 28px;
