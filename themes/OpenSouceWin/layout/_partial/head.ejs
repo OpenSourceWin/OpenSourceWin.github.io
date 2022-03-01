@@ -4,6 +4,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
+    <!-- Title -->
+    <%
+    var title = [];
+    if (page.name) {
+        title.push(page.name);
+    } else if (page.slug) {
+        title.push(page.slug);
+    }
+    title.push(config.title);
+    %>
+    <title><%= title.join(' - ') %></title>
+
     <!--Description-->
 
     <%
@@ -29,11 +41,7 @@
     <% } %>
 
     <!--Open Graph Title-->
-    <% if (page.title) { %>
-        <meta property="og:title" content="<%= page.title %>"/>
-    <% } else { %>
-        <meta property="og:title" content="<%= config.title %>"/>
-    <% } %>
+    <meta property="og:title" content="<%= title.join(' - ') %>" />
 
     <!--Open Graph Description-->
     <% if (description) { %>
@@ -44,26 +52,12 @@
         <meta property="og:site_name" content="<%= config.title %>"/>
 
     <!--Type page-->
-    <% if(page.title) { %>
+    <% if(title.length > 1) { %>
         <meta property="og:type" content="article"/>
     <% } else { %>
         <meta property="og:type" content="website"/>
     <% } %>
 
-    <!-- Title -->
-    <%
-    var title = [];
-    if (page.current > 1) title.push(__('page', page.current));
-    if (page.title) title.push(page.title);
-    if (page.category) title.push(page.category);
-    if (page.tag) title.push(page.tag);
-    if (page.archive) {
-        if (page.year) title.push(__('archive_b', page.year + (page.month ? '/' + page.month : '')));
-        else title.push(__('archive_a'));
-    }
-    title.push(config.title);
-    %>
-    <title><%= title.join(' - ') %></title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <%- css('css/index.css') %>

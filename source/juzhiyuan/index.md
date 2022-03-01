@@ -1,7 +1,9 @@
 ---
-title: juzhiyuan
+slug: juzhiyuan
+name: 琚致远
 description: China
 avatar: avatar.png
+ranking: 52
 ---
 
 [GitHub 主页](https://github.com/juzhiyuan)

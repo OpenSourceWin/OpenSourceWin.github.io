@@ -1,7 +1,9 @@
 ---
-title: pissang
+slug: pissang
+name: Yi Shen
 description: Shanghai, China
 avatar: avatar.png
+ranking: 49
 ---
 
 [GitHub 主页](https://github.com/pissang)

@@ -1,7 +1,9 @@
 ---
-title: hsluoyz
+slug: hsluoyz
+name: Yang Luo
 description: Beijing
 avatar: avatar.png
+ranking: 2
 ---
 
 [GitHub 主页](https://github.com/hsluoyz)

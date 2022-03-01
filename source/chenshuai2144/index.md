@@ -1,7 +1,9 @@
 ---
-title: chenshuai2144
+slug: chenshuai2144
+name: 陈帅
 description: 浙江杭州
 avatar: avatar.png
+ranking: 10
 ---
 
 [GitHub 主页](https://github.com/chenshuai2144)

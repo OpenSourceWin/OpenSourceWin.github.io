@@ -1,7 +1,9 @@
 ---
-title: linonetwo
+slug: linonetwo
+name: lin onetwo
 description: ShanghaiTech University
 avatar: avatar.png
+ranking: 24
 ---
 
 [GitHub 主页](https://github.com/linonetwo)

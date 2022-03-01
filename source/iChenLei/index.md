@@ -1,7 +1,9 @@
 ---
-title: iChenLei
+slug: iChenLei
+name: Lei Chen
 description: Shanghai China
 avatar: avatar.png
+ranking: 57
 ---
 
 [GitHub 主页](https://github.com/iChenLei)

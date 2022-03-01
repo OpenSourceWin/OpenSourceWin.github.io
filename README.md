@@ -33,7 +33,8 @@ npx hexo new page <你的用户名>
 
 ```
 ---
-title: <GitHub用户名>
+slug: <GitHub用户名>
+name: <昵称，如果不填写则默认使用 slug>
 description: <在首页显示的个人简介，不要超过50个字>
 github_id: <GitHub ID，这是一个纯数字ID，用于自动获取头像，如果你想单独上传一个头像请提供下方的 avatar 字段>
 avatar: <个人头像文件，下面会介绍>

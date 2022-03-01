@@ -1,7 +1,9 @@
 ---
-title: wu-sheng
+slug: wu-sheng
+name: 吴晟 Wu Sheng
 description: Beijing(China), SF(US)
 avatar: avatar.png
+ranking: 14
 ---
 
 [GitHub 主页](https://github.com/wu-sheng)

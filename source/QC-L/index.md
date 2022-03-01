@@ -1,7 +1,9 @@
 ---
-title: QC-L
+slug: QC-L
+name: QiChang Li
 description: HangZhou, China
 avatar: avatar.png
+ranking: 94
 ---
 
 [GitHub 主页](https://github.com/QC-L)

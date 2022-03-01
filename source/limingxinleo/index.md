@@ -1,7 +1,9 @@
 ---
-title: limingxinleo
+slug: limingxinleo
+name: 李铭昕
 description: 上海
 avatar: avatar.png
+ranking: 40
 ---
 
 [GitHub 主页](https://github.com/limingxinleo)

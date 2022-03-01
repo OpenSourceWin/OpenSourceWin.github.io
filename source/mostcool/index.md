@@ -1,7 +1,9 @@
 ---
-title: mostcool
+slug: mostcool
+name: gaokai
 description: HuBei.WuHan
 avatar: avatar.png
+ranking: 32
 ---
 
 [GitHub 主页](https://github.com/mostcool)

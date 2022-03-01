@@ -1,7 +1,9 @@
 ---
-title: LinuxSuRen
+slug: LinuxSuRen
+name: Rick
 description: China
 avatar: avatar.png
+ranking: 8
 ---
 
 Rick - 程序员，业余开源布道者

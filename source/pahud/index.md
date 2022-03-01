@@ -1,7 +1,9 @@
 ---
-title: pahud
+slug: pahud
+name: Pahud Hsieh
 description: Taipei
 avatar: avatar.png
+ranking: 5
 ---
 
 [GitHub 主页](https://github.com/pahud)

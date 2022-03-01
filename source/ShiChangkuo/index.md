@@ -1,7 +1,9 @@
 ---
-title: ShiChangkuo
+slug: ShiChangkuo
+name: shichangkuo
 description: Beijing, China
 avatar: avatar.png
+ranking: 95
 ---
 
 [GitHub 主页](https://github.com/ShiChangkuo)

@@ -1,7 +1,9 @@
 ---
-title: lotem
+slug: lotem
+name: 居戎氏
 description: Beijing, China
 avatar: avatar.png
+ranking: 66
 ---
 
 [GitHub 主页](https://github.com/lotem)

@@ -1,7 +1,9 @@
 ---
-title: uranusjr
+slug: uranusjr
+name: Tzu-ping Chung
 description: Taipei, Taiwan
 avatar: avatar.png
+ranking: 16
 ---
 
 [GitHub 主页](https://github.com/uranusjr)

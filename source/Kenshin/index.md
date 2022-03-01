@@ -1,7 +1,9 @@
 ---
-title: Kenshin
+slug: Kenshin
+name: Kenshin Wang
 description: China
 avatar: avatar.png
+ranking: 43
 ---
 
 [GitHub 主页](https://github.com/Kenshin)

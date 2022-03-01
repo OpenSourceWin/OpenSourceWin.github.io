@@ -1,7 +1,9 @@
 ---
-title: CMingTseng
+slug: CMingTseng
+name: Neo
 description: Taipei
 avatar: avatar.png
+ranking: 78
 ---
 
 [GitHub 主页](https://github.com/CMingTseng)
