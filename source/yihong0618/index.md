@@ -3,10 +3,8 @@ slug: yihong0618
 name: yihong
 description: China
 avatar: avatar.png
-ranking: 42
+ranking: 43
 ---
-
-[GitHub 主页](https://github.com/yihong0618)
 
 ### 主要贡献项目
 

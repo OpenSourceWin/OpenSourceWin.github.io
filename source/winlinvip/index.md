@@ -3,10 +3,8 @@ slug: winlinvip
 name: Winlin
 description: beijing
 avatar: avatar.png
-ranking: 73
+ranking: 74
 ---
-
-[GitHub 主页](https://github.com/winlinvip)
 
 ### 主要贡献项目
 

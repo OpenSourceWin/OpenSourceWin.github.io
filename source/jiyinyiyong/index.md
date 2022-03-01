@@ -6,8 +6,6 @@ avatar: avatar.png
 ranking: 3
 ---
 
-[GitHub 主页](https://github.com/jiyinyiyong)
-
 ### 主要贡献项目
 
 * <https://github.com/calcit-lang/calcit_runner.rs>

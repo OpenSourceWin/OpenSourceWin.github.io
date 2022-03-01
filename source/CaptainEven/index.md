@@ -3,10 +3,8 @@ slug: CaptainEven
 name: Even
 description: Wuhan, China
 avatar: avatar.png
-ranking: 89
+ranking: 90
 ---
-
-[GitHub 主页](https://github.com/CaptainEven)
 
 ### 主要贡献项目
 

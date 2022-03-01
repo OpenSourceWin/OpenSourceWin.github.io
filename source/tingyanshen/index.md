@@ -3,10 +3,8 @@ slug: tingyanshen
 name: 石头
 description: Wuxi ⇄ AnHui, China
 avatar: avatar.png
-ranking: 59
+ranking: 60
 ---
-
-[GitHub 主页](https://github.com/tingyanshen)
 
 ### 主要贡献项目
 

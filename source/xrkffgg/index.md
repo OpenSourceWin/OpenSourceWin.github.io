@@ -2,10 +2,8 @@
 slug: xrkffgg
 description: Beijing, China
 avatar: avatar.png
-ranking: 9
+ranking: 10
 ---
-
-[GitHub 主页](https://github.com/xrkffgg)
 
 ### 主要贡献项目
 

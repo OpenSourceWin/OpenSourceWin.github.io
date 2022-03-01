@@ -6,8 +6,6 @@ avatar: avatar.png
 ranking: 5
 ---
 
-[GitHub 主页](https://github.com/pahud)
-
 ### 主要贡献项目
 
 * <https://github.com/aws-samples/cdk-serverless-lamp>

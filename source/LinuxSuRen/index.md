@@ -3,11 +3,8 @@ slug: LinuxSuRen
 name: Rick
 description: China
 avatar: avatar.png
-ranking: 8
+ranking: 9
 ---
-
-Rick - 程序员，业余开源布道者
-[GitHub 主页](https://github.com/LinuxSuRen)
 
 ### 主要贡献项目
 

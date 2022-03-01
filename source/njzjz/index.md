@@ -3,10 +3,8 @@ slug: njzjz
 name: Jinzhe Zeng
 description: Nanjing, China
 avatar: avatar.png
-ranking: 20
+ranking: 21
 ---
-
-[GitHub 主页](https://github.com/njzjz)
 
 ### 主要贡献项目
 

@@ -3,10 +3,8 @@ slug: QC-L
 name: QiChang Li
 description: HangZhou, China
 avatar: avatar.png
-ranking: 94
+ranking: 95
 ---
-
-[GitHub 主页](https://github.com/QC-L)
 
 ### 主要贡献项目
 
