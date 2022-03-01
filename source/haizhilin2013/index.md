@@ -3,7 +3,7 @@ slug: haizhilin2013
 name: haizhilin
 description: ShenZhen, China
 avatar: avatar.png
-ranking: 40
+ranking: 39
 ---
 
 [GitHub 主页](https://github.com/haizhilin2013)

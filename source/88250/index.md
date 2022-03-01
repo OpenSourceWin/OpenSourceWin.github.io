@@ -3,7 +3,7 @@ slug: 88250
 name: D
 description: Kunming, China
 avatar: avatar.png
-ranking: 61
+ranking: 60
 ---
 
 [GitHub 主页](https://github.com/88250)

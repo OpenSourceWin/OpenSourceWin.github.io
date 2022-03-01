@@ -3,7 +3,7 @@ slug: geffzhang
 name: geffzhang
 description: Shenzhen,China
 avatar: avatar.png
-ranking: 59
+ranking: 58
 ---
 
 [GitHub 主页](https://github.com/geffzhang)

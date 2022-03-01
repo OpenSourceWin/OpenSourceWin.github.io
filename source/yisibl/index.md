@@ -3,7 +3,7 @@ slug: yisibl
 name: 一丝
 description: China
 avatar: avatar.png
-ranking: 34
+ranking: 33
 ---
 
 [GitHub 主页](https://github.com/yisibl)

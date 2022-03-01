@@ -3,7 +3,7 @@ slug: JohnNiang
 name: John Niang
 description: Code world
 avatar: avatar.png
-ranking: 57
+ranking: 56
 ---
 
 [GitHub 主页](https://github.com/JohnNiang)

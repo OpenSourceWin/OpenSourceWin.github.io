@@ -3,7 +3,7 @@ slug: ffang
 name: Freeman(Yue) Fang
 description: Beijing, China
 avatar: avatar.png
-ranking: 71
+ranking: 70
 ---
 
 [GitHub 主页](https://github.com/ffang)
