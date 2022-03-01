@@ -6,8 +6,6 @@ avatar: avatar.png
 ranking: 4
 ---
 
-[GitHub 主页](https://github.com/felixonmars)
-
 ### 主要贡献项目
 
 * <https://github.com/darkreader/darkreader>

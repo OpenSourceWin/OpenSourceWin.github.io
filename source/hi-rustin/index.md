@@ -3,10 +3,8 @@ slug: hi-rustin
 name: 工业废水
 description: China
 avatar: avatar.png
-ranking: 41
+ranking: 42
 ---
-
-[GitHub 主页](https://github.com/hi-rustin)
 
 ### 主要贡献项目
 

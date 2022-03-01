@@ -3,10 +3,8 @@ slug: chenjiahan
 name: neverland
 description: Hangzhou, China
 avatar: avatar.png
-ranking: 23
+ranking: 24
 ---
-
-[GitHub 主页](https://github.com/chenjiahan)
 
 ### 主要贡献项目
 

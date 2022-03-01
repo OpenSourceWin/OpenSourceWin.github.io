@@ -3,10 +3,8 @@ slug: mostcool
 name: gaokai
 description: HuBei.WuHan
 avatar: avatar.png
-ranking: 32
+ranking: 33
 ---
-
-[GitHub 主页](https://github.com/mostcool)
 
 ### 主要贡献项目
 

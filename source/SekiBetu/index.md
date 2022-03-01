@@ -3,10 +3,8 @@ slug: SekiBetu
 name: 惜别
 description: Hangzhou, Zhejiang, China
 avatar: avatar.png
-ranking: 36
+ranking: 37
 ---
-
-[GitHub 主页](https://github.com/SekiBetu)
 
 ### 主要贡献项目
 

@@ -3,10 +3,8 @@ slug: ClayGao
 name: clayGao
 description: Taiwan
 avatar: avatar.png
-ranking: 82
+ranking: 83
 ---
-
-[GitHub 主页](https://github.com/ClayGao)
 
 ### 主要贡献项目
 

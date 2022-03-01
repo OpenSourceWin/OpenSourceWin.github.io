@@ -3,10 +3,8 @@ slug: fisker
 name: fisker Cheung
 description: China
 avatar: avatar.png
-ranking: 37
+ranking: 38
 ---
-
-[GitHub 主页](https://github.com/fisker)
 
 ### 主要贡献项目
 

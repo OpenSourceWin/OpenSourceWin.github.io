@@ -3,10 +3,8 @@ slug: skyzh
 name: Alex Chi
 description: Shanghai, China
 avatar: avatar.png
-ranking: 21
+ranking: 22
 ---
-
-[GitHub 主页](https://github.com/skyzh)
 
 ### 主要贡献项目
 

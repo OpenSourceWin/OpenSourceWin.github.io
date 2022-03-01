@@ -3,10 +3,8 @@ slug: iChenLei
 name: Lei Chen
 description: Shanghai China
 avatar: avatar.png
-ranking: 57
+ranking: 58
 ---
-
-[GitHub 主页](https://github.com/iChenLei)
 
 ### 主要贡献项目
 

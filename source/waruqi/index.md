@@ -3,10 +3,8 @@ slug: waruqi
 name: ruki
 description: Shanghai, China
 avatar: avatar.png
-ranking: 34
+ranking: 35
 ---
-
-[GitHub 主页](https://github.com/waruqi)
 
 ### 主要贡献项目
 

@@ -3,10 +3,8 @@ slug: mysterywolf
 name: Man, Jianting (Meco)
 description: Shenyang, China | Windsor, Canada
 avatar: avatar.png
-ranking: 18
+ranking: 19
 ---
-
-[GitHub 主页](https://github.com/mysterywolf)
 
 ### 主要贡献项目
 

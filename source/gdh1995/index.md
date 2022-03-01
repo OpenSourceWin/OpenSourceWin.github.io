@@ -3,10 +3,8 @@ slug: gdh1995
 name: Dahan Gong
 description: Beijing, China
 avatar: avatar.png
-ranking: 68
+ranking: 69
 ---
-
-[GitHub 主页](https://github.com/gdh1995)
 
 ### 主要贡献项目
 

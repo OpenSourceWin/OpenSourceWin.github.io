@@ -3,10 +3,8 @@ slug: buuing
 name: 菜唧唧
 description: 北京
 avatar: avatar.png
-ranking: 98
+ranking: 99
 ---
-
-[GitHub 主页](https://github.com/buuing)
 
 ### 主要贡献项目
 

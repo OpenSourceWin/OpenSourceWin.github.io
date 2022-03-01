@@ -3,10 +3,8 @@ slug: rxliuli
 name: rxliuli
 description: Beijing
 avatar: avatar.png
-ranking: 69
+ranking: 70
 ---
-
-[GitHub 主页](https://github.com/rxliuli)
 
 ### 主要贡献项目
 
