@@ -2,7 +2,7 @@
 slug: littletomatodonkey
 description: Shanghai, China
 avatar: avatar.png
-ranking: 52
+ranking: 51
 ---
 
 [GitHub 主页](https://github.com/littletomatodonkey)

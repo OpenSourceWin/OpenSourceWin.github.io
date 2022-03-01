@@ -3,7 +3,7 @@ slug: jiasli
 name: Jiashuo Li
 description: Shanghai, China
 avatar: avatar.png
-ranking: 31
+ranking: 30
 ---
 
 [GitHub 主页](https://github.com/jiasli)
