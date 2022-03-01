@@ -1,7 +1,9 @@
 ---
-title: jiangjiajun
+slug: jiangjiajun
+name: Jason
 description: Beijing
 avatar: avatar.png
+ranking: 86
 ---
 
 [GitHub 主页](https://github.com/jiangjiajun)

@@ -1,7 +1,9 @@
 ---
-title: cipchk
+slug: cipchk
+name: 卡色
 description: shanghai, china
 avatar: avatar.png
+ranking: 44
 ---
 
 [GitHub 主页](https://github.com/cipchk)

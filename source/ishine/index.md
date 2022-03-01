@@ -1,7 +1,8 @@
 ---
-title: ishine
+slug: ishine
 description: shanghai
 avatar: avatar.png
+ranking: 15
 ---
 
 [GitHub 主页](https://github.com/ishine)

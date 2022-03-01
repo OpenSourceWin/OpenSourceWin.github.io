@@ -1,7 +1,9 @@
 ---
-title: NewByVector
+slug: NewByVector
+name: vector
 description: HangZhou China
 avatar: avatar.png
+ranking: 88
 ---
 
 [GitHub 主页](https://github.com/NewByVector)

@@ -1,7 +1,9 @@
 ---
-title: tisonkun
+slug: tisonkun
+name: tison
 description: Guangzhou
 avatar: avatar.png
+ranking: 29
 ---
 
 [GitHub 主页](https://github.com/tisonkun)

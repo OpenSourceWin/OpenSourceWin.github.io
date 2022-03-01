@@ -1,7 +1,9 @@
 ---
-title: XuehaiPan
+slug: XuehaiPan
+name: Xuehai Pan
 description: Peking University, Beijing
 avatar: avatar.png
+ranking: 93
 ---
 
 [GitHub 主页](https://github.com/XuehaiPan)

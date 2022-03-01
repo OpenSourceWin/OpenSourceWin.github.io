@@ -1,7 +1,9 @@
 ---
-title: qiujiangkun
+slug: qiujiangkun
+name: QiuJiangkun
 description: Hong Kong, China
 avatar: avatar.png
+ranking: 90
 ---
 
 [GitHub 主页](https://github.com/qiujiangkun)

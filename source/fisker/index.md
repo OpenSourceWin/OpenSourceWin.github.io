@@ -1,7 +1,9 @@
 ---
-title: fisker
+slug: fisker
+name: fisker Cheung
 description: China
 avatar: avatar.png
+ranking: 37
 ---
 
 [GitHub 主页](https://github.com/fisker)

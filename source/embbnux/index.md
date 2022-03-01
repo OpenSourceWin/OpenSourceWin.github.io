@@ -1,7 +1,9 @@
 ---
-title: embbnux
+slug: embbnux
+name: Embbnux Ji
 description: Xiamen, China
 avatar: avatar.png
+ranking: 87
 ---
 
 [GitHub 主页](https://github.com/embbnux)
