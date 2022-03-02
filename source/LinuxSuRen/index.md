@@ -3,7 +3,7 @@ slug: LinuxSuRen
 name: Rick
 description: China
 avatar: avatar.png
-ranking: 9
+ranking: 10
 ---
 
 ### 主要贡献项目

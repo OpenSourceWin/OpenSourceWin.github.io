@@ -3,7 +3,7 @@ slug: AlexV525
 name: Alex Li
 description: Shanghai, China.
 avatar: avatar.png
-ranking: 12
+ranking: 13
 ---
 
 ### 主要贡献项目

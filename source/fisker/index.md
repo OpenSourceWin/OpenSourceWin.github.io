@@ -3,7 +3,7 @@ slug: fisker
 name: fisker Cheung
 description: China
 avatar: avatar.png
-ranking: 38
+ranking: 39
 ---
 
 ### 主要贡献项目

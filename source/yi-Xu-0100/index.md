@@ -3,7 +3,7 @@ slug: yi-Xu-0100
 name: yi_Xu
 description: China
 avatar: avatar.png
-ranking: 48
+ranking: 49
 ---
 
 ### 主要贡献项目
