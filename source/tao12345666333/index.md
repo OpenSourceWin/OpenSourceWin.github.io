@@ -3,7 +3,7 @@ slug: tao12345666333
 name: Jintao Zhang
 description: Beijing
 avatar: avatar.png
-ranking: 66
+ranking: 68
 ---
 
 ### 主要贡献项目

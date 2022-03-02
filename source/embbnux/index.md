@@ -3,7 +3,7 @@ slug: embbnux
 name: Embbnux Ji
 description: Xiamen, China
 avatar: avatar.png
-ranking: 89
+ranking: 91
 ---
 
 ### 主要贡献项目

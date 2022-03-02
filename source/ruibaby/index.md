@@ -3,7 +3,7 @@ slug: ruibaby
 name: Ryan Wang
 description: Chengdu, China
 avatar: avatar.png
-ranking: 77
+ranking: 79
 ---
 
 ### 主要贡献项目
