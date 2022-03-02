@@ -3,7 +3,7 @@ slug: winlinvip
 name: Winlin
 description: beijing
 avatar: avatar.png
-ranking: 77
+ranking: 78
 ---
 
 ### 主要贡献项目
