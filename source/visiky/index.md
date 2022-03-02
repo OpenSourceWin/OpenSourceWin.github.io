@@ -3,7 +3,7 @@ slug: visiky
 name: visiky
 description: HANGZHOU (杭州)
 avatar: avatar.png
-ranking: 46
+ranking: 47
 ---
 
 ### 主要贡献项目

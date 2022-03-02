@@ -3,7 +3,7 @@ slug: iChenLei
 name: Lei Chen
 description: Shanghai China
 avatar: avatar.png
-ranking: 58
+ranking: 59
 ---
 
 ### 主要贡献项目

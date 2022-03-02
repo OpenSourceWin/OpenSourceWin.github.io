@@ -3,7 +3,7 @@ slug: huan
 name: Huan (李卓桓)
 description: China
 avatar: avatar.png
-ranking: 6
+ranking: 7
 ---
 
 ### 主要贡献项目

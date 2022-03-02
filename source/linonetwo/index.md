@@ -3,7 +3,7 @@ slug: linonetwo
 name: lin onetwo
 description: ShanghaiTech University
 avatar: avatar.png
-ranking: 25
+ranking: 26
 ---
 
 ### 主要贡献项目

@@ -3,7 +3,7 @@ slug: uranusjr
 name: Tzu-ping Chung
 description: Taipei, Taiwan
 avatar: avatar.png
-ranking: 17
+ranking: 18
 ---
 
 ### 主要贡献项目

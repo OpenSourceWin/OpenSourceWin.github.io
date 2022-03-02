@@ -3,7 +3,7 @@ slug: YunYouJun
 name: 云游君
 description: China
 avatar: avatar.png
-ranking: 39
+ranking: 40
 ---
 
 ### 主要贡献项目

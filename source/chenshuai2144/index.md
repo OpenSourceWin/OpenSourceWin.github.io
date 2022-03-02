@@ -3,7 +3,7 @@ slug: chenshuai2144
 name: 陈帅
 description: 浙江杭州
 avatar: avatar.png
-ranking: 11
+ranking: 12
 ---
 
 ### 主要贡献项目

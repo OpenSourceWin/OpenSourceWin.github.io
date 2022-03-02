@@ -3,7 +3,7 @@ slug: waruqi
 name: ruki
 description: Shanghai, China
 avatar: avatar.png
-ranking: 35
+ranking: 36
 ---
 
 ### 主要贡献项目

@@ -3,7 +3,7 @@ slug: hustcc
 name: hustcc
 description: HangZhou, China
 avatar: avatar.png
-ranking: 32
+ranking: 33
 ---
 
 ### 主要贡献项目

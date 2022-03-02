@@ -3,7 +3,7 @@ slug: getActivity
 name: Android轮子哥
 description: Guangzhou,China
 avatar: avatar.png
-ranking: 62
+ranking: 63
 ---
 
 ### 主要贡献项目

@@ -3,7 +3,7 @@ slug: ZeyuChen
 name: Zeyu Chen
 description: Shenzhen
 avatar: avatar.png
-ranking: 78
+ranking: 79
 ---
 
 ### 主要贡献项目
