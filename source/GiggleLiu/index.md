@@ -3,7 +3,7 @@ slug: GiggleLiu
 name: Jinguo Liu
 description: Beijing, China
 avatar: avatar.png
-ranking: 76
+ranking: 78
 ---
 
 ### 主要贡献项目

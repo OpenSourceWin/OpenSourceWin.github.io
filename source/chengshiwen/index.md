@@ -3,7 +3,7 @@ slug: chengshiwen
 name: Shiwen Cheng
 description: Beijing, China
 avatar: avatar.png
-ranking: 82
+ranking: 84
 ---
 
 ### 主要贡献项目

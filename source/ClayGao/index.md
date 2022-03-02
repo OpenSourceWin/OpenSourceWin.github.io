@@ -3,7 +3,7 @@ slug: ClayGao
 name: clayGao
 description: Taiwan
 avatar: avatar.png
-ranking: 84
+ranking: 86
 ---
 
 ### 主要贡献项目

@@ -3,7 +3,7 @@ slug: ruanwenjun
 name: Wenjun Ruan
 description: Shanghai China
 avatar: avatar.png
-ranking: 101
+ranking: 103
 ---
 
 ### 主要贡献项目
