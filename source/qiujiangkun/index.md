@@ -3,7 +3,7 @@ slug: qiujiangkun
 name: QiuJiangkun
 description: Hong Kong, China
 avatar: avatar.png
-ranking: 94
+ranking: 96
 ---
 
 ### 主要贡献项目

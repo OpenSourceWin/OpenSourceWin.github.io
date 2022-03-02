@@ -3,7 +3,7 @@ slug: yisibl
 name: 一丝
 description: China
 avatar: avatar.png
-ranking: 35
+ranking: 34
 ---
 
 ### 主要贡献项目

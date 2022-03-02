@@ -3,7 +3,7 @@ slug: jiasli
 name: Jiashuo Li
 description: Shanghai, China
 avatar: avatar.png
-ranking: 32
+ranking: 35
 ---
 
 ### 主要贡献项目
