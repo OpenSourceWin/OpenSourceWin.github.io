@@ -3,7 +3,7 @@ slug: dadiorchen
 name: Dadiorchen
 description: Beijing, China
 avatar: avatar.png
-ranking: 67
+ranking: 69
 ---
 
 ### 主要贡献项目

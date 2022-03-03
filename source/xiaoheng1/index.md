@@ -3,7 +3,7 @@ slug: xiaoheng1
 name: 肖恒
 description: China
 avatar: avatar.png
-ranking: 82
+ranking: 84
 ---
 
 ### 主要贡献项目
