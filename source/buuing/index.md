@@ -3,7 +3,7 @@ slug: buuing
 name: 菜唧唧
 description: 北京
 avatar: avatar.png
-ranking: 104
+ranking: 106
 ---
 
 ### 主要贡献项目
