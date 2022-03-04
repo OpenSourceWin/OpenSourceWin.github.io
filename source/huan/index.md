@@ -35,6 +35,7 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 ## Machine Learning & Conversational AI
 
 - ♏️ <https://github.com/snowkylin/tensorflow-handbook> [![Tensorflow Handbook](https://img.shields.io/github/stars/snowkylin/tensorflow-handbook.svg?style=social&label=)](https://github.com/snowkylin/tensorflow-handbook/stargazers/) 简单粗暴 TensorFlow 2 | A Concise Handbook of TensorFlow 2 | 一本简明的 TensorFlow 2 入门指导教程
+- ©️ <https://github.com/tensorflow/tensorflow> [![Google TensorFlow](https://img.shields.io/github/stars/tensorflow/tensorflow.svg?style=social&label=)](https://github.com/tensorflow/tensorflow/stargazers/) An Open Source Machine Learning Framework for Everyone ([PR](https://github.com/tensorflow/tensorflow/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/NVIDIA/nvidia-docker> [![Nvidia Docker](https://img.shields.io/github/stars/NVIDIA/nvidia-docker.svg?style=social&label=)](https://github.com/NVIDIA/nvidia-docker/stargazers/) Build and run Docker containers leveraging NVIDIA GPUs ([PR](https://github.com/NVIDIA/nvidia-docker/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/ivanseidel/IAMDinosaur> [![IAMDinosaur](https://img.shields.io/github/stars/ivanseidel/IAMDinosaur.svg?style=social&label=)](https://github.com/ivanseidel/IAMDinosaur/stargazers/) An Artificial Inteligence to teach Google's Dinosaur to jump cactus ([PR](https://github.com/ivanseidel/IAMDinosaur/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/zaidalyafeai/Swift4TF> - A set of notebooks explaining swift for tensorflow optimized to run in Google Collaboratory. ([PR](https://github.com/zaidalyafeai/Swift4TF/pulls?q=is%3Apr+author%3Ahuan))
@@ -48,21 +49,21 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 - ♏️ <https://github.com/wechaty/bot5> - BOT5 Club
 - ♏️ <https://github.com/zixia/bbs> - 大话西游 BBS
 - ©️ <https://github.com/google/season-of-docs> - Supporting materials for Google's Season of Docs 2021 ([PR](https://github.com/google/season-of-docs/pulls?q=is%3Apr+author%3Ahuan))
+- ©️ <https://github.com/MicrosoftDocs/rd-pr> Microsoft Regional Director website ([PR](https://github.com/MicrosoftDocs/rd-pr/pulls?q=is%3Apr+author%3Ahuan))
+- ©️ <https://github.com/OpenSourceWin/OpenSourceWin.github.io> opensource.win website ([PR](https://github.com/OpenSourceWin/OpenSourceWin.github.io/pulls?q=is%3Apr+author%3Ahuan))
 
-## Event-driven Programming
+
+## RxJS & Event-driven Programming
 
 - ♏️ <https://github.com/huan/ducks> - Reducer Bundles Manager for Redux, Implemented the Ducks Modular Proposal
+- ♏️ <https://github.com/huan/rx-queue> - Easy to Use RxJS Queue for Throttle/Debounce/Delay/DelayExecute
+- ©️ <https://github.com/ReactiveX/rxjs> [![RxJS](https://img.shields.io/github/stars/ReactiveX/rxjs.svg?style=social&label=)](https://github.com/ReactiveX/rxjs/stargazers/) A reactive programming library for JavaScript ([PR](https://github.com/ReactiveX/rxjs/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/statelyai/xstate> [![XState](https://img.shields.io/github/stars/statelyai/xstate.svg?style=social&label=)](https://github.com/statelyai/xstate/stargazers/) State machines and statecharts for the modern web. ([PR](https://github.com/statelyai/xstate/pulls?q=is%3Apr+author%3Ahuan))
 
 ## OpenAPI
 
 - ♏️ <https://github.com/wechaty/openapi> - Wechaty REST API Server with OpenAPI Specification (aka. Swagger)
 - ©️ <https://github.com/rohit-gohri/redocusaurus> - OpenAPI for Docusaurus v2 with Redoc ([PR](https://github.com/rohit-gohri/redocusaurus/pulls?q=is%3Apr+author%3Ahuan)))
-
-## RxJS
-
-- ♏️ <https://github.com/huan/rx-queue> - Easy to Use RxJS Queue for Throttle/Debounce/Delay/DelayExecute
-- ©️ <https://github.com/ReactiveX/rxjs> [![RxJS](https://img.shields.io/github/stars/ReactiveX/rxjs.svg?style=social&label=)](https://github.com/ReactiveX/rxjs/stargazers/) A reactive programming library for JavaScript ([PR](https://github.com/ReactiveX/rxjs/pulls?q=is%3Apr+author%3Ahuan))
 
 ## Docker & Networking
 
