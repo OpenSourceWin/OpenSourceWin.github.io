@@ -3,10 +3,8 @@ slug: cuiliang
 name: CuiLiang
 description: BeiJing
 avatar: avatar.png
-ranking: 71
+ranking: 77
 ---
-
-[GitHub 主页](https://github.com/cuiliang)
 
 ### 主要贡献项目
 

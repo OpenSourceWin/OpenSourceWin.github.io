@@ -3,10 +3,8 @@ slug: messense
 name: messense
 description: Shanghai, China
 avatar: avatar.png
-ranking: 26
+ranking: 28
 ---
-
-[GitHub 主页](https://github.com/messense)
 
 ### 主要贡献项目
 

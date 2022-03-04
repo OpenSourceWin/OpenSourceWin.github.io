@@ -3,10 +3,8 @@ slug: getActivity
 name: Android轮子哥
 description: Guangzhou,China
 avatar: avatar.png
-ranking: 61
+ranking: 63
 ---
-
-[GitHub 主页](https://github.com/getActivity)
 
 ### 主要贡献项目
 

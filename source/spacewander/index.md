@@ -3,10 +3,8 @@ slug: spacewander
 name: 罗泽轩
 description: Guangzhou,China
 avatar: avatar.png
-ranking: 19
+ranking: 21
 ---
-
-[GitHub 主页](https://github.com/spacewander)
 
 ### 主要贡献项目
 

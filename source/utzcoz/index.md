@@ -3,10 +3,8 @@ slug: utzcoz
 name: utzcoz
 description: Beijing, China
 avatar: avatar.png
-ranking: 54
+ranking: 56
 ---
-
-[GitHub 主页](https://github.com/utzcoz)
 
 ### 主要贡献项目
 

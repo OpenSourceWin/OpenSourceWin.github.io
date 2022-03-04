@@ -3,10 +3,8 @@ slug: tisonkun
 name: tison
 description: Guangzhou
 avatar: avatar.png
-ranking: 29
+ranking: 33
 ---
-
-[GitHub 主页](https://github.com/tisonkun)
 
 ### 主要贡献项目
 

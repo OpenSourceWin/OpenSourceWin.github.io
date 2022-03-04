@@ -2,10 +2,8 @@
 slug: Goooler
 description: Chengdu, China
 avatar: avatar.png
-ranking: 12
+ranking: 14
 ---
-
-[GitHub 主页](https://github.com/Goooler)
 
 ### 主要贡献项目
 

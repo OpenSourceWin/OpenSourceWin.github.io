@@ -6,8 +6,6 @@ avatar: avatar.png
 ranking: 2
 ---
 
-[GitHub 主页](https://github.com/hsluoyz)
-
 ### 主要贡献项目
 
 * <https://github.com/casdoor/casdoor>

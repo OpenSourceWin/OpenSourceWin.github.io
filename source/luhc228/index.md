@@ -2,10 +2,8 @@
 slug: luhc228
 description: Hangzhou, China
 avatar: avatar.png
-ranking: 84
+ranking: 92
 ---
-
-[GitHub 主页](https://github.com/luhc228)
 
 ### 主要贡献项目
 

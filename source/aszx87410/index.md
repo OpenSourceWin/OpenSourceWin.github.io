@@ -3,10 +3,8 @@ slug: aszx87410
 name: Huli
 description: Taipei, Taiwan
 avatar: avatar.png
-ranking: 46
+ranking: 48
 ---
-
-[GitHub 主页](https://github.com/aszx87410)
 
 ### 主要贡献项目
 

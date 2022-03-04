@@ -3,10 +3,8 @@ slug: qiujiangkun
 name: QiuJiangkun
 description: Hong Kong, China
 avatar: avatar.png
-ranking: 90
+ranking: 98
 ---
-
-[GitHub 主页](https://github.com/qiujiangkun)
 
 ### 主要贡献项目
 

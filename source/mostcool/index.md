@@ -6,8 +6,6 @@ avatar: avatar.png
 ranking: 32
 ---
 
-[GitHub 主页](https://github.com/mostcool)
-
 ### 主要贡献项目
 
 * <https://github.com/mostcool/ShedLock>

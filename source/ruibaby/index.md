@@ -3,10 +3,8 @@ slug: ruibaby
 name: Ryan Wang
 description: Chengdu, China
 avatar: avatar.png
-ranking: 75
+ranking: 83
 ---
-
-[GitHub 主页](https://github.com/ruibaby)
 
 ### 主要贡献项目
 

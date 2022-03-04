@@ -3,10 +3,8 @@ slug: NewByVector
 name: vector
 description: HangZhou China
 avatar: avatar.png
-ranking: 88
+ranking: 96
 ---
-
-[GitHub 主页](https://github.com/NewByVector)
 
 ### 主要贡献项目
 

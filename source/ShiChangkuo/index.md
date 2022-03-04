@@ -3,10 +3,8 @@ slug: ShiChangkuo
 name: shichangkuo
 description: Beijing, China
 avatar: avatar.png
-ranking: 95
+ranking: 103
 ---
-
-[GitHub 主页](https://github.com/ShiChangkuo)
 
 ### 主要贡献项目
 

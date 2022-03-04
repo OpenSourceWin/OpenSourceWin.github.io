@@ -3,10 +3,8 @@ slug: andyzhangx
 name: Andy Zhang
 description: Shanghai
 avatar: avatar.png
-ranking: 28
+ranking: 30
 ---
-
-[GitHub 主页](https://github.com/andyzhangx)
 
 ### 主要贡献项目
 

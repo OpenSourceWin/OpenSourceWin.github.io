@@ -3,10 +3,8 @@ slug: ShixiangWang
 name: Shixiang Wang (王诗翔)
 description: Guangzhou, China
 avatar: avatar.png
-ranking: 48
+ranking: 50
 ---
-
-[GitHub 主页](https://github.com/ShixiangWang)
 
 ### 主要贡献项目
 

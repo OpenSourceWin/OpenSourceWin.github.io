@@ -1,0 +1,20 @@
+---
+slug: sxzz
+name: 三咲智子
+description: China
+avatar: avatar.png
+ranking: 81
+---
+
+### 主要贡献项目
+
+* <https://github.com/element-plus/element-plus>
+* <https://github.com/element-plus/unplugin-element-plus>
+* <https://github.com/vuejs/vue-next>
+* <https://github.com/antfu/unplugin-auto-import>
+* <https://github.com/antfu/unplugin-vue2-script-setup>
+* <https://github.com/ElemeFE/element>
+* <https://github.com/mamoe/mirai>
+* <https://github.com/open-data-plan/g2plot-vue>
+* <https://github.com/travist/jsencrypt>
+* <https://github.com/junbaor/homebrew-brew>

@@ -6,8 +6,6 @@ avatar: avatar.png
 ranking: 1
 ---
 
-[GitHub 主页](https://github.com/zhenglaizhang)
-
 ### 主要贡献项目
 
 * <https://github.com/Azure/azure-rest-api-specs>

@@ -3,10 +3,8 @@ slug: Kenshin
 name: Kenshin Wang
 description: China
 avatar: avatar.png
-ranking: 43
+ranking: 45
 ---
-
-[GitHub 主页](https://github.com/Kenshin)
 
 ### 主要贡献项目
 
