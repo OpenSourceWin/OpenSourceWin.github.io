@@ -3,7 +3,7 @@ slug: wj-Mcat
 name: 骑马小猫
 description: Beijing
 avatar: avatar.png
-ranking: 71
+ranking: 72
 ---
 
 ### 主要贡献项目

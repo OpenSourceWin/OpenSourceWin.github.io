@@ -3,7 +3,7 @@ slug: sxzz
 name: 三咲智子
 description: China
 avatar: avatar.png
-ranking: 81
+ranking: 82
 ---
 
 ### 主要贡献项目

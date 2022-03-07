@@ -3,7 +3,7 @@ slug: CMingTseng
 name: Neo
 description: Taipei
 avatar: avatar.png
-ranking: 86
+ranking: 87
 ---
 
 ### 主要贡献项目

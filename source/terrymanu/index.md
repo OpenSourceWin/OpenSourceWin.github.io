@@ -3,7 +3,7 @@ slug: terrymanu
 name: Liang Zhang
 description: Beijing China
 avatar: avatar.png
-ranking: 67
+ranking: 68
 ---
 
 ### 主要贡献项目
