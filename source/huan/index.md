@@ -8,6 +8,10 @@ ranking: 7
 
 Huan is a serial entrepreneur, [active angel investor](http://pre-angel.com/peoples/zhuohuan-li/) with strong technology background. He is a widely recognized technical leader on conversational AI and open source cloud architectures. Huan is a [GitHub Star](https://stars.github.com/profiles/huan/), co-authored guide books ["Chatbot 0 to 1"](https://item.jd.com/12630213.html) and ["Concise Handbook of TensorFlow 2"](https://item.jd.com/12980534.html) and has been recognized by Microsoft, Google, and Tencent as [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003061), [GDE](https://developers.google.com/community/experts/directory/profile/profile-huan-li), and [TVP](https://cloud.tencent.com/tvp/138). He is a Chatbot Architect and speaks regularly at technical conferences around the world. Find out more about his experiences at <https://www.linkedin.com/in/zixia/>
 
+[![Wechaty](https://wechaty.js.org/img/wechaty-logo.svg)](https://wechaty.js.org)
+
+Huan is the creator and core developer of [Wechaty](https://wechaty.js.org). Wechaty is a Conversational RPA SDK for chatbot makers. With only 6 lines of code, you can create a bot on the most popular IMs like WeChat, Whatsapp, WeCom, Gitter, etc.
+
 Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ahuan) and [Issues](https://github.com/issues?q=is%3Aissue+author%3Ahuan)) to GitHub open-source projects:
 
 - **♏️** _means he is the creator or maintainer of the project_
@@ -41,7 +45,7 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 - ©️ <https://github.com/zaidalyafeai/Swift4TF> - A set of notebooks explaining swift for tensorflow optimized to run in Google Collaboratory. ([PR](https://github.com/zaidalyafeai/Swift4TF/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/Azure-Samples/cognitive-services-quickstart-code> - Code Examples used by the Quickstarts in the Cognitive Services Documentation ([PR](https://github.com/Azure-Samples/cognitive-services-quickstart-code/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/thunlp/Chinese_Rumor_Dataset> - 中文谣言数据 ([PR](https://github.com/thunlp/Chinese_Rumor_Dataset/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/CasterWx/python-girlfriend-mood> - kissing_closed_eyes Analyze her mood through her girlfriend's words ·女朋友聊天时的情绪波动图谱，没女朋友的可自用(雾）。 ([PR](https://github.com/CasterWx/python-girlfriend-mood/pulls?q=is%3Apr+author%3Ahuan))
+- ©️ <https://github.com/CasterWx/python-girlfriend-mood> - Analyze her mood through her girlfriend's words ·女朋友聊天时的情绪波动图谱，没女朋友的可自用(雾）。 ([PR](https://github.com/CasterWx/python-girlfriend-mood/pulls?q=is%3Apr+author%3Ahuan))
 
 ## Community
 
