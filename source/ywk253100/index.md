@@ -3,7 +3,7 @@ slug: ywk253100
 name: Wenkai Yin(尹文开)
 description: Beijing, China
 avatar: avatar.png
-ranking: 91
+ranking: 92
 ---
 
 ### 主要贡献项目

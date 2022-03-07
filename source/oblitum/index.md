@@ -3,7 +3,7 @@ slug: oblitum
 name: Francisco Lopes
 description: 無
 avatar: avatar.png
-ranking: 104
+ranking: 105
 ---
 
 ### 主要贡献项目

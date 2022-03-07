@@ -3,7 +3,7 @@ slug: danpovey
 name: Daniel Povey
 description: Beijing
 avatar: avatar.png
-ranking: 79
+ranking: 80
 ---
 
 ### 主要贡献项目
