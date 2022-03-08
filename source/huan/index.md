@@ -10,7 +10,7 @@ Huan is a serial entrepreneur, [active angel investor](http://pre-angel.com/peop
 
 [![Wechaty](https://wechaty.js.org/img/wechaty-logo.svg)](https://wechaty.js.org)
 
-Huan is the creator and core developer of [Wechaty](https://wechaty.js.org). Wechaty is a Conversational RPA SDK for chatbot makers. With only 6 lines of code, you can create a bot on the most popular IMs like WeChat, Whatsapp, WeCom, Gitter, etc.
+Huan is the creator and core developer of [Wechaty](https://wechaty.js.org) [![Wechaty GitHub Stars](https://img.shields.io/github/stars/wechaty/wechaty.svg?style=social&label=)](https://github.com/wechaty/wechaty/stargazers/). Wechaty is a Conversational RPA SDK for chatbot makers. With only 6 lines of code, you can create a bot on the most popular IMs like WeChat, Whatsapp, WeCom, Gitter, QQ, [etc](https://wechaty.js.org/docs/puppet-providers).
 
 Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ahuan) and [Issues](https://github.com/issues?q=is%3Aissue+author%3Ahuan)) to GitHub open-source projects:
 
