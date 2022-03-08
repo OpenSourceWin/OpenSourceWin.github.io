@@ -67,7 +67,7 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 ## OpenAPI
 
 - ♏️ <https://github.com/wechaty/openapi> - Wechaty REST API Server with OpenAPI Specification (aka. Swagger)
-- ©️ <https://github.com/rohit-gohri/redocusaurus> - OpenAPI for Docusaurus v2 with Redoc ([PR](https://github.com/rohit-gohri/redocusaurus/pulls?q=is%3Apr+author%3Ahuan)))
+- ©️ <https://github.com/rohit-gohri/redocusaurus> - OpenAPI for Docusaurus v2 with Redoc ([PR](https://github.com/rohit-gohri/redocusaurus/pulls?q=is%3Apr+author%3Ahuan))
 
 ## Docker & Networking
 
