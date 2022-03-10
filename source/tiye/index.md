@@ -1,5 +1,5 @@
 ---
-slug: jiyinyiyong
+slug: tiye
 name: 题叶
 description: Shanghai, China
 avatar: avatar.png
@@ -8,7 +8,7 @@ ranking: 3
 
 ### 主要贡献项目
 
-* <https://github.com/calcit-lang/calcit_runner.rs>
+* <https://github.com/calcit-lang/calcit>
 * <https://github.com/calcit-lang/calcit-runner-apis>
 * <https://github.com/Respo/respo.calcit>
 * <https://github.com/calcit-lang/calcit-runner.nim>
