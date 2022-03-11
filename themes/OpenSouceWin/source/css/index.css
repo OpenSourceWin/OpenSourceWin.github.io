@@ -158,6 +158,12 @@ a {
   max-width: 100%;
   height: auto;
 }
+.contribute br {
+  display: none;
+}
+.contribute a > img {
+  margin-right: 3px;
+}
 
 /* 移动端适配 */
 @media (max-width: 540px)  {
