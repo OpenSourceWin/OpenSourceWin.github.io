@@ -16,26 +16,6 @@ Huan is a serial entrepreneur, [active angel investor](http://pre-angel.com/peop
 [![Docker Pulls](https://img.shields.io/docker/pulls/wechaty/wechaty.svg?maxAge=2592000)](https://hub.docker.com/r/wechaty/wechaty/)
 [![ES Modules](https://img.shields.io/badge/ES-Modules-orange)](https://github.com/Chatie/tsconfig/issues/16)
 
-[![Wechaty Puppet WeChat](https://img.shields.io/badge/Puppet-WeChat-blueviolet)](https://wechaty.js.org/docs/puppet-providers/wechat/)
-[![Wechaty Puppet Whatsapp](https://img.shields.io/badge/Puppet-Whatsapp-blueviolet)](https://wechaty.js.org/docs/puppet-providers/whatsapp/)
-[![Wechaty Puppet Official Account](https://img.shields.io/badge/Puppet-Official%20Account-blueviolet)](https://wechaty.js.org/docs/puppet-providers/official-account/)
-[![Wechaty Puppet Gitter](https://img.shields.io/badge/Puppet-Gitter-blueviolet)](https://wechaty.js.org/docs/puppet-providers/gitter/)
-[![Wechaty Puppet Lark](https://img.shields.io/badge/Puppet-Lark-blueviolet)](https://wechaty.js.org/docs/puppet-providers/lark/)
-[![Wechaty Puppet PadLocal](https://img.shields.io/badge/Puppet-PadLocal-blueviolet)](https://wechaty.js.org/docs/puppet-providers/padlocal/)
-[![Wechaty Puppet WeChat4U](https://img.shields.io/badge/Puppet-WeChat4U-blueviolet)](https://wechaty.js.org/docs/puppet-providers/wechat4u/)
-[![Wechaty Puppet XP](https://img.shields.io/badge/Puppet-XP-blueviolet)](https://wechaty.js.org/docs/puppet-providers/xp/)
-[![Wechaty Puppet SimplePad](https://img.shields.io/badge/Puppet-SimplePad-blueviolet)](https://wechaty.js.org/docs/puppet-providers/simplepad/)
-[![Wechaty Puppet Oicq](https://img.shields.io/badge/Puppet-Oicq-blueviolet)](https://wechaty.js.org/docs/puppet-providers/oicq/)
-[![Wechaty Puppet Service](https://img.shields.io/badge/Puppet-Service-blueviolet)](https://wechaty.js.org/docs/puppet-providers/service/)
-[![Wechaty Puppet Mock](https://img.shields.io/badge/Puppet-Mock-blueviolet)](https://wechaty.js.org/docs/puppet-providers/mock/)
-[![Wechaty Puppet DIY](https://img.shields.io/badge/Provider-DIY-blueviolet)](https://wechaty.js.org/docs/puppet-providers/diy/)
-
-[![Wechaty Puppet Service WXWork](https://img.shields.io/badge/Service-WXWork-blue)](https://wechaty.js.org/docs/puppet-services/wxwork/)
-[![Wechaty Puppet Service PadLocal](https://img.shields.io/badge/Service-PadLocal-blue)](https://wechaty.js.org/docs/puppet-services/padlocal/)
-[![Wechaty Puppet Service Paimon](https://img.shields.io/badge/Service-Paimon-blue)](https://wechaty.js.org/docs/puppet-services/paimon/)
-[![Wechaty Puppet Service Donut](https://img.shields.io/badge/Service-Donut-blue)](https://wechaty.js.org/docs/puppet-services/donut/)
-[![Wechaty Puppet Service DIY](https://img.shields.io/badge/Service-DIY-blue)](https://wechaty.js.org/docs/puppet-services/diy/)
-
 Huan is the creator and core developer of [Wechaty](https://wechaty.js.org) [![Wechaty GitHub Stars](https://img.shields.io/github/stars/wechaty/wechaty.svg?style=social&label=)](https://github.com/wechaty/wechaty/stargazers/). Wechaty is a Conversational RPA SDK for chatbot makers. With only 6 lines of code, you can create a bot on the most popular IMs like [WeChat](https://wechaty.js.org/docs/puppet-providers/xp/), [Whatsapp](https://wechaty.js.org/docs/puppet-providers/whatsapp/), [WeCom](https://wechaty.js.org/docs/puppet-services/wxwork/), [Gitter](https://wechaty.js.org/docs/puppet-providers/gitter/), [QQ](https://wechaty.js.org/docs/puppet-providers/oicq/), [etc](https://wechaty.js.org/docs/puppet-providers).
 
 Some numbers for the Wechaty project:
