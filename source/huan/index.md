@@ -144,6 +144,7 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 ## Library & Tools
 
 - ♏️ <https://github.com/google/pinject> [![Python Inject](https://img.shields.io/github/stars/google/pinject.svg?style=social&label=)](https://github.com/google/pinject/stargazers/) A pythonic dependency injection library.
+- ♏️ <https://github.com/simonepri/pidtree/> 🚸 Cross platform children list of a PID.
 - ©️ <https://github.com/yaronn/blessed-contrib> [![Blessed Contrib](https://img.shields.io/github/stars/yaronn/blessed-contrib.svg?style=social&label=)](https://github.com/yaronn/blessed-contrib/stargazers/) Build terminal dashboards using ascii/ansi art and javascript ([PR](https://github.com/yaronn/blessed-contrib/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/toji/gl-matrix> [![GL Matrix](https://img.shields.io/github/stars/toji/gl-matrix.svg?style=social&label=)](https://github.com/toji/gl-matrix/stargazers/) Javascript Matrix and Vector library for High Performance WebGL apps ([PR](https://github.com/toji/gl-matrix/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/jtlapp/node-cleanup> - installs custom cleanup handlers that run on exiting node ([PR](https://github.com/jtlapp/node-cleanup/pulls?q=is%3Apr+author%3Ahuan))
