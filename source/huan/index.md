@@ -33,7 +33,7 @@ Some numbers for the Wechaty project:
 - 200+ [Contributors](https://wechaty.js.org/contributors/)
 - 1,000+ [Open-source Dependents](https://github.com/wechaty/wechaty/network/dependents)
 - 7,000+ [Pull Requests & Issues](https://github.com/issues?q=user%3Awechaty)
-- 12,000+ [GitHub Stars](https://github.com/wechaty/wechaty/stargazers/) ([history](https://star-history.com/#wechaty/wechaty&Date))
+- 12,000+ [GitHub Stars](https://github.com/wechaty/wechaty/stargazers/) ([📈](https://star-history.com/#wechaty/wechaty&Date))
 - 50,000+ [Docker Pulls](https://hub.docker.com/r/wechaty/wechaty)
 - 1,000,000+ [NPM Downloads](https://npm-stat.com/charts.html?package=wechaty&from=2016-05-01)
 
@@ -80,7 +80,6 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 - ©️ <https://github.com/google/season-of-docs> - Supporting materials for Google's Season of Docs 2021 ([PR](https://github.com/google/season-of-docs/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/MicrosoftDocs/rd-pr> Microsoft Regional Director website ([PR](https://github.com/MicrosoftDocs/rd-pr/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/OpenSourceWin/OpenSourceWin.github.io> opensource.win website ([PR](https://github.com/OpenSourceWin/OpenSourceWin.github.io/pulls?q=is%3Apr+author%3Ahuan))
-
 
 ## RxJS & Event-driven Programming
 
