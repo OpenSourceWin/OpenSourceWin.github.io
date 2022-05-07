@@ -33,7 +33,7 @@ Some numbers for the Wechaty project:
 - 200+ [Contributors](https://wechaty.js.org/contributors/)
 - 1,000+ [Open-source Dependents](https://github.com/wechaty/wechaty/network/dependents)
 - 7,000+ [Pull Requests & Issues](https://github.com/issues?q=user%3Awechaty)
-- 12,000+ [GitHub Stars](https://github.com/wechaty/wechaty/stargazers/) ([📈](https://star-history.com/#wechaty/wechaty&Date))
+- 12,000+ [GitHub Stars](https://github.com/wechaty/wechaty/stargazers/) [📈](https://star-history.com/#wechaty/wechaty&Date)
 - 50,000+ [Docker Pulls](https://hub.docker.com/r/wechaty/wechaty)
 - 1,000,000+ [NPM Downloads](https://npm-stat.com/charts.html?package=wechaty&from=2016-05-01)
 
