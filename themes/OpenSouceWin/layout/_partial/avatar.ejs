@@ -6,6 +6,8 @@
         image = 'https://avatars.githubusercontent.com/u/' + item.github_id;
     } else if (config.cover) {
         image = config.cover;
+    } else {
+        image = 'img/default-avatar.png'
     }
 %>
 <% if (image) { %>
