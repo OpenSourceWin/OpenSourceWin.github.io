@@ -38,11 +38,26 @@
 
     <div class="list" id="detail">
         <div class="main-title">榜单详情</div>
-        <div class="row mt-4">
-            <% site.pages.sort('ranking').each(function(item){ %>
-                <%- partial('_partial/card', {item: item}) %>
-            <% }); %>
-        </div>
+
+        <ol class="list-unstyled mt-4">
+            <%
+                const userMap = new Map();
+                for(let rankingItem of site.pages.data) {
+                    userMap.set(rankingItem.slug, rankingItem)
+                }
+            %>
+            <% for(let rankingYearItem of (site.data.rankingList?.sort((a, b) => (b?.year || 0) - (a?.year || 0)) || [])) { %>
+                <li> 
+                    <h3 class="text-center h2"> <%= rankingYearItem.year %> </h3>
+                    <div class="row mt-4">
+                        <% for (let user of rankingYearItem.ranking) { %>
+                            <% const userInfo = userMap.get(user) %>
+                            <%- partial('_partial/card', {item: {slug: user, ...userInfo}}) %>
+                        <% } %>
+                    </div>
+                </li>
+            <% } %>
+        </ol>
     </div>
 
     <%- partial('_partial/split') %>
