@@ -3,7 +3,6 @@ slug: juzhiyuan
 name: 琚致远
 description: China
 avatar: avatar.png
-ranking: 54
 ---
 
 ### 主要贡献项目

@@ -3,7 +3,6 @@ slug: horizonzy
 name: 赵延
 description: Chengdu, China
 avatar: avatar.png
-ranking: 55
 ---
 
 ### 主要贡献项目

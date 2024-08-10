@@ -3,7 +3,6 @@ slug: Brooooooklyn
 name: LongYinan
 description: Shanghai, China
 avatar: avatar.png
-ranking: 65
 ---
 
 ### 主要贡献项目

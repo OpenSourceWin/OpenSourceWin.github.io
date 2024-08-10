@@ -3,7 +3,6 @@ slug: johnnychen94
 name: Johnny Chen
 description: Shanghai, China
 avatar: avatar.png
-ranking: 24
 ---
 
 ### 主要贡献项目

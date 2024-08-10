@@ -3,7 +3,6 @@ slug: andyzhangx
 name: Andy Zhang
 description: Shanghai
 avatar: avatar.png
-ranking: 30
 ---
 
 ### 主要贡献项目

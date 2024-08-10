@@ -3,7 +3,6 @@ slug: sy-records
 name: 沈唁
 description: Xi'an, China
 avatar: avatar.png
-ranking: 15
 ---
 
 ### 主要贡献项目

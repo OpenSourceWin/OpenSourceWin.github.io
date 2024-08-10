@@ -3,7 +3,6 @@ slug: wu-sheng
 name: 吴晟 Wu Sheng
 description: Beijing(China), SF(US)
 avatar: avatar.png
-ranking: 16
 ---
 
 ### 主要贡献项目

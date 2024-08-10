@@ -3,7 +3,6 @@ slug: JeremyWuuuuu
 name: JeremyWuuuuu
 description: Shanghai, China
 avatar: avatar.png
-ranking: 66
 ---
 
 ### 主要贡献项目

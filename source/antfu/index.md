@@ -3,7 +3,6 @@ slug: antfu
 name: Anthony Fu
 description: China
 avatar: avatar.png
-ranking: 5
 ---
 
 ### 主要贡献项目

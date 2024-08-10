@@ -11,5 +11,5 @@
     }
 %>
 <% if (image) { %>
-    <img src="<%= image %>" alt="<%- item.title %>" class="rounded <%= className %>">
+    <img src="<%= image %>" loading="lazy" alt="<%- item.name ? item.name : item.slug %>" class="rounded <%= className %>">
 <% } %>

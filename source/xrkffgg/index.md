@@ -2,7 +2,6 @@
 slug: xrkffgg
 description: Beijing, China
 avatar: avatar.png
-ranking: 11
 ---
 
 ### 主要贡献项目

@@ -3,7 +3,6 @@ slug: tingyanshen
 name: 石头
 description: Wuxi ⇄ AnHui, China
 avatar: avatar.png
-ranking: 61
 ---
 
 ### 主要贡献项目

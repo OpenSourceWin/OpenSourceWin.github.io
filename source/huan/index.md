@@ -3,7 +3,6 @@ slug: huan
 name: Huan (李卓桓)
 description: Carpe Diem, Seize the Day.
 avatar: avatar.png
-ranking: 7
 ---
 
 Huan is a serial entrepreneur, [active angel investor](http://pre-angel.com/peoples/zhuohuan-li/) with strong technology background. He is a widely recognized technical leader on conversational AI and open source cloud architectures. Huan is a [GitHub Star](https://stars.github.com/profiles/huan/), co-authored guide books ["Chatbot 0 to 1"](https://item.jd.com/12630213.html) and ["Concise Handbook of TensorFlow 2"](https://item.jd.com/12980534.html) and has been recognized by Microsoft, Google, and Tencent as [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003061), [GDE](https://developers.google.com/community/experts/directory/profile/profile-huan-li), and [TVP](https://cloud.tencent.com/tvp/138). He is a Chatbot Architect and speaks regularly at technical conferences around the world. Find out more about his experiences at <https://www.linkedin.com/in/zixia/>

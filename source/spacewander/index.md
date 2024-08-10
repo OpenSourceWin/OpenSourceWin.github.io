@@ -3,7 +3,6 @@ slug: spacewander
 name: 罗泽轩
 description: Guangzhou,China
 avatar: avatar.png
-ranking: 21
 ---
 
 ### 主要贡献项目

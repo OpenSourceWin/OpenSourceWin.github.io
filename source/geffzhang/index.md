@@ -3,7 +3,6 @@ slug: geffzhang
 name: geffzhang
 description: Shenzhen,China
 avatar: avatar.png
-ranking: 60
 ---
 
 ### 主要贡献项目

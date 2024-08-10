@@ -3,7 +3,6 @@ slug: LaoshuBaby
 name: 快乐的老鼠宝宝
 description: Changping District,Beijing,China
 avatar: avatar.png
-ranking: 94
 ---
 
 ### 主要贡献项目
