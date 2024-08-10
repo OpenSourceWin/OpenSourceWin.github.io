@@ -2,7 +2,6 @@
 slug: Goooler
 description: Chengdu, China
 avatar: avatar.png
-ranking: 14
 ---
 
 ### 主要贡献项目

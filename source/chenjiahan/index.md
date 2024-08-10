@@ -3,7 +3,6 @@ slug: chenjiahan
 name: neverland
 description: Hangzhou, China
 avatar: avatar.png
-ranking: 25
 ---
 
 ### 主要贡献项目

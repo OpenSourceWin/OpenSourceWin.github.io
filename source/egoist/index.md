@@ -3,7 +3,6 @@ slug: egoist
 name: EGOIST
 description: China
 avatar: avatar.png
-ranking: 69
 ---
 
 ### 主要贡献项目

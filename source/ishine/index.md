@@ -2,7 +2,6 @@
 slug: ishine
 description: shanghai
 avatar: avatar.png
-ranking: 17
 ---
 
 ### 主要贡献项目

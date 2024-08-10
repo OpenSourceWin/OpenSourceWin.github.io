@@ -3,7 +3,6 @@ slug: tiye
 name: 题叶
 description: Shanghai, China
 avatar: avatar.png
-ranking: 3
 ---
 
 ### 主要贡献项目

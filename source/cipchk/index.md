@@ -3,7 +3,6 @@ slug: cipchk
 name: 卡色
 description: shanghai, china
 avatar: avatar.png
-ranking: 46
 ---
 
 ### 主要贡献项目

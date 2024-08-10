@@ -3,7 +3,6 @@ slug: 1715173329
 name: Tianling Shen
 description: Chongqing, China
 avatar: avatar.png
-ranking: 27
 ---
 
 ### 主要贡献项目

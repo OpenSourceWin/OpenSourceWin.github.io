@@ -3,7 +3,6 @@ slug: 88250
 name: D
 description: Kunming, China
 avatar: avatar.png
-ranking: 62
 ---
 
 ### 主要贡献项目

@@ -1,0 +1,7 @@
+<span class="fs-5 lh-sm">
+  <select class="text-secondary ranking">
+    <% years.forEach((item, index) => { %>
+      <option value="<%= item.ranking %>"><%= item.year %> #<%= item.ranking %></option>
+    <% }) %>
+  </select>
+</span>

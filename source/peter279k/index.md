@@ -3,7 +3,6 @@ slug: peter279k
 name: Chun-Sheng, Li
 description: Taipei, Taiwan
 avatar: avatar.png
-ranking: 8
 ---
 
 ### 主要贡献项目

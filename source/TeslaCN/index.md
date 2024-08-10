@@ -3,7 +3,6 @@ slug: TeslaCN
 name: 吴伟杰
 description: Beijing, China 北京
 avatar: avatar.png
-ranking: 67
 ---
 
 ### 主要贡献项目

@@ -3,7 +3,6 @@ slug: afc163
 name: afc163
 description: Hangzhou, China
 avatar: avatar.png
-ranking: 19
 ---
 
 ### 主要贡献项目

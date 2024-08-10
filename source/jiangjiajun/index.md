@@ -3,7 +3,6 @@ slug: jiangjiajun
 name: Jason
 description: Beijing
 avatar: avatar.png
-ranking: 95
 ---
 
 ### 主要贡献项目
