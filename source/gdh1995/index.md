@@ -3,7 +3,6 @@ slug: gdh1995
 name: Dahan Gong
 description: Beijing, China
 avatar: avatar.png
-ranking: 74
 ---
 
 ### 主要贡献项目

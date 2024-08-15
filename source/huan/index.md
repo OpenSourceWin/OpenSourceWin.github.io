@@ -3,10 +3,38 @@ slug: huan
 name: Huan (李卓桓)
 description: Carpe Diem, Seize the Day.
 avatar: avatar.png
-ranking: 7
 ---
 
 Huan is a serial entrepreneur, [active angel investor](http://pre-angel.com/peoples/zhuohuan-li/) with strong technology background. He is a widely recognized technical leader on conversational AI and open source cloud architectures. Huan is a [GitHub Star](https://stars.github.com/profiles/huan/), co-authored guide books ["Chatbot 0 to 1"](https://item.jd.com/12630213.html) and ["Concise Handbook of TensorFlow 2"](https://item.jd.com/12980534.html) and has been recognized by Microsoft, Google, and Tencent as [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003061), [GDE](https://developers.google.com/community/experts/directory/profile/profile-huan-li), and [TVP](https://cloud.tencent.com/tvp/138). He is a Chatbot Architect and speaks regularly at technical conferences around the world. Find out more about his experiences at <https://www.linkedin.com/in/zixia/>
+
+[![Wechaty](https://wechaty.js.org/img/wechaty-logo.svg)](https://wechaty.js.org)
+
+{% raw %}
+<center>
+{% endraw %}
+
+[![Gitter](https://badges.gitter.im/wechaty/wechaty.svg)](https://gitter.im/wechaty/wechaty?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-blue.svg)](https://www.typescriptlang.org/)
+[![ES Modules](https://img.shields.io/badge/ES-Modules-orange)](https://github.com/Chatie/tsconfig/issues/16)
+[![NPM Version](https://img.shields.io/npm/v/wechaty?color=brightgreen)](https://www.npmjs.com/package/wechaty)
+[![Downloads](https://img.shields.io/npm/dm/wechaty.svg?style=flat-square)](https://www.npmjs.com/package/wechaty)
+[![Docker Pulls](https://img.shields.io/docker/pulls/wechaty/wechaty.svg?maxAge=2592000)](https://hub.docker.com/r/wechaty/wechaty/)
+[![GitHub stars](https://img.shields.io/github/stars/wechaty/wechaty.svg?label=github%20stars)](https://github.com/wechaty/wechaty)
+
+{% raw %}
+</center>
+{% endraw %}
+
+Huan is the creator and core developer of [Wechaty](https://wechaty.js.org) [![Wechaty GitHub Stars](https://img.shields.io/github/stars/wechaty/wechaty.svg?style=social&label=)](https://github.com/wechaty/wechaty/stargazers/). Wechaty is a Conversational RPA SDK for chatbot makers. With only 6 lines of code, you can create a bot on the most popular IMs like [WeChat](https://wechaty.js.org/docs/puppet-providers/xp/), [Whatsapp](https://wechaty.js.org/docs/puppet-providers/whatsapp/), [WeCom](https://wechaty.js.org/docs/puppet-services/wxwork/), [Gitter](https://wechaty.js.org/docs/puppet-providers/gitter/), [QQ](https://wechaty.js.org/docs/puppet-providers/oicq/), [etc](https://wechaty.js.org/docs/puppet-providers).
+
+Some numbers for the Wechaty project:
+
+- 200+ [Contributors](https://wechaty.js.org/contributors/)
+- 1,000+ [Open-source Dependents](https://github.com/wechaty/wechaty/network/dependents)
+- 7,000+ [Pull Requests & Issues](https://github.com/issues?q=user%3Awechaty)
+- 12,000+ [GitHub Stars](https://github.com/wechaty/wechaty/stargazers/) [📈](https://star-history.com/#wechaty/wechaty&Date)
+- 50,000+ [Docker Pulls](https://hub.docker.com/r/wechaty/wechaty)
+- 1,000,000+ [NPM Downloads](https://npm-stat.com/charts.html?package=wechaty&from=2016-05-01)
 
 Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ahuan) and [Issues](https://github.com/issues?q=is%3Aissue+author%3Ahuan)) to GitHub open-source projects:
 
@@ -41,7 +69,7 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 - ©️ <https://github.com/zaidalyafeai/Swift4TF> - A set of notebooks explaining swift for tensorflow optimized to run in Google Collaboratory. ([PR](https://github.com/zaidalyafeai/Swift4TF/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/Azure-Samples/cognitive-services-quickstart-code> - Code Examples used by the Quickstarts in the Cognitive Services Documentation ([PR](https://github.com/Azure-Samples/cognitive-services-quickstart-code/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/thunlp/Chinese_Rumor_Dataset> - 中文谣言数据 ([PR](https://github.com/thunlp/Chinese_Rumor_Dataset/pulls?q=is%3Apr+author%3Ahuan))
-- ©️ <https://github.com/CasterWx/python-girlfriend-mood> - kissing_closed_eyes Analyze her mood through her girlfriend's words ·女朋友聊天时的情绪波动图谱，没女朋友的可自用(雾）。 ([PR](https://github.com/CasterWx/python-girlfriend-mood/pulls?q=is%3Apr+author%3Ahuan))
+- ©️ <https://github.com/CasterWx/python-girlfriend-mood> - Analyze her mood through her girlfriend's words ·女朋友聊天时的情绪波动图谱，没女朋友的可自用(雾）。 ([PR](https://github.com/CasterWx/python-girlfriend-mood/pulls?q=is%3Apr+author%3Ahuan))
 
 ## Community
 
@@ -51,7 +79,6 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 - ©️ <https://github.com/google/season-of-docs> - Supporting materials for Google's Season of Docs 2021 ([PR](https://github.com/google/season-of-docs/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/MicrosoftDocs/rd-pr> Microsoft Regional Director website ([PR](https://github.com/MicrosoftDocs/rd-pr/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/OpenSourceWin/OpenSourceWin.github.io> opensource.win website ([PR](https://github.com/OpenSourceWin/OpenSourceWin.github.io/pulls?q=is%3Apr+author%3Ahuan))
-
 
 ## RxJS & Event-driven Programming
 
@@ -63,7 +90,7 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 ## OpenAPI
 
 - ♏️ <https://github.com/wechaty/openapi> - Wechaty REST API Server with OpenAPI Specification (aka. Swagger)
-- ©️ <https://github.com/rohit-gohri/redocusaurus> - OpenAPI for Docusaurus v2 with Redoc ([PR](https://github.com/rohit-gohri/redocusaurus/pulls?q=is%3Apr+author%3Ahuan)))
+- ©️ <https://github.com/rohit-gohri/redocusaurus> - OpenAPI for Docusaurus v2 with Redoc ([PR](https://github.com/rohit-gohri/redocusaurus/pulls?q=is%3Apr+author%3Ahuan))
 
 ## Docker & Networking
 
@@ -115,6 +142,7 @@ Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3Ah
 ## Library & Tools
 
 - ♏️ <https://github.com/google/pinject> [![Python Inject](https://img.shields.io/github/stars/google/pinject.svg?style=social&label=)](https://github.com/google/pinject/stargazers/) A pythonic dependency injection library.
+- ♏️ <https://github.com/simonepri/pidtree/> 🚸 Cross platform children list of a PID.
 - ©️ <https://github.com/yaronn/blessed-contrib> [![Blessed Contrib](https://img.shields.io/github/stars/yaronn/blessed-contrib.svg?style=social&label=)](https://github.com/yaronn/blessed-contrib/stargazers/) Build terminal dashboards using ascii/ansi art and javascript ([PR](https://github.com/yaronn/blessed-contrib/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/toji/gl-matrix> [![GL Matrix](https://img.shields.io/github/stars/toji/gl-matrix.svg?style=social&label=)](https://github.com/toji/gl-matrix/stargazers/) Javascript Matrix and Vector library for High Performance WebGL apps ([PR](https://github.com/toji/gl-matrix/pulls?q=is%3Apr+author%3Ahuan))
 - ©️ <https://github.com/jtlapp/node-cleanup> - installs custom cleanup handlers that run on exiting node ([PR](https://github.com/jtlapp/node-cleanup/pulls?q=is%3Apr+author%3Ahuan))

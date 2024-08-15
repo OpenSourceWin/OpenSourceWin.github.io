@@ -3,7 +3,6 @@ slug: hsluoyz
 name: Yang Luo
 description: Beijing
 avatar: avatar.png
-ranking: 2
 ---
 
 ### 主要贡献项目

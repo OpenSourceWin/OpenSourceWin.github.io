@@ -3,7 +3,6 @@ slug: aviraxp
 name: Wang Han
 description: Beijing, China
 avatar: avatar.png
-ranking: 87
 ---
 
 ### 主要贡献项目

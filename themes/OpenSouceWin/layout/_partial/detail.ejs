@@ -10,25 +10,34 @@
         </div>
     </div>
 </div>
-<!-- 詳情 -->
+<!-- 详情 -->
 <div class="container pt-5 detail-content">
     <div class="row justify-content-center">
         <div class="col-sm-12 col-md-8">
             <div class="d-flex flex-column flex-md-row  justify-content-between">
                 <div class="d-flex">
-                    <%- partial('avatar', { className: 'detail-avatar me-4', item: item}) %>
+                    <%- partial('avatar', {className: 'detail-avatar me-4', item: item}) %>
                     <div>
                         <div class="detail-nick">
                             <%- item.name ? item.name : item.slug %>
-                            <span class="text-secondary fs-5 lh-sm ranking">#<%- item.ranking %></span>
+                            <%
+                                const years = site.data.rankingList?.sort((a,b)=>b.year - a.year).flatMap(({ year, annualRanking }) =>
+                                  annualRanking
+                                    .filter(({ login }) => login == item.slug)
+                                    .map(({ ranking }) => ({ year, ranking }))
+                                );
+                            %>
+                            <% if(years.length) { %>
+                                <%- partial('_partial/ranking', {years: years}) %>
+                            <% } %>
                         </div>
                         <div class="text-secondary mt-2"><%- item.description %></div>
                         <div class="mt-2">
-                            <%- link_to('http://github.com/' + item.slug, '@' + item.slug, {external: true}) %>
+                            <%- link_to('https://github.com/' + item.slug, '@' + item.slug, {external: true}) %>
                         </div>
                     </div>
                 </div>
-                <%- image_tag('img/award.png', {class: 'mt-3 mt-sm-0 d-none d-lg-block', alt: 'logo', width: 250, height: 170}) %>
+                <%- image_tag('img/award.png', {class: 'mt-3 mt-sm-0 d-none d-lg-block', alt: 'Hacking Heros Logo', width: 250, height: 170}) %>
             </div>
 
             <div class="contribute mt-4 mt-sm-1">

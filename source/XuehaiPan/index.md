@@ -3,7 +3,6 @@ slug: XuehaiPan
 name: Xuehai Pan
 description: Peking University, Beijing
 avatar: avatar.png
-ranking: 101
 ---
 
 ### 主要贡献项目

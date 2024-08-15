@@ -3,7 +3,6 @@ slug: zhenglaizhang
 name: Zhenglai Zhang
 description: Shanghai China
 avatar: avatar.png
-ranking: 1
 ---
 
 ### 主要贡献项目

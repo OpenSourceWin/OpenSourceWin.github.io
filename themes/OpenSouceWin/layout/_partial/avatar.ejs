@@ -6,8 +6,10 @@
         image = 'https://avatars.githubusercontent.com/u/' + item.github_id;
     } else if (config.cover) {
         image = config.cover;
+    } else {
+        image = 'img/default-avatar.png'
     }
 %>
 <% if (image) { %>
-    <img src="<%= image %>" alt="<%- item.title %>" class="rounded <%= className %>">
+    <img src="<%= image %>" loading="lazy" alt="<%- item.name ? item.name : item.slug %>" class="rounded <%= className %>">
 <% } %>

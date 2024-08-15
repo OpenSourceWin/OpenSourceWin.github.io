@@ -3,7 +3,6 @@ slug: QC-L
 name: QiChang Li
 description: HangZhou, China
 avatar: avatar.png
-ranking: 102
 ---
 
 ### 主要贡献项目

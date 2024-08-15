@@ -3,7 +3,6 @@ slug: NewByVector
 name: vector
 description: HangZhou China
 avatar: avatar.png
-ranking: 96
 ---
 
 ### 主要贡献项目

@@ -3,7 +3,6 @@ slug: JounQin
 name: JounQin
 description: Nanjing, Jiangsu, PRC
 avatar: avatar.png
-ranking: 9
 ---
 
 ### 主要贡献项目

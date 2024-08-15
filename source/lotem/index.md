@@ -3,7 +3,6 @@ slug: lotem
 name: 居戎氏
 description: Beijing, China
 avatar: avatar.png
-ranking: 72
 ---
 
 ### 主要贡献项目

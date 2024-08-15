@@ -3,7 +3,6 @@ slug: Yurunsoft
 name: Yurun
 description: China JiangSu WuXi
 avatar: avatar.png
-ranking: 73
 ---
 
 ### 主要贡献项目
