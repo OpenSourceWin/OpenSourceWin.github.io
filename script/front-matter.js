@@ -35,28 +35,27 @@ async function updateFrontMatter(login, item) {
             if (existingFrontMatter.includes('github_id:') && existingFrontMatter.includes('github_avatar:')) {
                 updatedFrontMatter = updatedFrontMatter
                     .replace(/(github_id: .*\n)/, `github_id: ${github_id}\n`)
-                    .replace(/(github_avatar: .*\n)/, `github_avatar: ${github_avatar}\n`);
+                    .replace(/(github_avatar: .*\n)/, `github_avatar: ${github_avatar}`);
             } else {
                 updatedFrontMatter += newFields;
             }
 
             // 替换更新后的 Front-matter
-            const newContent = content.replace(frontMatterRegex, `---\n${updatedFrontMatter}\n---`);
+            const newContent = content.replace(frontMatterRegex, `---\n${updatedFrontMatter}---`);
             await fs.writeFile(indexPath, newContent, 'utf-8');
             console.log(`Updated index.md for ${login}`);
         } else {
             // 如果没有找到 Front-matter，创建新的
-            const newContent = `---\n${newFields}---\n\n${content}`;
+            const newContent = `---\n${newFields}---\n ${content}`;
             await fs.writeFile(indexPath, newContent, 'utf-8');
             console.log(`Generated new index.md for ${login}`);
         }
 
     } catch (error) {
         // 文件不存在，创建目录和文件
-        const frontMatter = `slug: ${login}\n
-name: ${github_name}\ndescription: ${location}\n`
+        const frontMatter = `slug: ${login}\nname: ${github_name}\ndescription: ${location}`
         await fs.mkdir(dirPath, { recursive: true });
-        const newContent = `---\n${frontMatter}${newFields}---\n\n ### 主要贡献项目\n`;
+        const newContent = `---\n${frontMatter}${newFields}---\n\n### 主要贡献项目\n\n项目待补充\n`;
         await fs.writeFile(indexPath, newContent, 'utf-8');
         console.log(`Generated new index.md for ${login}`);
     }
