@@ -1,1606 +1,1802 @@
 [
-    {
-        "year": 2021,
-        "annualRanking": [
-            {
-                "ranking": 1,
-                "login": "zhenglaizhang"
-            },
-            {
-                "ranking": 2,
-                "login": "hsluoyz"
-            },
-            {
-                "ranking": 3,
-                "login": "tiye"
-            },
-            {
-                "ranking": 4,
-                "login": "felixonmars"
-            },
-            {
-                "ranking": 5,
-                "login": "antfu"
-            },
-            {
-                "ranking": 6,
-                "login": "pahud"
-            },
-            {
-                "ranking": 7,
-                "login": "huan"
-            },
-            {
-                "ranking": 8,
-                "login": "peter279k"
-            },
-            {
-                "ranking": 9,
-                "login": "JounQin"
-            },
-            {
-                "ranking": 10,
-                "login": "LinuxSuRen"
-            },
-            {
-                "ranking": 11,
-                "login": "xrkffgg"
-            },
-            {
-                "ranking": 12,
-                "login": "chenshuai2144"
-            },
-            {
-                "ranking": 13,
-                "login": "AlexV525"
-            },
-            {
-                "ranking": 14,
-                "login": "Goooler"
-            },
-            {
-                "ranking": 15,
-                "login": "sy-records"
-            },
-            {
-                "ranking": 16,
-                "login": "wu-sheng"
-            },
-            {
-                "ranking": 17,
-                "login": "ishine"
-            },
-            {
-                "ranking": 18,
-                "login": "uranusjr"
-            },
-            {
-                "ranking": 19,
-                "login": "afc163"
-            },
-            {
-                "ranking": 20,
-                "login": "mysterywolf"
-            },
-            {
-                "ranking": 21,
-                "login": "spacewander"
-            },
-            {
-                "ranking": 22,
-                "login": "njzjz"
-            },
-            {
-                "ranking": 23,
-                "login": "skyzh"
-            },
-            {
-                "ranking": 24,
-                "login": "johnnychen94"
-            },
-            {
-                "ranking": 25,
-                "login": "chenjiahan"
-            },
-            {
-                "ranking": 26,
-                "login": "linonetwo"
-            },
-            {
-                "ranking": 27,
-                "login": "1715173329"
-            },
-            {
-                "ranking": 28,
-                "login": "messense"
-            },
-            {
-                "ranking": 29,
-                "login": "kezhenxu94"
-            },
-            {
-                "ranking": 30,
-                "login": "andyzhangx"
-            },
-            {
-                "ranking": 31,
-                "login": "hustcc"
-            },
-            {
-                "ranking": 32,
-                "login": "mostcool"
-            },
-            {
-                "ranking": 33,
-                "login": "tisonkun"
-            },
-            {
-                "ranking": 34,
-                "login": "yisibl"
-            },
-            {
-                "ranking": 35,
-                "login": "jiasli"
-            },
-            {
-                "ranking": 36,
-                "login": "waruqi"
-            },
-            {
-                "ranking": 37,
-                "login": "seisman"
-            },
-            {
-                "ranking": 38,
-                "login": "SekiBetu"
-            },
-            {
-                "ranking": 39,
-                "login": "fisker"
-            },
-            {
-                "ranking": 40,
-                "login": "YunYouJun"
-            },
-            {
-                "ranking": 41,
-                "login": "haizhilin2013"
-            },
-            {
-                "ranking": 42,
-                "login": "limingxinleo"
-            },
-            {
-                "ranking": 43,
-                "login": "hi-rustin"
-            },
-            {
-                "ranking": 44,
-                "login": "yihong0618"
-            },
-            {
-                "ranking": 45,
-                "login": "Kenshin"
-            },
-            {
-                "ranking": 46,
-                "login": "cipchk"
-            },
-            {
-                "ranking": 47,
-                "login": "visiky"
-            },
-            {
-                "ranking": 48,
-                "login": "aszx87410"
-            },
-            {
-                "ranking": 49,
-                "login": "yi-Xu-0100"
-            },
-            {
-                "ranking": 50,
-                "login": "ShixiangWang"
-            },
-            {
-                "ranking": 51,
-                "login": "pissang"
-            },
-            {
-                "ranking": 52,
-                "login": "xiaocang"
-            },
-            {
-                "ranking": 53,
-                "login": "littletomatodonkey"
-            },
-            {
-                "ranking": 54,
-                "login": "juzhiyuan"
-            },
-            {
-                "ranking": 55,
-                "login": "horizonzy"
-            },
-            {
-                "ranking": 56,
-                "login": "utzcoz"
-            },
-            {
-                "ranking": 57,
-                "login": "vinceliuice"
-            },
-            {
-                "ranking": 58,
-                "login": "JohnNiang"
-            },
-            {
-                "ranking": 59,
-                "login": "iChenLei"
-            },
-            {
-                "ranking": 60,
-                "login": "geffzhang"
-            },
-            {
-                "ranking": 61,
-                "login": "tingyanshen"
-            },
-            {
-                "ranking": 62,
-                "login": "88250"
-            },
-            {
-                "ranking": 63,
-                "login": "getActivity"
-            },
-            {
-                "ranking": 64,
-                "login": "plainheart"
-            },
-            {
-                "ranking": 65,
-                "login": "Brooooooklyn"
-            },
-            {
-                "ranking": 66,
-                "login": "JeremyWuuuuu"
-            },
-            {
-                "ranking": 67,
-                "login": "TeslaCN"
-            },
-            {
-                "ranking": 68,
-                "login": "terrymanu"
-            },
-            {
-                "ranking": 69,
-                "login": "egoist"
-            },
-            {
-                "ranking": 70,
-                "login": "dadiorchen"
-            },
-            {
-                "ranking": 71,
-                "login": "tao12345666333"
-            },
-            {
-                "ranking": 72,
-                "login": "wj-Mcat"
-            },
-            {
-                "ranking": 73,
-                "login": "lotem"
-            },
-            {
-                "ranking": 74,
-                "login": "Yurunsoft"
-            },
-            {
-                "ranking": 75,
-                "login": "gdh1995"
-            },
-            {
-                "ranking": 76,
-                "login": "rxliuli"
-            },
-            {
-                "ranking": 77,
-                "login": "ffang"
-            },
-            {
-                "ranking": 78,
-                "login": "cuiliang"
-            },
-            {
-                "ranking": 79,
-                "login": "justjavac"
-            },
-            {
-                "ranking": 80,
-                "login": "danpovey"
-            },
-            {
-                "ranking": 81,
-                "login": "winlinvip"
-            },
-            {
-                "ranking": 82,
-                "login": "sxzz"
-            },
-            {
-                "ranking": 83,
-                "login": "GiggleLiu"
-            },
-            {
-                "ranking": 84,
-                "login": "ruibaby"
-            },
-            {
-                "ranking": 85,
-                "login": "xiaoheng1"
-            },
-            {
-                "ranking": 86,
-                "login": "ZeyuChen"
-            },
-            {
-                "ranking": 87,
-                "login": "CMingTseng"
-            },
-            {
-                "ranking": 88,
-                "login": "aviraxp"
-            },
-            {
-                "ranking": 89,
-                "login": "chengshiwen"
-            },
-            {
-                "ranking": 90,
-                "login": "Sciroccogti"
-            },
-            {
-                "ranking": 91,
-                "login": "ClayGao"
-            },
-            {
-                "ranking": 92,
-                "login": "ywk253100"
-            },
-            {
-                "ranking": 93,
-                "login": "luhc228"
-            },
-            {
-                "ranking": 94,
-                "login": "LaoshuBaby"
-            },
-            {
-                "ranking": 95,
-                "login": "jiangjiajun"
-            },
-            {
-                "ranking": 96,
-                "login": "embbnux"
-            },
-            {
-                "ranking": 97,
-                "login": "NewByVector"
-            },
-            {
-                "ranking": 98,
-                "login": "CaptainEven"
-            },
-            {
-                "ranking": 99,
-                "login": "qiujiangkun"
-            }
-        ]
-    },
-    {
-        "year": 2022,
-        "annualRanking": [
-            {
-                "ranking": 1,
-                "login": "pahud"
-            },
-            {
-                "ranking": 2,
-                "login": "tisonkun"
-            },
-            {
-                "ranking": 3,
-                "login": "antfu"
-            },
-            {
-                "ranking": 4,
-                "login": "messense"
-            },
-            {
-                "ranking": 5,
-                "login": "felixonmars"
-            },
-            {
-                "ranking": 6,
-                "login": "LinuxSuRen"
-            },
-            {
-                "ranking": 7,
-                "login": "Goooler"
-            },
-            {
-                "ranking": 8,
-                "login": "JounQin"
-            },
-            {
-                "ranking": 9,
-                "login": "hsluoyz"
-            },
-            {
-                "ranking": 10,
-                "login": "njzjz"
-            },
-            {
-                "ranking": 11,
-                "login": "tiye"
-            },
-            {
-                "ranking": 12,
-                "login": "andyzhangx"
-            },
-            {
-                "ranking": 13,
-                "login": "spacewander"
-            },
-            {
-                "ranking": 14,
-                "login": "wu-sheng"
-            },
-            {
-                "ranking": 15,
-                "login": "sangshuduo"
-            },
-            {
-                "ranking": 16,
-                "login": "mysterywolf"
-            },
-            {
-                "ranking": 17,
-                "login": "wzshiming"
-            },
-            {
-                "ranking": 18,
-                "login": "sxzz"
-            },
-            {
-                "ranking": 19,
-                "login": "justjavac"
-            },
-            {
-                "ranking": 20,
-                "login": "fisker"
-            },
-            {
-                "ranking": 21,
-                "login": "kezhenxu94"
-            },
-            {
-                "ranking": 22,
-                "login": "pacoxu"
-            },
-            {
-                "ranking": 23,
-                "login": "AlexV525"
-            },
-            {
-                "ranking": 24,
-                "login": "johnnychen94"
-            },
-            {
-                "ranking": 25,
-                "login": "dadiorchen"
-            },
-            {
-                "ranking": 26,
-                "login": "seisman"
-            },
-            {
-                "ranking": 27,
-                "login": "ruibaby"
-            },
-            {
-                "ranking": 28,
-                "login": "afc163"
-            },
-            {
-                "ranking": 29,
-                "login": "Brooooooklyn"
-            },
-            {
-                "ranking": 30,
-                "login": "skyzh"
-            },
-            {
-                "ranking": 31,
-                "login": "weizhoublue"
-            },
-            {
-                "ranking": 32,
-                "login": "my-git9"
-            },
-            {
-                "ranking": 33,
-                "login": "windsonsea"
-            },
-            {
-                "ranking": 34,
-                "login": "Yikun"
-            },
-            {
-                "ranking": 35,
-                "login": "hi-rustin"
-            },
-            {
-                "ranking": 36,
-                "login": "peter279k"
-            },
-            {
-                "ranking": 37,
-                "login": "brooksmtownsend"
-            },
-            {
-                "ranking": 38,
-                "login": "waruqi"
-            },
-            {
-                "ranking": 39,
-                "login": "chenjiahan"
-            },
-            {
-                "ranking": 40,
-                "login": "JohnNiang"
-            },
-            {
-                "ranking": 41,
-                "login": "yisibl"
-            },
-            {
-                "ranking": 42,
-                "login": "1715173329"
-            },
-            {
-                "ranking": 43,
-                "login": "uranusjr"
-            },
-            {
-                "ranking": 44,
-                "login": "kerthcet"
-            },
-            {
-                "ranking": 45,
-                "login": "sy-records"
-            },
-            {
-                "ranking": 46,
-                "login": "tao12345666333"
-            },
-            {
-                "ranking": 47,
-                "login": "linonetwo"
-            },
-            {
-                "ranking": 48,
-                "login": "yankay"
-            },
-            {
-                "ranking": 49,
-                "login": "terrymanu"
-            },
-            {
-                "ranking": 50,
-                "login": "utzcoz"
-            },
-            {
-                "ranking": 51,
-                "login": "yihong0618"
-            },
-            {
-                "ranking": 52,
-                "login": "huan"
-            },
-            {
-                "ranking": 53,
-                "login": "tyn1998"
-            },
-            {
-                "ranking": 54,
-                "login": "YunYouJun"
-            },
-            {
-                "ranking": 55,
-                "login": "zhicheng-ning"
-            },
-            {
-                "ranking": 56,
-                "login": "ShixiangWang"
-            },
-            {
-                "ranking": 57,
-                "login": "GiggleLiu"
-            },
-            {
-                "ranking": 58,
-                "login": "geffzhang"
-            },
-            {
-                "ranking": 59,
-                "login": "XuehaiPan"
-            },
-            {
-                "ranking": 60,
-                "login": "88250"
-            },
-            {
-                "ranking": 61,
-                "login": "jiasli"
-            },
-            {
-                "ranking": 62,
-                "login": "luhc228"
-            },
-            {
-                "ranking": 63,
-                "login": "jiangjiajun"
-            },
-            {
-                "ranking": 64,
-                "login": "visiky"
-            },
-            {
-                "ranking": 65,
-                "login": "yeya24"
-            },
-            {
-                "ranking": 66,
-                "login": "Yurunsoft"
-            },
-            {
-                "ranking": 67,
-                "login": "ShiChangkuo"
-            },
-            {
-                "ranking": 68,
-                "login": "cyclinder"
-            },
-            {
-                "ranking": 69,
-                "login": "xiaohuoni"
-            },
-            {
-                "ranking": 70,
-                "login": "ruanwenjun"
-            },
-            {
-                "ranking": 71,
-                "login": "yangchuansheng"
-            },
-            {
-                "ranking": 72,
-                "login": "calvin0327"
-            },
-            {
-                "ranking": 73,
-                "login": "cipchk"
-            },
-            {
-                "ranking": 74,
-                "login": "JaredTan95"
-            },
-            {
-                "ranking": 75,
-                "login": "wj-Mcat"
-            },
-            {
-                "ranking": 76,
-                "login": "zwwhdls"
-            },
-            {
-                "ranking": 77,
-                "login": "guqing"
-            },
-            {
-                "ranking": 78,
-                "login": "LaoshuBaby"
-            },
-            {
-                "ranking": 79,
-                "login": "embbnux"
-            },
-            {
-                "ranking": 80,
-                "login": "juzhiyuan"
-            },
-            {
-                "ranking": 81,
-                "login": "iChenLei"
-            },
-            {
-                "ranking": 82,
-                "login": "plainheart"
-            },
-            {
-                "ranking": 83,
-                "login": "chenshuai2144"
-            },
-            {
-                "ranking": 84,
-                "login": "kebe7jun"
-            },
-            {
-                "ranking": 85,
-                "login": "limingxinleo"
-            },
-            {
-                "ranking": 86,
-                "login": "littletomatodonkey"
-            },
-            {
-                "ranking": 87,
-                "login": "cleverhu"
-            },
-            {
-                "ranking": 88,
-                "login": "frank-zsy"
-            },
-            {
-                "ranking": 89,
-                "login": "Frapschen"
-            },
-            {
-                "ranking": 90,
-                "login": "chaunceyjiang"
-            },
-            {
-                "ranking": 91,
-                "login": "ywk253100"
-            },
-            {
-                "ranking": 92,
-                "login": "hustcc"
-            },
-            {
-                "ranking": 93,
-                "login": "mostcool"
-            },
-            {
-                "ranking": 94,
-                "login": "yi-Xu-0100"
-            },
-            {
-                "ranking": 95,
-                "login": "horizonzy"
-            },
-            {
-                "ranking": 96,
-                "login": "SSmallMonster"
-            },
-            {
-                "ranking": 97,
-                "login": "sunnylqm"
-            },
-            {
-                "ranking": 98,
-                "login": "Kenshin"
-            },
-            {
-                "ranking": 99,
-                "login": "yanrongshi"
-            }
-        ]
-    },
-    {
-        "year": 2023,
-        "annualRanking": [
-            {
-                "ranking": 1,
-                "login": "tisonkun"
-            },
-            {
-                "ranking": 2,
-                "login": "felixonmars"
-            },
-            {
-                "ranking": 3,
-                "login": "Goooler"
-            },
-            {
-                "ranking": 4,
-                "login": "tiye"
-            },
-            {
-                "ranking": 5,
-                "login": "njzjz"
-            },
-            {
-                "ranking": 6,
-                "login": "antfu"
-            },
-            {
-                "ranking": 7,
-                "login": "linonetwo"
-            },
-            {
-                "ranking": 8,
-                "login": "windsonsea"
-            },
-            {
-                "ranking": 9,
-                "login": "andyzhangx"
-            },
-            {
-                "ranking": 10,
-                "login": "ruibaby"
-            },
-            {
-                "ranking": 11,
-                "login": "chenjiahan"
-            },
-            {
-                "ranking": 12,
-                "login": "messense"
-            },
-            {
-                "ranking": 13,
-                "login": "weizhoublue"
-            },
-            {
-                "ranking": 14,
-                "login": "hsluoyz"
-            },
-            {
-                "ranking": 15,
-                "login": "AlexV525"
-            },
-            {
-                "ranking": 16,
-                "login": "LinuxSuRen"
-            },
-            {
-                "ranking": 17,
-                "login": "JounQin"
-            },
-            {
-                "ranking": 18,
-                "login": "Brooooooklyn"
-            },
-            {
-                "ranking": 19,
-                "login": "pacoxu"
-            },
-            {
-                "ranking": 20,
-                "login": "yangchuansheng"
-            },
-            {
-                "ranking": 21,
-                "login": "yihong0618"
-            },
-            {
-                "ranking": 22,
-                "login": "fisker"
-            },
-            {
-                "ranking": 23,
-                "login": "wu-sheng"
-            },
-            {
-                "ranking": 24,
-                "login": "sxzz"
-            },
-            {
-                "ranking": 25,
-                "login": "brooksmtownsend"
-            },
-            {
-                "ranking": 26,
-                "login": "pahud"
-            },
-            {
-                "ranking": 27,
-                "login": "sy-records"
-            },
-            {
-                "ranking": 28,
-                "login": "seisman"
-            },
-            {
-                "ranking": 29,
-                "login": "afc163"
-            },
-            {
-                "ranking": 30,
-                "login": "hi-rustin"
-            },
-            {
-                "ranking": 31,
-                "login": "sangshuduo"
-            },
-            {
-                "ranking": 32,
-                "login": "waruqi"
-            },
-            {
-                "ranking": 33,
-                "login": "wzshiming"
-            },
-            {
-                "ranking": 34,
-                "login": "XuehaiPan"
-            },
-            {
-                "ranking": 35,
-                "login": "1715173329"
-            },
-            {
-                "ranking": 36,
-                "login": "my-git9"
-            },
-            {
-                "ranking": 37,
-                "login": "cyclinder"
-            },
-            {
-                "ranking": 38,
-                "login": "kerthcet"
-            },
-            {
-                "ranking": 39,
-                "login": "yanggangtony"
-            },
-            {
-                "ranking": 40,
-                "login": "dadiorchen"
-            },
-            {
-                "ranking": 41,
-                "login": "hanxiaop"
-            },
-            {
-                "ranking": 42,
-                "login": "spacewander"
-            },
-            {
-                "ranking": 43,
-                "login": "JohnNiang"
-            },
-            {
-                "ranking": 44,
-                "login": "yeya24"
-            },
-            {
-                "ranking": 45,
-                "login": "kezhenxu94"
-            },
-            {
-                "ranking": 46,
-                "login": "terrymanu"
-            },
-            {
-                "ranking": 47,
-                "login": "tao12345666333"
-            },
-            {
-                "ranking": 48,
-                "login": "uranusjr"
-            },
-            {
-                "ranking": 49,
-                "login": "Yikun"
-            },
-            {
-                "ranking": 50,
-                "login": "mysterywolf"
-            },
-            {
-                "ranking": 51,
-                "login": "wilsonwu"
-            },
-            {
-                "ranking": 52,
-                "login": "cipchk"
-            },
-            {
-                "ranking": 53,
-                "login": "Fish-pro"
-            },
-            {
-                "ranking": 54,
-                "login": "guqing"
-            },
-            {
-                "ranking": 55,
-                "login": "yisibl"
-            },
-            {
-                "ranking": 56,
-                "login": "YunYouJun"
-            },
-            {
-                "ranking": 57,
-                "login": "JaredTan95"
-            },
-            {
-                "ranking": 58,
-                "login": "88250"
-            },
-            {
-                "ranking": 59,
-                "login": "utzcoz"
-            },
-            {
-                "ranking": 60,
-                "login": "ShixiangWang"
-            },
-            {
-                "ranking": 61,
-                "login": "GiggleLiu"
-            },
-            {
-                "ranking": 62,
-                "login": "hustcc"
-            },
-            {
-                "ranking": 63,
-                "login": "samzong"
-            },
-            {
-                "ranking": 64,
-                "login": "ShiChangkuo"
-            },
-            {
-                "ranking": 65,
-                "login": "zwwhdls"
-            },
-            {
-                "ranking": 66,
-                "login": "skyzh"
-            },
-            {
-                "ranking": 67,
-                "login": "yankay"
-            },
-            {
-                "ranking": 68,
-                "login": "carlory"
-            },
-            {
-                "ranking": 69,
-                "login": "peter279k"
-            },
-            {
-                "ranking": 70,
-                "login": "dlimeng"
-            },
-            {
-                "ranking": 71,
-                "login": "jiuker"
-            },
-            {
-                "ranking": 72,
-                "login": "chenshuai2144"
-            },
-            {
-                "ranking": 73,
-                "login": "luhc228"
-            },
-            {
-                "ranking": 74,
-                "login": "chaunceyjiang"
-            },
-            {
-                "ranking": 75,
-                "login": "frank-zsy"
-            },
-            {
-                "ranking": 76,
-                "login": "limingxinleo"
-            },
-            {
-                "ranking": 77,
-                "login": "Icarus9913"
-            },
-            {
-                "ranking": 78,
-                "login": "LaoshuBaby"
-            },
-            {
-                "ranking": 79,
-                "login": "lou-lan"
-            },
-            {
-                "ranking": 80,
-                "login": "jiasli"
-            },
-            {
-                "ranking": 81,
-                "login": "ruanwenjun"
-            },
-            {
-                "ranking": 82,
-                "login": "Yurunsoft"
-            },
-            {
-                "ranking": 83,
-                "login": "drivebyer"
-            },
-            {
-                "ranking": 84,
-                "login": "bzsuni"
-            },
-            {
-                "ranking": 85,
-                "login": "tyn1998"
-            },
-            {
-                "ranking": 86,
-                "login": "getActivity"
-            },
-            {
-                "ranking": 87,
-                "login": "mengjiao-liu"
-            },
-            {
-                "ranking": 88,
-                "login": "Zhuzhenghao"
-            },
-            {
-                "ranking": 89,
-                "login": "buffalo1024"
-            },
-            {
-                "ranking": 90,
-                "login": "ii2day"
-            },
-            {
-                "ranking": 91,
-                "login": "horizonzy"
-            },
-            {
-                "ranking": 92,
-                "login": "panpan0000"
-            },
-            {
-                "ranking": 93,
-                "login": "ywk253100"
-            },
-            {
-                "ranking": 94,
-                "login": "wj-Mcat"
-            },
-            {
-                "ranking": 95,
-                "login": "Frapschen"
-            },
-            {
-                "ranking": 96,
-                "login": "winlinvip"
-            },
-            {
-                "ranking": 97,
-                "login": "will-ww"
-            },
-            {
-                "ranking": 98,
-                "login": "ErikJiang"
-            },
-            {
-                "ranking": 99,
-                "login": "calvin0327"
-            }
-        ]
-    },
-    {
-        "year": 2024,
-        "annualRanking": [
-            {
-                "ranking": 1,
-                "login": "njzjz"
-            },
-            {
-                "ranking": 2,
-                "login": "tisonkun"
-            },
-            {
-                "ranking": 3,
-                "login": "Goooler"
-            },
-            {
-                "ranking": 4,
-                "login": "chenjiahan"
-            },
-            {
-                "ranking": 5,
-                "login": "antfu"
-            },
-            {
-                "ranking": 6,
-                "login": "andyzhangx"
-            },
-            {
-                "ranking": 7,
-                "login": "windsonsea"
-            },
-            {
-                "ranking": 8,
-                "login": "linonetwo"
-            },
-            {
-                "ranking": 9,
-                "login": "Brooooooklyn"
-            },
-            {
-                "ranking": 10,
-                "login": "ruibaby"
-            },
-            {
-                "ranking": 11,
-                "login": "JounQin"
-            },
-            {
-                "ranking": 12,
-                "login": "hsluoyz"
-            },
-            {
-                "ranking": 13,
-                "login": "LinuxSuRen"
-            },
-            {
-                "ranking": 14,
-                "login": "tiye"
-            },
-            {
-                "ranking": 15,
-                "login": "weizhoublue"
-            },
-            {
-                "ranking": 16,
-                "login": "fisker"
-            },
-            {
-                "ranking": 17,
-                "login": "afc163"
-            },
-            {
-                "ranking": 18,
-                "login": "waruqi"
-            },
-            {
-                "ranking": 19,
-                "login": "AlexV525"
-            },
-            {
-                "ranking": 20,
-                "login": "hi-rustin"
-            },
-            {
-                "ranking": 21,
-                "login": "brooksmtownsend"
-            },
-            {
-                "ranking": 22,
-                "login": "guqing"
-            },
-            {
-                "ranking": 23,
-                "login": "pacoxu"
-            },
-            {
-                "ranking": 24,
-                "login": "sy-records"
-            },
-            {
-                "ranking": 25,
-                "login": "sxzz"
-            },
-            {
-                "ranking": 26,
-                "login": "yihong0618"
-            },
-            {
-                "ranking": 27,
-                "login": "seisman"
-            },
-            {
-                "ranking": 28,
-                "login": "wzshiming"
-            },
-            {
-                "ranking": 29,
-                "login": "wu-sheng"
-            },
-            {
-                "ranking": 30,
-                "login": "carlory"
-            },
-            {
-                "ranking": 31,
-                "login": "kerthcet"
-            },
-            {
-                "ranking": 32,
-                "login": "cyclinder"
-            },
-            {
-                "ranking": 33,
-                "login": "felixonmars"
-            },
-            {
-                "ranking": 34,
-                "login": "spacewander"
-            },
-            {
-                "ranking": 35,
-                "login": "terrymanu"
-            },
-            {
-                "ranking": 36,
-                "login": "GiggleLiu"
-            },
-            {
-                "ranking": 37,
-                "login": "JohnNiang"
-            },
-            {
-                "ranking": 38,
-                "login": "messense"
-            },
-            {
-                "ranking": 39,
-                "login": "chaunceyjiang"
-            },
-            {
-                "ranking": 40,
-                "login": "my-git9"
-            },
-            {
-                "ranking": 41,
-                "login": "skyzh"
-            },
-            {
-                "ranking": 42,
-                "login": "yeya24"
-            },
-            {
-                "ranking": 43,
-                "login": "embbnux"
-            },
-            {
-                "ranking": 44,
-                "login": "88250"
-            },
-            {
-                "ranking": 45,
-                "login": "1715173329"
-            },
-            {
-                "ranking": 46,
-                "login": "yankay"
-            },
-            {
-                "ranking": 47,
-                "login": "samzong"
-            },
-            {
-                "ranking": 48,
-                "login": "yisibl"
-            },
-            {
-                "ranking": 49,
-                "login": "LaoshuBaby"
-            },
-            {
-                "ranking": 50,
-                "login": "hanxiaop"
-            },
-            {
-                "ranking": 51,
-                "login": "hustcc"
-            },
-            {
-                "ranking": 52,
-                "login": "XuehaiPan"
-            },
-            {
-                "ranking": 53,
-                "login": "wilsonwu"
-            },
-            {
-                "ranking": 54,
-                "login": "yangchuansheng"
-            },
-            {
-                "ranking": 55,
-                "login": "ShixiangWang"
-            },
-            {
-                "ranking": 56,
-                "login": "mysterywolf"
-            },
-            {
-                "ranking": 57,
-                "login": "jiuker"
-            },
-            {
-                "ranking": 58,
-                "login": "Frapschen"
-            },
-            {
-                "ranking": 59,
-                "login": "cipchk"
-            },
-            {
-                "ranking": 60,
-                "login": "jiasli"
-            },
-            {
-                "ranking": 61,
-                "login": "tao12345666333"
-            },
-            {
-                "ranking": 62,
-                "login": "YunYouJun"
-            },
-            {
-                "ranking": 63,
-                "login": "XSAM"
-            },
-            {
-                "ranking": 64,
-                "login": "ruanwenjun"
-            },
-            {
-                "ranking": 65,
-                "login": "JaredTan95"
-            },
-            {
-                "ranking": 66,
-                "login": "sangshuduo"
-            },
-            {
-                "ranking": 67,
-                "login": "drivebyer"
-            },
-            {
-                "ranking": 68,
-                "login": "uranusjr"
-            },
-            {
-                "ranking": 69,
-                "login": "calvin0327"
-            },
-            {
-                "ranking": 70,
-                "login": "Icarus9913"
-            },
-            {
-                "ranking": 71,
-                "login": "limingxinleo"
-            },
-            {
-                "ranking": 72,
-                "login": "ErikJiang"
-            },
-            {
-                "ranking": 73,
-                "login": "getActivity"
-            },
-            {
-                "ranking": 74,
-                "login": "plainheart"
-            },
-            {
-                "ranking": 75,
-                "login": "WillardHu"
-            },
-            {
-                "ranking": 76,
-                "login": "peter279k"
-            },
-            {
-                "ranking": 77,
-                "login": "ywk253100"
-            },
-            {
-                "ranking": 78,
-                "login": "pahud"
-            },
-            {
-                "ranking": 79,
-                "login": "dadiorchen"
-            },
-            {
-                "ranking": 80,
-                "login": "aviraxp"
-            },
-            {
-                "ranking": 81,
-                "login": "lotem"
-            },
-            {
-                "ranking": 82,
-                "login": "kezhenxu94"
-            },
-            {
-                "ranking": 83,
-                "login": "bzsuni"
-            },
-            {
-                "ranking": 84,
-                "login": "vinceliuice"
-            },
-            {
-                "ranking": 85,
-                "login": "chenshuai2144"
-            },
-            {
-                "ranking": 86,
-                "login": "frank-zsy"
-            },
-            {
-                "ranking": 87,
-                "login": "JakkuSakura"
-            },
-            {
-                "ranking": 88,
-                "login": "wawa0210"
-            },
-            {
-                "ranking": 89,
-                "login": "will-ww"
-            },
-            {
-                "ranking": 90,
-                "login": "Kenshin"
-            },
-            {
-                "ranking": 91,
-                "login": "rxliuli"
-            },
-            {
-                "ranking": 92,
-                "login": "huan"
-            },
-            {
-                "ranking": 93,
-                "login": "zwwhdls"
-            },
-            {
-                "ranking": 94,
-                "login": "horizonzy"
-            },
-            {
-                "ranking": 95,
-                "login": "xiaocang"
-            },
-            {
-                "ranking": 96,
-                "login": "mengjiao-liu"
-            },
-            {
-                "ranking": 97,
-                "login": "luhc228"
-            },
-            {
-                "ranking": 98,
-                "login": "winlinvip"
-            },
-            {
-                "ranking": 99,
-                "login": "ShiChangkuo"
-            }
-        ]
-    }
+  {
+    "year": 2021,
+    "annualRanking": [
+      {
+        "ranking": 1,
+        "login": "zhenglaizhang"
+      },
+      {
+        "ranking": 2,
+        "login": "hsluoyz"
+      },
+      {
+        "ranking": 3,
+        "login": "tiye"
+      },
+      {
+        "ranking": 4,
+        "login": "felixonmars"
+      },
+      {
+        "ranking": 5,
+        "login": "antfu"
+      },
+      {
+        "ranking": 6,
+        "login": "pahud"
+      },
+      {
+        "ranking": 7,
+        "login": "huan"
+      },
+      {
+        "ranking": 8,
+        "login": "peter279k"
+      },
+      {
+        "ranking": 9,
+        "login": "JounQin"
+      },
+      {
+        "ranking": 10,
+        "login": "LinuxSuRen"
+      },
+      {
+        "ranking": 11,
+        "login": "xrkffgg"
+      },
+      {
+        "ranking": 12,
+        "login": "chenshuai2144"
+      },
+      {
+        "ranking": 13,
+        "login": "AlexV525"
+      },
+      {
+        "ranking": 14,
+        "login": "Goooler"
+      },
+      {
+        "ranking": 15,
+        "login": "sy-records"
+      },
+      {
+        "ranking": 16,
+        "login": "wu-sheng"
+      },
+      {
+        "ranking": 17,
+        "login": "ishine"
+      },
+      {
+        "ranking": 18,
+        "login": "uranusjr"
+      },
+      {
+        "ranking": 19,
+        "login": "afc163"
+      },
+      {
+        "ranking": 20,
+        "login": "mysterywolf"
+      },
+      {
+        "ranking": 21,
+        "login": "spacewander"
+      },
+      {
+        "ranking": 22,
+        "login": "njzjz"
+      },
+      {
+        "ranking": 23,
+        "login": "skyzh"
+      },
+      {
+        "ranking": 24,
+        "login": "johnnychen94"
+      },
+      {
+        "ranking": 25,
+        "login": "chenjiahan"
+      },
+      {
+        "ranking": 26,
+        "login": "linonetwo"
+      },
+      {
+        "ranking": 27,
+        "login": "1715173329"
+      },
+      {
+        "ranking": 28,
+        "login": "messense"
+      },
+      {
+        "ranking": 29,
+        "login": "kezhenxu94"
+      },
+      {
+        "ranking": 30,
+        "login": "andyzhangx"
+      },
+      {
+        "ranking": 31,
+        "login": "hustcc"
+      },
+      {
+        "ranking": 32,
+        "login": "mostcool"
+      },
+      {
+        "ranking": 33,
+        "login": "tisonkun"
+      },
+      {
+        "ranking": 34,
+        "login": "yisibl"
+      },
+      {
+        "ranking": 35,
+        "login": "jiasli"
+      },
+      {
+        "ranking": 36,
+        "login": "waruqi"
+      },
+      {
+        "ranking": 37,
+        "login": "seisman"
+      },
+      {
+        "ranking": 38,
+        "login": "SekiBetu"
+      },
+      {
+        "ranking": 39,
+        "login": "fisker"
+      },
+      {
+        "ranking": 40,
+        "login": "YunYouJun"
+      },
+      {
+        "ranking": 41,
+        "login": "haizhilin2013"
+      },
+      {
+        "ranking": 42,
+        "login": "limingxinleo"
+      },
+      {
+        "ranking": 43,
+        "login": "hi-rustin"
+      },
+      {
+        "ranking": 44,
+        "login": "yihong0618"
+      },
+      {
+        "ranking": 45,
+        "login": "Kenshin"
+      },
+      {
+        "ranking": 46,
+        "login": "cipchk"
+      },
+      {
+        "ranking": 47,
+        "login": "visiky"
+      },
+      {
+        "ranking": 48,
+        "login": "aszx87410"
+      },
+      {
+        "ranking": 49,
+        "login": "yi-Xu-0100"
+      },
+      {
+        "ranking": 50,
+        "login": "ShixiangWang"
+      },
+      {
+        "ranking": 51,
+        "login": "pissang"
+      },
+      {
+        "ranking": 52,
+        "login": "xiaocang"
+      },
+      {
+        "ranking": 53,
+        "login": "littletomatodonkey"
+      },
+      {
+        "ranking": 54,
+        "login": "juzhiyuan"
+      },
+      {
+        "ranking": 55,
+        "login": "horizonzy"
+      },
+      {
+        "ranking": 56,
+        "login": "utzcoz"
+      },
+      {
+        "ranking": 57,
+        "login": "vinceliuice"
+      },
+      {
+        "ranking": 58,
+        "login": "JohnNiang"
+      },
+      {
+        "ranking": 59,
+        "login": "iChenLei"
+      },
+      {
+        "ranking": 60,
+        "login": "geffzhang"
+      },
+      {
+        "ranking": 61,
+        "login": "tingyanshen"
+      },
+      {
+        "ranking": 62,
+        "login": "88250"
+      },
+      {
+        "ranking": 63,
+        "login": "getActivity"
+      },
+      {
+        "ranking": 64,
+        "login": "plainheart"
+      },
+      {
+        "ranking": 65,
+        "login": "Brooooooklyn"
+      },
+      {
+        "ranking": 66,
+        "login": "JeremyWuuuuu"
+      },
+      {
+        "ranking": 67,
+        "login": "TeslaCN"
+      },
+      {
+        "ranking": 68,
+        "login": "terrymanu"
+      },
+      {
+        "ranking": 69,
+        "login": "egoist"
+      },
+      {
+        "ranking": 70,
+        "login": "dadiorchen"
+      },
+      {
+        "ranking": 71,
+        "login": "tao12345666333"
+      },
+      {
+        "ranking": 72,
+        "login": "wj-Mcat"
+      },
+      {
+        "ranking": 73,
+        "login": "lotem"
+      },
+      {
+        "ranking": 74,
+        "login": "Yurunsoft"
+      },
+      {
+        "ranking": 75,
+        "login": "gdh1995"
+      },
+      {
+        "ranking": 76,
+        "login": "rxliuli"
+      },
+      {
+        "ranking": 77,
+        "login": "ffang"
+      },
+      {
+        "ranking": 78,
+        "login": "cuiliang"
+      },
+      {
+        "ranking": 79,
+        "login": "justjavac"
+      },
+      {
+        "ranking": 80,
+        "login": "danpovey"
+      },
+      {
+        "ranking": 81,
+        "login": "winlinvip"
+      },
+      {
+        "ranking": 82,
+        "login": "sxzz"
+      },
+      {
+        "ranking": 83,
+        "login": "GiggleLiu"
+      },
+      {
+        "ranking": 84,
+        "login": "ruibaby"
+      },
+      {
+        "ranking": 85,
+        "login": "xiaoheng1"
+      },
+      {
+        "ranking": 86,
+        "login": "ZeyuChen"
+      },
+      {
+        "ranking": 87,
+        "login": "CMingTseng"
+      },
+      {
+        "ranking": 88,
+        "login": "aviraxp"
+      },
+      {
+        "ranking": 89,
+        "login": "chengshiwen"
+      },
+      {
+        "ranking": 90,
+        "login": "Sciroccogti"
+      },
+      {
+        "ranking": 91,
+        "login": "ClayGao"
+      },
+      {
+        "ranking": 92,
+        "login": "ywk253100"
+      },
+      {
+        "ranking": 93,
+        "login": "luhc228"
+      },
+      {
+        "ranking": 94,
+        "login": "LaoshuBaby"
+      },
+      {
+        "ranking": 95,
+        "login": "jiangjiajun"
+      },
+      {
+        "ranking": 96,
+        "login": "embbnux"
+      },
+      {
+        "ranking": 97,
+        "login": "NewByVector"
+      },
+      {
+        "ranking": 98,
+        "login": "CaptainEven"
+      },
+      {
+        "ranking": 99,
+        "login": "qiujiangkun"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "annualRanking": [
+      {
+        "ranking": 1,
+        "login": "pahud"
+      },
+      {
+        "ranking": 2,
+        "login": "tisonkun"
+      },
+      {
+        "ranking": 3,
+        "login": "antfu"
+      },
+      {
+        "ranking": 4,
+        "login": "messense"
+      },
+      {
+        "ranking": 5,
+        "login": "felixonmars"
+      },
+      {
+        "ranking": 6,
+        "login": "LinuxSuRen"
+      },
+      {
+        "ranking": 7,
+        "login": "Goooler"
+      },
+      {
+        "ranking": 8,
+        "login": "JounQin"
+      },
+      {
+        "ranking": 9,
+        "login": "hsluoyz"
+      },
+      {
+        "ranking": 10,
+        "login": "njzjz"
+      },
+      {
+        "ranking": 11,
+        "login": "tiye"
+      },
+      {
+        "ranking": 12,
+        "login": "andyzhangx"
+      },
+      {
+        "ranking": 13,
+        "login": "spacewander"
+      },
+      {
+        "ranking": 14,
+        "login": "wu-sheng"
+      },
+      {
+        "ranking": 15,
+        "login": "sangshuduo"
+      },
+      {
+        "ranking": 16,
+        "login": "mysterywolf"
+      },
+      {
+        "ranking": 17,
+        "login": "wzshiming"
+      },
+      {
+        "ranking": 18,
+        "login": "sxzz"
+      },
+      {
+        "ranking": 19,
+        "login": "justjavac"
+      },
+      {
+        "ranking": 20,
+        "login": "fisker"
+      },
+      {
+        "ranking": 21,
+        "login": "kezhenxu94"
+      },
+      {
+        "ranking": 22,
+        "login": "pacoxu"
+      },
+      {
+        "ranking": 23,
+        "login": "AlexV525"
+      },
+      {
+        "ranking": 24,
+        "login": "johnnychen94"
+      },
+      {
+        "ranking": 25,
+        "login": "dadiorchen"
+      },
+      {
+        "ranking": 26,
+        "login": "seisman"
+      },
+      {
+        "ranking": 27,
+        "login": "ruibaby"
+      },
+      {
+        "ranking": 28,
+        "login": "afc163"
+      },
+      {
+        "ranking": 29,
+        "login": "Brooooooklyn"
+      },
+      {
+        "ranking": 30,
+        "login": "skyzh"
+      },
+      {
+        "ranking": 31,
+        "login": "weizhoublue"
+      },
+      {
+        "ranking": 32,
+        "login": "my-git9"
+      },
+      {
+        "ranking": 33,
+        "login": "windsonsea"
+      },
+      {
+        "ranking": 34,
+        "login": "Yikun"
+      },
+      {
+        "ranking": 35,
+        "login": "hi-rustin"
+      },
+      {
+        "ranking": 36,
+        "login": "peter279k"
+      },
+      {
+        "ranking": 37,
+        "login": "brooksmtownsend"
+      },
+      {
+        "ranking": 38,
+        "login": "waruqi"
+      },
+      {
+        "ranking": 39,
+        "login": "chenjiahan"
+      },
+      {
+        "ranking": 40,
+        "login": "JohnNiang"
+      },
+      {
+        "ranking": 41,
+        "login": "yisibl"
+      },
+      {
+        "ranking": 42,
+        "login": "1715173329"
+      },
+      {
+        "ranking": 43,
+        "login": "uranusjr"
+      },
+      {
+        "ranking": 44,
+        "login": "kerthcet"
+      },
+      {
+        "ranking": 45,
+        "login": "sy-records"
+      },
+      {
+        "ranking": 46,
+        "login": "tao12345666333"
+      },
+      {
+        "ranking": 47,
+        "login": "linonetwo"
+      },
+      {
+        "ranking": 48,
+        "login": "yankay"
+      },
+      {
+        "ranking": 49,
+        "login": "terrymanu"
+      },
+      {
+        "ranking": 50,
+        "login": "utzcoz"
+      },
+      {
+        "ranking": 51,
+        "login": "yihong0618"
+      },
+      {
+        "ranking": 52,
+        "login": "huan"
+      },
+      {
+        "ranking": 53,
+        "login": "tyn1998"
+      },
+      {
+        "ranking": 54,
+        "login": "YunYouJun"
+      },
+      {
+        "ranking": 55,
+        "login": "zhicheng-ning"
+      },
+      {
+        "ranking": 56,
+        "login": "ShixiangWang"
+      },
+      {
+        "ranking": 57,
+        "login": "GiggleLiu"
+      },
+      {
+        "ranking": 58,
+        "login": "geffzhang"
+      },
+      {
+        "ranking": 59,
+        "login": "XuehaiPan"
+      },
+      {
+        "ranking": 60,
+        "login": "88250"
+      },
+      {
+        "ranking": 61,
+        "login": "jiasli"
+      },
+      {
+        "ranking": 62,
+        "login": "luhc228"
+      },
+      {
+        "ranking": 63,
+        "login": "jiangjiajun"
+      },
+      {
+        "ranking": 64,
+        "login": "visiky"
+      },
+      {
+        "ranking": 65,
+        "login": "yeya24"
+      },
+      {
+        "ranking": 66,
+        "login": "Yurunsoft"
+      },
+      {
+        "ranking": 67,
+        "login": "ShiChangkuo"
+      },
+      {
+        "ranking": 68,
+        "login": "cyclinder"
+      },
+      {
+        "ranking": 69,
+        "login": "xiaohuoni"
+      },
+      {
+        "ranking": 70,
+        "login": "ruanwenjun"
+      },
+      {
+        "ranking": 71,
+        "login": "yangchuansheng"
+      },
+      {
+        "ranking": 72,
+        "login": "calvin0327"
+      },
+      {
+        "ranking": 73,
+        "login": "cipchk"
+      },
+      {
+        "ranking": 74,
+        "login": "JaredTan95"
+      },
+      {
+        "ranking": 75,
+        "login": "wj-Mcat"
+      },
+      {
+        "ranking": 76,
+        "login": "zwwhdls"
+      },
+      {
+        "ranking": 77,
+        "login": "guqing"
+      },
+      {
+        "ranking": 78,
+        "login": "LaoshuBaby"
+      },
+      {
+        "ranking": 79,
+        "login": "embbnux"
+      },
+      {
+        "ranking": 80,
+        "login": "juzhiyuan"
+      },
+      {
+        "ranking": 81,
+        "login": "iChenLei"
+      },
+      {
+        "ranking": 82,
+        "login": "plainheart"
+      },
+      {
+        "ranking": 83,
+        "login": "chenshuai2144"
+      },
+      {
+        "ranking": 84,
+        "login": "kebe7jun"
+      },
+      {
+        "ranking": 85,
+        "login": "limingxinleo"
+      },
+      {
+        "ranking": 86,
+        "login": "littletomatodonkey"
+      },
+      {
+        "ranking": 87,
+        "login": "cleverhu"
+      },
+      {
+        "ranking": 88,
+        "login": "frank-zsy"
+      },
+      {
+        "ranking": 89,
+        "login": "Frapschen"
+      },
+      {
+        "ranking": 90,
+        "login": "chaunceyjiang"
+      },
+      {
+        "ranking": 91,
+        "login": "ywk253100"
+      },
+      {
+        "ranking": 92,
+        "login": "hustcc"
+      },
+      {
+        "ranking": 93,
+        "login": "mostcool"
+      },
+      {
+        "ranking": 94,
+        "login": "yi-Xu-0100"
+      },
+      {
+        "ranking": 95,
+        "login": "horizonzy"
+      },
+      {
+        "ranking": 96,
+        "login": "SSmallMonster"
+      },
+      {
+        "ranking": 97,
+        "login": "sunnylqm"
+      },
+      {
+        "ranking": 98,
+        "login": "Kenshin"
+      },
+      {
+        "ranking": 99,
+        "login": "yanrongshi"
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "annualRanking": [
+      {
+        "ranking": 1,
+        "login": "tisonkun"
+      },
+      {
+        "ranking": 2,
+        "login": "felixonmars"
+      },
+      {
+        "ranking": 3,
+        "login": "Goooler"
+      },
+      {
+        "ranking": 4,
+        "login": "tiye"
+      },
+      {
+        "ranking": 5,
+        "login": "njzjz"
+      },
+      {
+        "ranking": 6,
+        "login": "antfu"
+      },
+      {
+        "ranking": 7,
+        "login": "linonetwo"
+      },
+      {
+        "ranking": 8,
+        "login": "windsonsea"
+      },
+      {
+        "ranking": 9,
+        "login": "andyzhangx"
+      },
+      {
+        "ranking": 10,
+        "login": "ruibaby"
+      },
+      {
+        "ranking": 11,
+        "login": "chenjiahan"
+      },
+      {
+        "ranking": 12,
+        "login": "messense"
+      },
+      {
+        "ranking": 13,
+        "login": "weizhoublue"
+      },
+      {
+        "ranking": 14,
+        "login": "hsluoyz"
+      },
+      {
+        "ranking": 15,
+        "login": "AlexV525"
+      },
+      {
+        "ranking": 16,
+        "login": "LinuxSuRen"
+      },
+      {
+        "ranking": 17,
+        "login": "JounQin"
+      },
+      {
+        "ranking": 18,
+        "login": "Brooooooklyn"
+      },
+      {
+        "ranking": 19,
+        "login": "pacoxu"
+      },
+      {
+        "ranking": 20,
+        "login": "yangchuansheng"
+      },
+      {
+        "ranking": 21,
+        "login": "yihong0618"
+      },
+      {
+        "ranking": 22,
+        "login": "fisker"
+      },
+      {
+        "ranking": 23,
+        "login": "wu-sheng"
+      },
+      {
+        "ranking": 24,
+        "login": "sxzz"
+      },
+      {
+        "ranking": 25,
+        "login": "brooksmtownsend"
+      },
+      {
+        "ranking": 26,
+        "login": "pahud"
+      },
+      {
+        "ranking": 27,
+        "login": "sy-records"
+      },
+      {
+        "ranking": 28,
+        "login": "seisman"
+      },
+      {
+        "ranking": 29,
+        "login": "afc163"
+      },
+      {
+        "ranking": 30,
+        "login": "hi-rustin"
+      },
+      {
+        "ranking": 31,
+        "login": "sangshuduo"
+      },
+      {
+        "ranking": 32,
+        "login": "waruqi"
+      },
+      {
+        "ranking": 33,
+        "login": "wzshiming"
+      },
+      {
+        "ranking": 34,
+        "login": "XuehaiPan"
+      },
+      {
+        "ranking": 35,
+        "login": "1715173329"
+      },
+      {
+        "ranking": 36,
+        "login": "my-git9"
+      },
+      {
+        "ranking": 37,
+        "login": "cyclinder"
+      },
+      {
+        "ranking": 38,
+        "login": "kerthcet"
+      },
+      {
+        "ranking": 39,
+        "login": "yanggangtony"
+      },
+      {
+        "ranking": 40,
+        "login": "dadiorchen"
+      },
+      {
+        "ranking": 41,
+        "login": "hanxiaop"
+      },
+      {
+        "ranking": 42,
+        "login": "spacewander"
+      },
+      {
+        "ranking": 43,
+        "login": "JohnNiang"
+      },
+      {
+        "ranking": 44,
+        "login": "yeya24"
+      },
+      {
+        "ranking": 45,
+        "login": "kezhenxu94"
+      },
+      {
+        "ranking": 46,
+        "login": "terrymanu"
+      },
+      {
+        "ranking": 47,
+        "login": "tao12345666333"
+      },
+      {
+        "ranking": 48,
+        "login": "uranusjr"
+      },
+      {
+        "ranking": 49,
+        "login": "Yikun"
+      },
+      {
+        "ranking": 50,
+        "login": "mysterywolf"
+      },
+      {
+        "ranking": 51,
+        "login": "wilsonwu"
+      },
+      {
+        "ranking": 52,
+        "login": "cipchk"
+      },
+      {
+        "ranking": 53,
+        "login": "Fish-pro"
+      },
+      {
+        "ranking": 54,
+        "login": "guqing"
+      },
+      {
+        "ranking": 55,
+        "login": "yisibl"
+      },
+      {
+        "ranking": 56,
+        "login": "YunYouJun"
+      },
+      {
+        "ranking": 57,
+        "login": "JaredTan95"
+      },
+      {
+        "ranking": 58,
+        "login": "88250"
+      },
+      {
+        "ranking": 59,
+        "login": "utzcoz"
+      },
+      {
+        "ranking": 60,
+        "login": "ShixiangWang"
+      },
+      {
+        "ranking": 61,
+        "login": "GiggleLiu"
+      },
+      {
+        "ranking": 62,
+        "login": "hustcc"
+      },
+      {
+        "ranking": 63,
+        "login": "samzong"
+      },
+      {
+        "ranking": 64,
+        "login": "ShiChangkuo"
+      },
+      {
+        "ranking": 65,
+        "login": "zwwhdls"
+      },
+      {
+        "ranking": 66,
+        "login": "skyzh"
+      },
+      {
+        "ranking": 67,
+        "login": "yankay"
+      },
+      {
+        "ranking": 68,
+        "login": "carlory"
+      },
+      {
+        "ranking": 69,
+        "login": "peter279k"
+      },
+      {
+        "ranking": 70,
+        "login": "dlimeng"
+      },
+      {
+        "ranking": 71,
+        "login": "jiuker"
+      },
+      {
+        "ranking": 72,
+        "login": "chenshuai2144"
+      },
+      {
+        "ranking": 73,
+        "login": "luhc228"
+      },
+      {
+        "ranking": 74,
+        "login": "chaunceyjiang"
+      },
+      {
+        "ranking": 75,
+        "login": "frank-zsy"
+      },
+      {
+        "ranking": 76,
+        "login": "limingxinleo"
+      },
+      {
+        "ranking": 77,
+        "login": "Icarus9913"
+      },
+      {
+        "ranking": 78,
+        "login": "LaoshuBaby"
+      },
+      {
+        "ranking": 79,
+        "login": "lou-lan"
+      },
+      {
+        "ranking": 80,
+        "login": "jiasli"
+      },
+      {
+        "ranking": 81,
+        "login": "ruanwenjun"
+      },
+      {
+        "ranking": 82,
+        "login": "Yurunsoft"
+      },
+      {
+        "ranking": 83,
+        "login": "drivebyer"
+      },
+      {
+        "ranking": 84,
+        "login": "bzsuni"
+      },
+      {
+        "ranking": 85,
+        "login": "tyn1998"
+      },
+      {
+        "ranking": 86,
+        "login": "getActivity"
+      },
+      {
+        "ranking": 87,
+        "login": "mengjiao-liu"
+      },
+      {
+        "ranking": 88,
+        "login": "Zhuzhenghao"
+      },
+      {
+        "ranking": 89,
+        "login": "buffalo1024"
+      },
+      {
+        "ranking": 90,
+        "login": "ii2day"
+      },
+      {
+        "ranking": 91,
+        "login": "horizonzy"
+      },
+      {
+        "ranking": 92,
+        "login": "panpan0000"
+      },
+      {
+        "ranking": 93,
+        "login": "ywk253100"
+      },
+      {
+        "ranking": 94,
+        "login": "wj-Mcat"
+      },
+      {
+        "ranking": 95,
+        "login": "Frapschen"
+      },
+      {
+        "ranking": 96,
+        "login": "winlinvip"
+      },
+      {
+        "ranking": 97,
+        "login": "will-ww"
+      },
+      {
+        "ranking": 98,
+        "login": "ErikJiang"
+      },
+      {
+        "ranking": 99,
+        "login": "calvin0327"
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "annualRanking": [
+      {
+        "ranking": 1,
+        "login": "njzjz",
+        "github_id": 9496702,
+        "github_avatar": "https://avatars.githubusercontent.com/u/9496702?v=4"
+      },
+      {
+        "ranking": 2,
+        "login": "tisonkun",
+        "github_id": 18818196,
+        "github_avatar": "https://avatars.githubusercontent.com/u/18818196?v=4"
+      },
+      {
+        "ranking": 3,
+        "login": "Goooler",
+        "github_id": 10363352,
+        "github_avatar": "https://avatars.githubusercontent.com/u/10363352?v=4"
+      },
+      {
+        "ranking": 4,
+        "login": "chenjiahan",
+        "github_id": 7237365,
+        "github_avatar": "https://avatars.githubusercontent.com/u/7237365?v=4"
+      },
+      {
+        "ranking": 5,
+        "login": "antfu",
+        "github_id": 11247099,
+        "github_avatar": "https://avatars.githubusercontent.com/u/11247099?v=4"
+      },
+      {
+        "ranking": 6,
+        "login": "andyzhangx",
+        "github_id": 4178417,
+        "github_avatar": "https://avatars.githubusercontent.com/u/4178417?v=4"
+      },
+      {
+        "ranking": 7,
+        "login": "windsonsea",
+        "github_id": 79828097,
+        "github_avatar": "https://avatars.githubusercontent.com/u/79828097?v=4"
+      },
+      {
+        "ranking": 8,
+        "login": "linonetwo",
+        "github_id": 3746270,
+        "github_avatar": "https://avatars.githubusercontent.com/u/3746270?v=4"
+      },
+      {
+        "ranking": 9,
+        "login": "Brooooooklyn",
+        "github_id": 3468483,
+        "github_avatar": "https://avatars.githubusercontent.com/u/3468483?v=4"
+      },
+      {
+        "ranking": 10,
+        "login": "ruibaby",
+        "github_id": 21301288,
+        "github_avatar": "https://avatars.githubusercontent.com/u/21301288?v=4"
+      },
+      {
+        "ranking": 11,
+        "login": "JounQin",
+        "github_id": 8336744,
+        "github_avatar": "https://avatars.githubusercontent.com/u/8336744?v=4"
+      },
+      {
+        "ranking": 12,
+        "login": "hsluoyz",
+        "github_id": 3787410,
+        "github_avatar": "https://avatars.githubusercontent.com/u/3787410?v=4"
+      },
+      {
+        "ranking": 13,
+        "login": "LinuxSuRen",
+        "github_id": 1450685,
+        "github_avatar": "https://avatars.githubusercontent.com/u/1450685?v=4"
+      },
+      {
+        "ranking": 14,
+        "login": "tiye",
+        "github_id": 449224,
+        "github_avatar": "https://avatars.githubusercontent.com/u/449224?v=4"
+      },
+      {
+        "ranking": 15,
+        "login": "weizhoublue",
+        "github_id": 45163302,
+        "github_avatar": "https://avatars.githubusercontent.com/u/45163302?v=4"
+      },
+      {
+        "ranking": 16,
+        "login": "fisker",
+        "github_id": 172584,
+        "github_avatar": "https://avatars.githubusercontent.com/u/172584?v=4"
+      },
+      {
+        "ranking": 17,
+        "login": "afc163",
+        "github_id": 507615,
+        "github_avatar": "https://avatars.githubusercontent.com/u/507615?v=4"
+      },
+      {
+        "ranking": 18,
+        "login": "waruqi",
+        "github_id": 151335,
+        "github_avatar": "https://avatars.githubusercontent.com/u/151335?v=4"
+      },
+      {
+        "ranking": 19,
+        "login": "AlexV525",
+        "github_id": 15884415,
+        "github_avatar": "https://avatars.githubusercontent.com/u/15884415?v=4"
+      },
+      {
+        "ranking": 20,
+        "login": "hi-rustin"
+      },
+      {
+        "ranking": 21,
+        "login": "brooksmtownsend",
+        "github_id": 12040685,
+        "github_avatar": "https://avatars.githubusercontent.com/u/12040685?v=4"
+      },
+      {
+        "ranking": 22,
+        "login": "guqing",
+        "github_id": 38999863,
+        "github_avatar": "https://avatars.githubusercontent.com/u/38999863?v=4"
+      },
+      {
+        "ranking": 23,
+        "login": "pacoxu",
+        "github_id": 2010320,
+        "github_avatar": "https://avatars.githubusercontent.com/u/2010320?v=4"
+      },
+      {
+        "ranking": 24,
+        "login": "sy-records",
+        "github_id": 33931153,
+        "github_avatar": "https://avatars.githubusercontent.com/u/33931153?v=4"
+      },
+      {
+        "ranking": 25,
+        "login": "sxzz",
+        "github_id": 6481596,
+        "github_avatar": "https://avatars.githubusercontent.com/u/6481596?v=4"
+      },
+      {
+        "ranking": 26,
+        "login": "yihong0618",
+        "github_id": 15976103,
+        "github_avatar": "https://avatars.githubusercontent.com/u/15976103?v=4"
+      },
+      {
+        "ranking": 27,
+        "login": "seisman",
+        "github_id": 3974108,
+        "github_avatar": "https://avatars.githubusercontent.com/u/3974108?v=4"
+      },
+      {
+        "ranking": 28,
+        "login": "wzshiming",
+        "github_id": 6565744,
+        "github_avatar": "https://avatars.githubusercontent.com/u/6565744?v=4"
+      },
+      {
+        "ranking": 29,
+        "login": "wu-sheng",
+        "github_id": 5441976,
+        "github_avatar": "https://avatars.githubusercontent.com/u/5441976?v=4"
+      },
+      {
+        "ranking": 30,
+        "login": "carlory",
+        "github_id": 28390961,
+        "github_avatar": "https://avatars.githubusercontent.com/u/28390961?v=4"
+      },
+      {
+        "ranking": 31,
+        "login": "kerthcet",
+        "github_id": 18364341,
+        "github_avatar": "https://avatars.githubusercontent.com/u/18364341?v=4"
+      },
+      {
+        "ranking": 32,
+        "login": "cyclinder",
+        "github_id": 59680092,
+        "github_avatar": "https://avatars.githubusercontent.com/u/59680092?v=4"
+      },
+      {
+        "ranking": 33,
+        "login": "felixonmars",
+        "github_id": 1006477,
+        "github_avatar": "https://avatars.githubusercontent.com/u/1006477?v=4"
+      },
+      {
+        "ranking": 34,
+        "login": "spacewander",
+        "github_id": 4161644,
+        "github_avatar": "https://avatars.githubusercontent.com/u/4161644?v=4"
+      },
+      {
+        "ranking": 35,
+        "login": "terrymanu",
+        "github_id": 5516298,
+        "github_avatar": "https://avatars.githubusercontent.com/u/5516298?v=4"
+      },
+      {
+        "ranking": 36,
+        "login": "GiggleLiu",
+        "github_id": 6257240,
+        "github_avatar": "https://avatars.githubusercontent.com/u/6257240?v=4"
+      },
+      {
+        "ranking": 37,
+        "login": "JohnNiang",
+        "github_id": 16865714,
+        "github_avatar": "https://avatars.githubusercontent.com/u/16865714?v=4"
+      },
+      {
+        "ranking": 38,
+        "login": "messense",
+        "github_id": 1556054,
+        "github_avatar": "https://avatars.githubusercontent.com/u/1556054?v=4"
+      },
+      {
+        "ranking": 39,
+        "login": "chaunceyjiang",
+        "github_id": 17962021,
+        "github_avatar": "https://avatars.githubusercontent.com/u/17962021?v=4"
+      },
+      {
+        "ranking": 40,
+        "login": "my-git9",
+        "github_id": 76980726,
+        "github_avatar": "https://avatars.githubusercontent.com/u/76980726?v=4"
+      },
+      {
+        "ranking": 41,
+        "login": "skyzh",
+        "github_id": 4198311,
+        "github_avatar": "https://avatars.githubusercontent.com/u/4198311?v=4"
+      },
+      {
+        "ranking": 42,
+        "login": "yeya24",
+        "github_id": 25150124,
+        "github_avatar": "https://avatars.githubusercontent.com/u/25150124?v=4"
+      },
+      {
+        "ranking": 43,
+        "login": "embbnux",
+        "github_id": 7036536,
+        "github_avatar": "https://avatars.githubusercontent.com/u/7036536?v=4"
+      },
+      {
+        "ranking": 44,
+        "login": "88250",
+        "github_id": 873584,
+        "github_avatar": "https://avatars.githubusercontent.com/u/873584?v=4"
+      },
+      {
+        "ranking": 45,
+        "login": "1715173329",
+        "github_id": 22235437,
+        "github_avatar": "https://avatars.githubusercontent.com/u/22235437?v=4"
+      },
+      {
+        "ranking": 46,
+        "login": "yankay",
+        "github_id": 1469319,
+        "github_avatar": "https://avatars.githubusercontent.com/u/1469319?v=4"
+      },
+      {
+        "ranking": 47,
+        "login": "samzong",
+        "github_id": 13782141,
+        "github_avatar": "https://avatars.githubusercontent.com/u/13782141?v=4"
+      },
+      {
+        "ranking": 48,
+        "login": "yisibl",
+        "github_id": 2784308,
+        "github_avatar": "https://avatars.githubusercontent.com/u/2784308?v=4"
+      },
+      {
+        "ranking": 49,
+        "login": "LaoshuBaby",
+        "github_id": 42690037,
+        "github_avatar": "https://avatars.githubusercontent.com/u/42690037?v=4"
+      },
+      {
+        "ranking": 50,
+        "login": "hanxiaop",
+        "github_id": 20888172,
+        "github_avatar": "https://avatars.githubusercontent.com/u/20888172?v=4"
+      },
+      {
+        "ranking": 51,
+        "login": "hustcc",
+        "github_id": 7856674,
+        "github_avatar": "https://avatars.githubusercontent.com/u/7856674?v=4"
+      },
+      {
+        "ranking": 52,
+        "login": "XuehaiPan",
+        "github_id": 16078332,
+        "github_avatar": "https://avatars.githubusercontent.com/u/16078332?v=4"
+      },
+      {
+        "ranking": 53,
+        "login": "wilsonwu",
+        "github_id": 1269496,
+        "github_avatar": "https://avatars.githubusercontent.com/u/1269496?v=4"
+      },
+      {
+        "ranking": 54,
+        "login": "yangchuansheng",
+        "github_id": 15308462,
+        "github_avatar": "https://avatars.githubusercontent.com/u/15308462?v=4"
+      },
+      {
+        "ranking": 55,
+        "login": "ShixiangWang",
+        "github_id": 25057508,
+        "github_avatar": "https://avatars.githubusercontent.com/u/25057508?v=4"
+      },
+      {
+        "ranking": 56,
+        "login": "mysterywolf",
+        "github_id": 34888354,
+        "github_avatar": "https://avatars.githubusercontent.com/u/34888354?v=4"
+      },
+      {
+        "ranking": 57,
+        "login": "jiuker",
+        "github_id": 13503801,
+        "github_avatar": "https://avatars.githubusercontent.com/u/13503801?v=4"
+      },
+      {
+        "ranking": 58,
+        "login": "Frapschen",
+        "github_id": 35491170,
+        "github_avatar": "https://avatars.githubusercontent.com/u/35491170?v=4"
+      },
+      {
+        "ranking": 59,
+        "login": "cipchk",
+        "github_id": 2987467,
+        "github_avatar": "https://avatars.githubusercontent.com/u/2987467?v=4"
+      },
+      {
+        "ranking": 60,
+        "login": "jiasli",
+        "github_id": 4003950,
+        "github_avatar": "https://avatars.githubusercontent.com/u/4003950?v=4"
+      },
+      {
+        "ranking": 61,
+        "login": "tao12345666333",
+        "github_id": 3264292,
+        "github_avatar": "https://avatars.githubusercontent.com/u/3264292?v=4"
+      },
+      {
+        "ranking": 62,
+        "login": "YunYouJun",
+        "github_id": 25154432,
+        "github_avatar": "https://avatars.githubusercontent.com/u/25154432?v=4"
+      },
+      {
+        "ranking": 63,
+        "login": "XSAM",
+        "github_id": 11306772,
+        "github_avatar": "https://avatars.githubusercontent.com/u/11306772?v=4"
+      },
+      {
+        "ranking": 64,
+        "login": "ruanwenjun",
+        "github_id": 22415594,
+        "github_avatar": "https://avatars.githubusercontent.com/u/22415594?v=4"
+      },
+      {
+        "ranking": 65,
+        "login": "JaredTan95",
+        "github_id": 12468337,
+        "github_avatar": "https://avatars.githubusercontent.com/u/12468337?v=4"
+      },
+      {
+        "ranking": 66,
+        "login": "sangshuduo",
+        "github_id": 825729,
+        "github_avatar": "https://avatars.githubusercontent.com/u/825729?v=4"
+      },
+      {
+        "ranking": 67,
+        "login": "drivebyer",
+        "github_id": 32033618,
+        "github_avatar": "https://avatars.githubusercontent.com/u/32033618?v=4"
+      },
+      {
+        "ranking": 68,
+        "login": "uranusjr",
+        "github_id": 605277,
+        "github_avatar": "https://avatars.githubusercontent.com/u/605277?v=4"
+      },
+      {
+        "ranking": 69,
+        "login": "calvin0327",
+        "github_id": 45745657,
+        "github_avatar": "https://avatars.githubusercontent.com/u/45745657?v=4"
+      },
+      {
+        "ranking": 70,
+        "login": "Icarus9913",
+        "github_id": 42732678,
+        "github_avatar": "https://avatars.githubusercontent.com/u/42732678?v=4"
+      },
+      {
+        "ranking": 71,
+        "login": "limingxinleo",
+        "github_id": 16648551,
+        "github_avatar": "https://avatars.githubusercontent.com/u/16648551?v=4"
+      },
+      {
+        "ranking": 72,
+        "login": "ErikJiang",
+        "github_id": 10629406,
+        "github_avatar": "https://avatars.githubusercontent.com/u/10629406?v=4"
+      },
+      {
+        "ranking": 73,
+        "login": "getActivity",
+        "github_id": 28616817,
+        "github_avatar": "https://avatars.githubusercontent.com/u/28616817?v=4"
+      },
+      {
+        "ranking": 74,
+        "login": "plainheart",
+        "github_id": 26999792,
+        "github_avatar": "https://avatars.githubusercontent.com/u/26999792?v=4"
+      },
+      {
+        "ranking": 75,
+        "login": "WillardHu",
+        "github_id": 4033081,
+        "github_avatar": "https://avatars.githubusercontent.com/u/4033081?v=4"
+      },
+      {
+        "ranking": 76,
+        "login": "peter279k",
+        "github_id": 9021747,
+        "github_avatar": "https://avatars.githubusercontent.com/u/9021747?v=4"
+      },
+      {
+        "ranking": 77,
+        "login": "ywk253100",
+        "github_id": 5835782,
+        "github_avatar": "https://avatars.githubusercontent.com/u/5835782?v=4"
+      },
+      {
+        "ranking": 78,
+        "login": "pahud",
+        "github_id": 278432,
+        "github_avatar": "https://avatars.githubusercontent.com/u/278432?v=4"
+      },
+      {
+        "ranking": 79,
+        "login": "dadiorchen",
+        "github_id": 5744708,
+        "github_avatar": "https://avatars.githubusercontent.com/u/5744708?v=4"
+      },
+      {
+        "ranking": 80,
+        "login": "aviraxp",
+        "github_id": 18079988,
+        "github_avatar": "https://avatars.githubusercontent.com/u/18079988?v=4"
+      },
+      {
+        "ranking": 81,
+        "login": "lotem",
+        "github_id": 151157,
+        "github_avatar": "https://avatars.githubusercontent.com/u/151157?v=4"
+      },
+      {
+        "ranking": 82,
+        "login": "kezhenxu94",
+        "github_id": 15965696,
+        "github_avatar": "https://avatars.githubusercontent.com/u/15965696?v=4"
+      },
+      {
+        "ranking": 83,
+        "login": "bzsuni",
+        "github_id": 86399306,
+        "github_avatar": "https://avatars.githubusercontent.com/u/86399306?v=4"
+      },
+      {
+        "ranking": 84,
+        "login": "vinceliuice",
+        "github_id": 7604295,
+        "github_avatar": "https://avatars.githubusercontent.com/u/7604295?v=4"
+      },
+      {
+        "ranking": 85,
+        "login": "chenshuai2144",
+        "github_id": 8186664,
+        "github_avatar": "https://avatars.githubusercontent.com/u/8186664?v=4"
+      },
+      {
+        "ranking": 86,
+        "login": "frank-zsy",
+        "github_id": 8512426,
+        "github_avatar": "https://avatars.githubusercontent.com/u/8512426?v=4"
+      },
+      {
+        "ranking": 87,
+        "login": "JakkuSakura",
+        "github_id": 33482468,
+        "github_avatar": "https://avatars.githubusercontent.com/u/33482468?v=4"
+      },
+      {
+        "ranking": 88,
+        "login": "wawa0210",
+        "github_id": 7907809,
+        "github_avatar": "https://avatars.githubusercontent.com/u/7907809?v=4"
+      },
+      {
+        "ranking": 89,
+        "login": "will-ww",
+        "github_id": 15010826,
+        "github_avatar": "https://avatars.githubusercontent.com/u/15010826?v=4"
+      },
+      {
+        "ranking": 90,
+        "login": "Kenshin",
+        "github_id": 81074,
+        "github_avatar": "https://avatars.githubusercontent.com/u/81074?v=4"
+      },
+      {
+        "ranking": 91,
+        "login": "rxliuli",
+        "github_id": 24560368,
+        "github_avatar": "https://avatars.githubusercontent.com/u/24560368?v=4"
+      },
+      {
+        "ranking": 92,
+        "login": "huan",
+        "github_id": 1361891,
+        "github_avatar": "https://avatars.githubusercontent.com/u/1361891?v=4"
+      },
+      {
+        "ranking": 93,
+        "login": "zwwhdls",
+        "github_id": 33822635,
+        "github_avatar": "https://avatars.githubusercontent.com/u/33822635?v=4"
+      },
+      {
+        "ranking": 94,
+        "login": "horizonzy",
+        "github_id": 22524871,
+        "github_avatar": "https://avatars.githubusercontent.com/u/22524871?v=4"
+      },
+      {
+        "ranking": 95,
+        "login": "xiaocang",
+        "github_id": 983723,
+        "github_avatar": "https://avatars.githubusercontent.com/u/983723?v=4"
+      },
+      {
+        "ranking": 96,
+        "login": "mengjiao-liu",
+        "github_id": 44460091,
+        "github_avatar": "https://avatars.githubusercontent.com/u/44460091?v=4"
+      },
+      {
+        "ranking": 97,
+        "login": "luhc228",
+        "github_id": 44047106,
+        "github_avatar": "https://avatars.githubusercontent.com/u/44047106?v=4"
+      },
+      {
+        "ranking": 98,
+        "login": "winlinvip",
+        "github_id": 2777660,
+        "github_avatar": "https://avatars.githubusercontent.com/u/2777660?v=4"
+      },
+      {
+        "ranking": 99,
+        "login": "ShiChangkuo",
+        "github_id": 55725251,
+        "github_avatar": "https://avatars.githubusercontent.com/u/55725251?v=4"
+      }
+    ]
+  }
 ]
