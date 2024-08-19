@@ -3,6 +3,8 @@ slug: juzhiyuan
 name: 琚致远
 description: China
 avatar: avatar.png
+github_id: 2106987
+github_avatar: https://avatars.githubusercontent.com/u/2106987?v=4
 ---
 
 ### 主要贡献项目

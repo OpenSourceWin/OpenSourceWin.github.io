@@ -41,7 +41,7 @@ async function updateFrontMatter(login, item) {
             }
 
             // 替换更新后的 Front-matter
-            const newContent = content.replace(frontMatterRegex, `---\n${updatedFrontMatter}---`);
+            const newContent = content.replace(frontMatterRegex, `---\n${updatedFrontMatter}\n---`);
             await fs.writeFile(indexPath, newContent, 'utf-8');
             console.log(`Updated index.md for ${login}`);
         } else {
@@ -86,4 +86,4 @@ async function main(year) {
 
 
 // 执行主程序
-main(2024);
+main(2021);

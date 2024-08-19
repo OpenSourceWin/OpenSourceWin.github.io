@@ -3,6 +3,9 @@ slug: egoist
 name: EGOIST
 description: China
 avatar: avatar.png
+github_id: 8784712
+github_avatar: https://avatars.githubusercontent.com/u/8784712?v=4
+
 ---
 
 ### 主要贡献项目

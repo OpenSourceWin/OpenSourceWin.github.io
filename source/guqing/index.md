@@ -1,7 +1,6 @@
 ---
 slug: guqing
 description: Chengdu, China
-github_id: 38999863
 avatar: avatar.png
 github_id: 38999863
 github_avatar: https://avatars.githubusercontent.com/u/38999863?v=4

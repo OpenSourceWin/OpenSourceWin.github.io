@@ -3,6 +3,8 @@ slug: visiky
 name: visiky
 description: HANGZHOU (杭州)
 avatar: avatar.png
+github_id: 15646325
+github_avatar: https://avatars.githubusercontent.com/u/15646325?v=4
 ---
 
 ### 主要贡献项目

@@ -2,6 +2,8 @@
 slug: littletomatodonkey
 description: Shanghai, China
 avatar: avatar.png
+github_id: 14270174
+github_avatar: https://avatars.githubusercontent.com/u/14270174?v=4
 ---
 
 ### 主要贡献项目
