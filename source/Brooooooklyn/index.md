@@ -3,6 +3,8 @@ slug: Brooooooklyn
 name: LongYinan
 description: Shanghai, China
 avatar: avatar.png
+github_id: 3468483
+github_avatar: https://avatars.githubusercontent.com/u/3468483?v=4
 ---
 
 ### 主要贡献项目

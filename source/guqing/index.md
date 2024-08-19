@@ -3,6 +3,8 @@ slug: guqing
 description: Chengdu, China
 github_id: 38999863
 avatar: avatar.png
+github_id: 38999863
+github_avatar: https://avatars.githubusercontent.com/u/38999863?v=4
 ---
 
 guqing 是一位在开源领域非常活跃的开发者，他主要参与 Halo 开源项目的开发与维护。

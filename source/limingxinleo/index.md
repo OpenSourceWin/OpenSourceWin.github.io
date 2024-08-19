@@ -3,6 +3,8 @@ slug: limingxinleo
 name: 李铭昕
 description: 上海
 avatar: avatar.png
+github_id: 16648551
+github_avatar: https://avatars.githubusercontent.com/u/16648551?v=4
 ---
 
 ### 主要贡献项目

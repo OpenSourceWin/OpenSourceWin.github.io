@@ -3,6 +3,8 @@ slug: plainheart
 name: Zhongxiang Wang
 description: Zhengzhou, China
 avatar: avatar.png
+github_id: 26999792
+github_avatar: https://avatars.githubusercontent.com/u/26999792?v=4
 ---
 
 ### 主要贡献项目

@@ -3,6 +3,8 @@ slug: winlinvip
 name: Winlin
 description: beijing
 avatar: avatar.png
+github_id: 2777660
+github_avatar: https://avatars.githubusercontent.com/u/2777660?v=4
 ---
 
 ### 主要贡献项目

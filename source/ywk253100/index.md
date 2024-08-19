@@ -3,6 +3,8 @@ slug: ywk253100
 name: Wenkai Yin(尹文开)
 description: Beijing, China
 avatar: avatar.png
+github_id: 5835782
+github_avatar: https://avatars.githubusercontent.com/u/5835782?v=4
 ---
 
 ### 主要贡献项目

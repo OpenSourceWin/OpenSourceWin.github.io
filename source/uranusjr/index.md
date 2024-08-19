@@ -3,6 +3,8 @@ slug: uranusjr
 name: Tzu-ping Chung
 description: Taipei, Taiwan
 avatar: avatar.png
+github_id: 605277
+github_avatar: https://avatars.githubusercontent.com/u/605277?v=4
 ---
 
 ### 主要贡献项目

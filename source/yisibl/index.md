@@ -3,6 +3,8 @@ slug: yisibl
 name: 一丝
 description: China
 avatar: avatar.png
+github_id: 2784308
+github_avatar: https://avatars.githubusercontent.com/u/2784308?v=4
 ---
 
 ### 主要贡献项目

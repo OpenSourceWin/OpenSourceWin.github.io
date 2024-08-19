@@ -3,6 +3,8 @@ slug: fisker
 name: fisker Cheung
 description: China
 avatar: avatar.png
+github_id: 172584
+github_avatar: https://avatars.githubusercontent.com/u/172584?v=4
 ---
 
 ### 主要贡献项目

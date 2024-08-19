@@ -2,6 +2,8 @@
 slug: luhc228
 description: Hangzhou, China
 avatar: avatar.png
+github_id: 44047106
+github_avatar: https://avatars.githubusercontent.com/u/44047106?v=4
 ---
 
 ### 主要贡献项目

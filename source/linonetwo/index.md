@@ -3,6 +3,8 @@ slug: linonetwo
 name: lin onetwo
 description: ShanghaiTech University
 avatar: avatar.png
+github_id: 3746270
+github_avatar: https://avatars.githubusercontent.com/u/3746270?v=4
 ---
 
 ### 主要贡献项目
