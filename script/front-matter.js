@@ -12,36 +12,52 @@ async function readRankingData(year) {
 }
 
 // 更新 Front-matter
-async function updateFrontMatter(login, githubId, githubAvatar) {
+async function updateFrontMatter(login, item) {
+    const { github_avatar, github_id, github_name, location } = item;
     const dirPath = path.join(SOURCE_DIR, login);
     const indexPath = path.join(dirPath, 'index.md');
 
-    let frontMatter = `---
-github_id: ${githubId}
-github_avatar: ${githubAvatar}
----\n\n# ${login}\n\n`;
+    const newFields = `\ngithub_id: ${github_id}\ngithub_avatar: ${github_avatar}\n`;
 
     try {
-        // 如果文件存在，读取并更新 Front-matter
         const content = await fs.readFile(indexPath, 'utf-8');
 
-        // 检查并更新字段
-        if (content.includes('github_id:') && content.includes('github_avatar:')) {
-            // 更新现有的 Front-matter
-            const updatedContent = content.replace(/github_id: .*/g, `github_id: ${githubId}`)
-                                           .replace(/github_avatar: .*/g, `github_avatar: ${githubAvatar}`);
-            await fs.writeFile(indexPath, updatedContent, 'utf-8');
+        // 正则提取 Front-matter
+        const frontMatterRegex = /---\n([\s\S]*?)\n---/;
+        const match = content.match(frontMatterRegex);
+
+        if (match) {
+            // 获取现有 Front-matter 内容
+            const existingFrontMatter = match[1];
+            
+            // 检查是否已有字段并更新或添加
+            let updatedFrontMatter = existingFrontMatter;
+            if (existingFrontMatter.includes('github_id:') && existingFrontMatter.includes('github_avatar:')) {
+                updatedFrontMatter = updatedFrontMatter
+                    .replace(/(github_id: .*\n)/, `github_id: ${github_id}\n`)
+                    .replace(/(github_avatar: .*\n)/, `github_avatar: ${github_avatar}\n`);
+            } else {
+                updatedFrontMatter += newFields;
+            }
+
+            // 替换更新后的 Front-matter
+            const newContent = content.replace(frontMatterRegex, `---\n${updatedFrontMatter}\n---`);
+            await fs.writeFile(indexPath, newContent, 'utf-8');
             console.log(`Updated index.md for ${login}`);
         } else {
-            // 追加新字段
-            const newContent = frontMatter + content;
+            // 如果没有找到 Front-matter，创建新的
+            const newContent = `---\n${newFields}---\n\n${content}`;
             await fs.writeFile(indexPath, newContent, 'utf-8');
-            console.log(`Added fields to index.md for ${login}`);
+            console.log(`Generated new index.md for ${login}`);
         }
+
     } catch (error) {
         // 文件不存在，创建目录和文件
+        const frontMatter = `slug: ${login}\n
+name: ${github_name}\ndescription: ${location}\n`
         await fs.mkdir(dirPath, { recursive: true });
-        await fs.writeFile(indexPath, frontMatter, 'utf-8');
+        const newContent = `---\n${frontMatter}${newFields}---\n\n ### 主要贡献项目\n`;
+        await fs.writeFile(indexPath, newContent, 'utf-8');
         console.log(`Generated new index.md for ${login}`);
     }
 }
@@ -57,17 +73,18 @@ async function main(year) {
         }
 
         for (const item of rankingsData.annualRanking) {
-            const { login, github_id, github_avatar } = item;
+            const { login } = item;
 
             // 更新 Front-matter
-            await updateFrontMatter(login, github_id, github_avatar);
+            await updateFrontMatter(login, item);
         }
-        
+
         console.log(`All index.md files processed for the year ${year}.`);
     } catch (error) {
         console.error('Error:', error);
     }
 }
+
 
 // 执行主程序
 main(2024);
