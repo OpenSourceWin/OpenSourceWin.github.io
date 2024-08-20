@@ -1,0 +1,16 @@
+### 项目开发
+
+### 如何更新用户 github 信息？
+
+仓库 `script` 目录下存放了三个脚本
+
+- update_year_user.js 根据年份来更新 `rankingList.json` 里面的用户的 github 信息，注意需要配置 github token 否则会被 github api 限制拉取频率导致更新失败。
+- front-matter.js, 在使用上面的脚本更新完用户信息后，使用此脚本来讲信息同步到 `source` 目录下对应的文件下的 `index.md` 的 front-matter 中 （--- front-matter ---）
+- update_all_user.js 更新整个 `rankingList.json` 中所有用户信息, 同样需要配置 github token 否则会被 github api 限制拉取频率导致更新失败。
+
+
+### 往年榜单
+
+所有往年榜单都在 `source/opensource-ranking` 目录下，每个文件都是一个年度榜单，文件名为 `2022.md` 这样的格式。
+
+首页只会展示最新一年的榜单数据。

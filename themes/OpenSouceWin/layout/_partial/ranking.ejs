@@ -1,7 +1,42 @@
-<span class="fs-5 lh-sm">
-  <select class="text-secondary ranking">
-    <% years.forEach((item, index) => { %>
-      <option value="<%= item.ranking %>"><%= item.year %> #<%= item.ranking %></option>
-    <% }) %>
-  </select>
-</span>
+<!-- 头部 -->
+<div class="header" id="head">
+  <%- partial('_partial/menu') %>
+  <!-- 头部内容 -->
+  <div class="container">
+      <%- image_tag('img/banner-index.png', {class: 'home-head', alt: '中国开源码力榜', loading: 'lazy'}) %>
+  </div>
+</div>
+
+<div class="container">
+  <%- partial('_partial/split') %> 
+
+  <div class="list" id="detail">
+      <div class="main-title">榜单详情-<%-  item.data_year %></div>
+      <%
+          const rankingArr = site.data.rankingList?.find((a)=> a.year == item.data_year) || [];
+          const userMap = new Map();
+          for (let rankingItem of site.pages.data) {
+              if (rankingItem.slug) {
+                userMap.set(rankingItem.slug.toString(), rankingItem);
+              } 
+          }
+      %>
+      <li id="<%= item.data_year %>" style="list-style: none;">
+        <div class="row mt-4">
+            <% for (let user of rankingArr.annualRanking) { %>
+                <% const userInfo = userMap.get(user.login.toString()) %>
+                <%- partial('_partial/card', {item: {slug: user.login, ...userInfo, ranking: user.ranking}}) %>
+            <% } %>
+        </div>
+      </li>
+
+
+       <div>
+
+       </div>
+
+  </div>
+  </div>
+
+  <%- partial('_partial/copyRight') %>
+</div>

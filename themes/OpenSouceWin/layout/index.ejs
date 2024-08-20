@@ -41,23 +41,24 @@
 
         <ol class="list-unstyled mt-4">
             <%
-                const rankingArr = site.data.rankingList?.sort((a,b)=>b.year - a.year).map(({year, annualRanking}) => ({year, annualRanking: annualRanking.sort((a, b) => a.ranking - b.ranking)})) || [];
+                const rankingArr = site.data.rankingList?.sort((a,b)=>b.year - a.year).map(({year, annualRanking}) => ({year, annualRanking: annualRanking.sort((a, b) => a.ranking - b.ranking)}))[0] || [];
                 const userMap = new Map();
                 for(let rankingItem of site.pages.data) {
-                    userMap.set(rankingItem.slug.toString(), rankingItem)
+                    if (rankingItem.slug) {
+                        userMap.set(rankingItem.slug.toString(), rankingItem)
+                    } 
                 }
             %>
-            <% for(let {year, annualRanking} of rankingArr) { %>
-                <li id="<%= year %>">
-                    <h3 class="text-center h2"> -<%= year %>- </h3>
-                    <div class="row mt-4">
-                        <% for (let user of annualRanking) { %>
-                            <% const userInfo = userMap.get(user.login.toString()) %>
-                            <%- partial('_partial/card', {item: {slug: user.login, ...userInfo, ranking: user.ranking}}) %>
-                        <% } %>
-                    </div>
-                </li>
-            <% } %>
+
+            <li id="<%= rankingArr.year %>">
+                <h3 class="text-center h2"> -<%= rankingArr.year %>- </h3>
+                <div class="row mt-4">
+                    <% for (let user of rankingArr.annualRanking) { %>
+                        <% const userInfo = userMap.get(user.login.toString()) %>
+                        <%- partial('_partial/card', {item: {slug: user.login, ...userInfo, ranking: user.ranking}}) %>
+                    <% } %>
+                </div>
+            </li>
         </ol>
     </div>
 
