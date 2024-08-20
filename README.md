@@ -22,8 +22,9 @@
 cd OpenSourceWin
 npm i
 ```
+如果用户名目录已经存在，你只需要去目录下面的 `index.md` 完善更新自己的信息即可。
 
-然后你就可以创建自己的个人介绍页了，**注意：页面的名称请使用你的 GitHub 用户名。**
+不存在你就需要创建自己的个人介绍页了，**注意：页面的名称请使用你的 GitHub 用户名。**
 
 ```bash
 npx hexo new page <你的用户名>
@@ -36,8 +37,9 @@ npx hexo new page <你的用户名>
 slug: <GitHub用户名>
 name: <昵称，如果不填写则默认使用 slug>
 description: <在首页显示的个人简介，不要超过50个字>
-github_id: <GitHub ID，这是一个纯数字ID，用于自动获取头像，如果你想单独上传一个头像请提供下方的 avatar 字段>
-avatar: <个人头像文件，下面会介绍>
+avatar: <个人头像文件，下面会介绍, 优先级比 github_avatar 高>
+github_id: <GitHub ID，这是一个纯数字ID，用于展示嵌入 osgraph 的能力图谱>
+github_avatar: <Github 头像地址>
 ---
 
 <在这里可以用Markdown书写个人简介>
@@ -45,7 +47,9 @@ avatar: <个人头像文件，下面会介绍>
 
 上面提到的个人头像文件，我们建议每个用户都要提交一个个人头像，以便我们标示你。这个图片可以是 `jpg,png,gif` 格式，应该是一个正方形分辨率至少超过 `256x256` 的文件。
 
-将此文件放置在个人简介的同级目录下，比如这个文件叫 `avatar.png`，它应该放置到 `source/foo` 目录下，然后上列的 `avatar` 项目应该填写 `avatar.png`。
+将此文件放置在个人简介的同级目录下，比如这个文件叫 `avatar.png`，它应该放置到 `source/foo` 目录下，然后上列的 `avatar` 项目应该填写 `avatar.png`，如果改头像存在会优先展示该头像，不存在会降级使用 github_avatar 的值。
+
+如果头像不存在，我们会通过脚本从 GitHub 上获取头像也就是上面的 github_avatar 的值。
 
 所有内容修改完成后，将其提交至 GitHub，并向我们的主项目提交一个 PR 请求，然后等待我们的审核合并后即可正常显示。
 
@@ -57,6 +61,12 @@ avatar: <个人头像文件，下面会介绍>
 
 ## 榜单列表
 
-以下是每年入选此榜单的九十九位用户列表。
+以下是当年入选此榜单的九十九位用户列表。
 
 [OpenSource.win](https://opensource.win/#detail)
+
+其他年份的榜单请从导航栏`往年榜单`下拉菜单选择年份查看。
+
+### 脚本批量更新用户信息
+
+[脚本用法说明](./DEVELOP.md)
