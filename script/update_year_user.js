@@ -12,7 +12,7 @@ const path = require('path');
 // 运行此脚本 需要配置 github_token 否则会 API 拉取会被 github 限制
 const GITHUB_TOKEN = ''; // 替换为你的 GitHub 个人访问令牌
 // 防止速度过快被 github 限制
-const TIME_DELAY = 1000;
+const TIME_DELAY = 600;
 
 // 读取 JSON 数据
 async function readRankingData() {
@@ -116,4 +116,4 @@ async function main(year) {
 }
 
 
-main(2021);
+main(2024);
