@@ -53,7 +53,12 @@ async function main(year) {
     annualRanking: xlabData,
   };
 
-  rankingData[yearIndex] = ranking;
+  if (yearIndex > 0) {
+    rankingData[yearIndex] = ranking;
+  } else {
+    // 插入新的年份数据
+    rankingData.push(ranking);
+  }
 
   console.log(`Update ${year} ranking data successfully!`,yearIndex, ranking);
 
