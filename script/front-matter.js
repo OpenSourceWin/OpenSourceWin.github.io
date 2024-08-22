@@ -59,7 +59,7 @@ async function updateFrontMatter(login, item) {
 
     } catch (error) {
         // 文件不存在，创建目录和文件
-        const frontMatter = `slug: ${login}\nname: ${github_name}\ndescription: ${location}`
+        const frontMatter = `slug: ${login}\nname: ${github_name}\ndescription: "${location}"`
         await fs.mkdir(dirPath, { recursive: true });
         const newContent = `---\n${frontMatter}${newFields}---\n\n`;
         await fs.writeFile(indexPath, newContent, 'utf-8');
