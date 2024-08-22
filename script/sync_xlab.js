@@ -1,3 +1,9 @@
+/***
+ * Author: shuashuai
+ * @description 按照年份从 xlab 接口获取数据，更新到 rankingList.json 中, 该操作会覆盖重置现有数据，之后需要执行 update_year_user.js 去github 拉取用户信息， 最后使用 front-matter.js 更新用户详情。
+ * 
+ */
+
 const fs = require('fs').promises;
 const path = require('path');
 
