@@ -3,6 +3,9 @@ slug: TeslaCN
 name: 吴伟杰
 description: Beijing, China 北京
 avatar: avatar.png
+github_id: 20503072
+github_avatar: https://avatars.githubusercontent.com/u/20503072?v=4
+
 ---
 
 ### 主要贡献项目

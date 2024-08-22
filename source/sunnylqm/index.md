@@ -3,6 +3,9 @@ slug: sunnylqm
 name: Sunny Luo
 description: China
 avatar: avatar.png
+github_id: 615282
+github_avatar: https://avatars.githubusercontent.com/u/615282?v=4
+
 ---
 
 ### 主要贡献项目

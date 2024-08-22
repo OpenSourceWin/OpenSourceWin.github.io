@@ -3,6 +3,9 @@ slug: ffang
 name: Freeman(Yue) Fang
 description: Beijing, China
 avatar: avatar.png
+github_id: 663583
+github_avatar: https://avatars.githubusercontent.com/u/663583?v=4
+
 ---
 
 ### 主要贡献项目

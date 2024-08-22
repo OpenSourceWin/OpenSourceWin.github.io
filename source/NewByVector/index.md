@@ -3,6 +3,9 @@ slug: NewByVector
 name: vector
 description: HangZhou China
 avatar: avatar.png
+github_id: 20186737
+github_avatar: https://avatars.githubusercontent.com/u/20186737?v=4
+
 ---
 
 ### 主要贡献项目

@@ -3,6 +3,8 @@ slug: yihong0618
 name: yihong
 description: China
 avatar: avatar.png
+github_id: 15976103
+github_avatar: https://avatars.githubusercontent.com/u/15976103?v=4
 ---
 
 ### 主要贡献项目

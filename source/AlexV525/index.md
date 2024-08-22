@@ -3,6 +3,8 @@ slug: AlexV525
 name: Alex Li (李承峻)
 description: Shanghai, China.
 avatar: avatar.png
+github_id: 15884415
+github_avatar: https://avatars.githubusercontent.com/u/15884415?v=4
 ---
 
 Alex is a [GDE](https://developers.google.com/community/experts/directory/profile/profile-chengjun-li) of Flutter/Dart, a contributor with contributor access to the [Flutter GitHub organization](https://github.com/flutter), and he actively replies in the Flutter GitHub repos and the Discord channel, helping identify issues, review and submit PRs. Meanwhile, he’s a member of the localization team which maintains [flutter.cn](https://flutter.cn)/[dart.cn](https://dart.cn).

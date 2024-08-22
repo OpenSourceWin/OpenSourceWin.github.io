@@ -3,6 +3,8 @@ slug: iChenLei
 name: Lei Chen
 description: Shanghai China
 avatar: avatar.png
+github_id: 14012511
+github_avatar: https://avatars.githubusercontent.com/u/14012511?v=4
 ---
 
 ### 主要贡献项目

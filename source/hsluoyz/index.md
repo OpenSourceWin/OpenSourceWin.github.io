@@ -3,6 +3,8 @@ slug: hsluoyz
 name: Yang Luo
 description: Beijing
 avatar: avatar.png
+github_id: 3787410
+github_avatar: https://avatars.githubusercontent.com/u/3787410?v=4
 ---
 
 ### 主要贡献项目

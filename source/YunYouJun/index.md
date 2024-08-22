@@ -3,6 +3,8 @@ slug: YunYouJun
 name: 云游君
 description: China
 avatar: avatar.png
+github_id: 25154432
+github_avatar: https://avatars.githubusercontent.com/u/25154432?v=4
 ---
 
 ### 主要贡献项目

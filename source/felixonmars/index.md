@@ -3,6 +3,8 @@ slug: felixonmars
 name: Felix Yan
 description: Wuhan, Hubei, China
 avatar: avatar.png
+github_id: 1006477
+github_avatar: https://avatars.githubusercontent.com/u/1006477?v=4
 ---
 
 ### 主要贡献项目

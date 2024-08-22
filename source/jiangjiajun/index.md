@@ -3,6 +3,8 @@ slug: jiangjiajun
 name: Jason
 description: Beijing
 avatar: avatar.png
+github_id: 19339784
+github_avatar: https://avatars.githubusercontent.com/u/19339784?v=4
 ---
 
 ### 主要贡献项目

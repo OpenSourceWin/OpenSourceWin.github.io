@@ -3,6 +3,9 @@ slug: pissang
 name: Yi Shen
 description: Shanghai, China
 avatar: avatar.png
+github_id: 841551
+github_avatar: https://avatars.githubusercontent.com/u/841551?v=4
+
 ---
 
 ### 主要贡献项目

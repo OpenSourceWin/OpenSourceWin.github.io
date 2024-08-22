@@ -3,6 +3,8 @@ slug: Yurunsoft
 name: Yurun
 description: China JiangSu WuXi
 avatar: avatar.png
+github_id: 20104656
+github_avatar: https://avatars.githubusercontent.com/u/20104656?v=4
 ---
 
 ### 主要贡献项目
