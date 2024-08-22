@@ -2,6 +2,9 @@
 slug: xrkffgg
 description: Beijing, China
 avatar: avatar.png
+github_id: 29775873
+github_avatar: https://avatars.githubusercontent.com/u/29775873?v=4
+
 ---
 
 ### 主要贡献项目

@@ -3,6 +3,8 @@ slug: chenshuai2144
 name: 陈帅
 description: 浙江杭州
 avatar: avatar.png
+github_id: 8186664
+github_avatar: https://avatars.githubusercontent.com/u/8186664?v=4
 ---
 
 ### 主要贡献项目

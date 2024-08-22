@@ -3,6 +3,8 @@ slug: lotem
 name: 居戎氏
 description: Beijing, China
 avatar: avatar.png
+github_id: 151157
+github_avatar: https://avatars.githubusercontent.com/u/151157?v=4
 ---
 
 ### 主要贡献项目

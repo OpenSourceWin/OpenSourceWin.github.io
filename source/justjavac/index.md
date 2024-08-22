@@ -3,6 +3,8 @@ slug: justjavac
 name: 迷渡
 description: Tianjin, China
 avatar: avatar.png
+github_id: 359395
+github_avatar: https://avatars.githubusercontent.com/u/359395?v=4
 ---
 
 ### 主要贡献项目

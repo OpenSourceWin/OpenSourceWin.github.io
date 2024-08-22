@@ -3,6 +3,9 @@ slug: aszx87410
 name: Huli
 description: Taipei, Taiwan
 avatar: avatar.png
+github_id: 2755720
+github_avatar: https://avatars.githubusercontent.com/u/2755720?v=4
+
 ---
 
 ### 主要贡献项目

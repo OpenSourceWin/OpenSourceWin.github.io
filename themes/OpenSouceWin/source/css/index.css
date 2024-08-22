@@ -41,10 +41,11 @@ a {
 .navbar-brand {
   font-size: 16px;
 }
-#navWrap a {
+#navWrap .nav-link {
   color: #fff;
   white-space: nowrap;
 }
+
 .nav-item {
   list-style: none;
 }

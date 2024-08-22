@@ -3,6 +3,8 @@ slug: kezhenxu94
 name: kezhenxu94
 description: China
 avatar: avatar.png
+github_id: 15965696
+github_avatar: https://avatars.githubusercontent.com/u/15965696?v=4
 ---
 
 ### 主要贡献项目

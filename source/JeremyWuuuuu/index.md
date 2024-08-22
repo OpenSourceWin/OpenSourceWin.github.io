@@ -3,6 +3,9 @@ slug: JeremyWuuuuu
 name: JeremyWuuuuu
 description: Shanghai, China
 avatar: avatar.png
+github_id: undefined
+github_avatar: undefined
+
 ---
 
 ### 主要贡献项目

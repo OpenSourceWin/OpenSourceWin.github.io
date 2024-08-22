@@ -3,6 +3,8 @@ slug: ruanwenjun
 name: Wenjun Ruan
 description: Shanghai China
 avatar: avatar.png
+github_id: 22415594
+github_avatar: https://avatars.githubusercontent.com/u/22415594?v=4
 ---
 
 ### 主要贡献项目

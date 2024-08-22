@@ -22,6 +22,20 @@
           <li class="nav-item">
             <a href="https://github.com/opensourcewin" target="_blank" class="nav-link">GitHub</a>
           </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              往年榜单
+            </a>
+            <%
+                const yearArr = site.data.rankingList?.sort((a,b)=>b.year - a.year).map(({year}) => ({year})) || [];
+                yearArr.shift();
+            %>
+            <ul class="dropdown-menu">
+              <% for (let year of yearArr) { %>
+                <li><a class="dropdown-item" href="/ranking-<%- year.year %> "><%- year.year %></a></li>
+              <% } %>
+            </ul>
+          </li>
         </ul>
       </div>
     </div>

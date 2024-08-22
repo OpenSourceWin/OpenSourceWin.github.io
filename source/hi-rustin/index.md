@@ -3,6 +3,8 @@ slug: hi-rustin
 name: 工业废水
 description: China
 avatar: avatar.png
+github_id: undefined
+github_avatar: undefined
 ---
 
 ### 主要贡献项目

@@ -3,6 +3,8 @@ slug: sxzz
 name: 三咲智子
 description: China
 avatar: avatar.png
+github_id: 6481596
+github_avatar: https://avatars.githubusercontent.com/u/6481596?v=4
 ---
 
 ### 主要贡献项目

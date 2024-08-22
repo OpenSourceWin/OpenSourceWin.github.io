@@ -3,6 +3,9 @@ slug: ZeyuChen
 name: Zeyu Chen
 description: Shenzhen
 avatar: avatar.png
+github_id: 1371212
+github_avatar: https://avatars.githubusercontent.com/u/1371212?v=4
+
 ---
 
 ### 主要贡献项目

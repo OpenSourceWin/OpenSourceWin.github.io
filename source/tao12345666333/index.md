@@ -3,6 +3,8 @@ slug: tao12345666333
 name: Jintao Zhang
 description: Beijing
 avatar: avatar.png
+github_id: 3264292
+github_avatar: https://avatars.githubusercontent.com/u/3264292?v=4
 ---
 
 ### 主要贡献项目

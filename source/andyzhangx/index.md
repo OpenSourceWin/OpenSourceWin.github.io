@@ -3,6 +3,8 @@ slug: andyzhangx
 name: Andy Zhang
 description: Shanghai
 avatar: avatar.png
+github_id: 4178417
+github_avatar: https://avatars.githubusercontent.com/u/4178417?v=4
 ---
 
 ### 主要贡献项目

@@ -3,6 +3,8 @@ slug: geffzhang
 name: geffzhang
 description: Shenzhen,China
 avatar: avatar.png
+github_id: 439390
+github_avatar: https://avatars.githubusercontent.com/u/439390?v=4
 ---
 
 ### 主要贡献项目

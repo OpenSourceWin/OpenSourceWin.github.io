@@ -3,6 +3,8 @@ slug: tiye
 name: 题叶
 description: Shanghai, China
 avatar: avatar.png
+github_id: 449224
+github_avatar: https://avatars.githubusercontent.com/u/449224?v=4
 ---
 
 ### 主要贡献项目

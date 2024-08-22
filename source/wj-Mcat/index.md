@@ -3,6 +3,8 @@ slug: wj-Mcat
 name: 骑马小猫
 description: Beijing
 avatar: avatar.png
+github_id: 10242208
+github_avatar: https://avatars.githubusercontent.com/u/10242208?v=4
 ---
 
 ### 主要贡献项目

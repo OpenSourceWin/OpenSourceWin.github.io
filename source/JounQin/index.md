@@ -3,6 +3,8 @@ slug: JounQin
 name: JounQin
 description: Nanjing, Jiangsu, PRC
 avatar: avatar.png
+github_id: 8336744
+github_avatar: https://avatars.githubusercontent.com/u/8336744?v=4
 ---
 
 ### 主要贡献项目

@@ -3,6 +3,8 @@ slug: antfu
 name: Anthony Fu
 description: China
 avatar: avatar.png
+github_id: 11247099
+github_avatar: https://avatars.githubusercontent.com/u/11247099?v=4
 ---
 
 ### 主要贡献项目

@@ -3,6 +3,8 @@ slug: johnnychen94
 name: Johnny Chen
 description: Shanghai, China
 avatar: avatar.png
+github_id: 8684355
+github_avatar: https://avatars.githubusercontent.com/u/8684355?v=4
 ---
 
 ### 主要贡献项目

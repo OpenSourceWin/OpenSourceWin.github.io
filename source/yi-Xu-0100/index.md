@@ -3,6 +3,8 @@ slug: yi-Xu-0100
 name: yi_Xu
 description: China
 avatar: avatar.png
+github_id: 25523606
+github_avatar: https://avatars.githubusercontent.com/u/25523606?v=4
 ---
 
 ### 主要贡献项目

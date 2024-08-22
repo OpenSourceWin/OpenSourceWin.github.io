@@ -3,6 +3,8 @@ slug: XuehaiPan
 name: Xuehai Pan
 description: Peking University, Beijing
 avatar: avatar.png
+github_id: 16078332
+github_avatar: https://avatars.githubusercontent.com/u/16078332?v=4
 ---
 
 ### 主要贡献项目

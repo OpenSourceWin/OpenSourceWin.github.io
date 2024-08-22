@@ -3,6 +3,9 @@ slug: Sciroccogti
 name: 张逸帆
 description: Suzhou, Jiangsu Province, China
 avatar: avatar.png
+github_id: 32357397
+github_avatar: https://avatars.githubusercontent.com/u/32357397?v=4
+
 ---
 
 ### 主要贡献项目
