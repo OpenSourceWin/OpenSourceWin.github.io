@@ -5,9 +5,9 @@
 - sync_xlab.js 从 xlab 接口 根据年份来同步 `rankingList.json` 中的最新排行信息，同步完成后需要 使用 update_year_user 来重新获取 github 用户信息。
 - update_year_user.js 根据年份来更新 `rankingList.json` 里面的用户的 github 信息，注意需要配置 github token 否则会被 github api 限制拉取频率导致更新失败, 然后修改 main 函数里面的需要更新的年份的信息即可。
 - update_all_user.js 更新整个 `rankingList.json` 中所有用户信息, 同样需要配置 github token 否则会被 github api 限制拉取频率导致更新失败。
-- front-matter.js, 在使用上面的脚本更新完用户信息后，使用此脚本来讲信息同步到 `source` 目录下对应的文件下的 `index.md` 的 front-matter 中 （--- front-matter ---）
+- front-matter.js 在使用上面的脚本更新完用户信息后，使用此脚本来讲信息同步到 `source` 目录下对应的文件下的 `index.md` 的 front-matter 中 （--- front-matter ---）
 
-`rankingList.json` 文件下数据更新前的机构
+`rankingList.json` 文件下数据更新前的结构
 
 ```json
 [
@@ -29,6 +29,7 @@
 ```
 
 脚本更新后的数据结构
+
 ```json
 [
   {
@@ -59,7 +60,9 @@
 ### 往年榜单
 
 所有往年榜单都在 `source/opensource-ranking` 目录下，每个文件都是一个年度榜单，文件名为 `2022.md` 这样的格式, 只需要修改里面的年份即可。
+
 例如
+
 ```md
 ---
 title: 榜单详情 2022

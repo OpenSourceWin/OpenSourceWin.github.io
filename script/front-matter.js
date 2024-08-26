@@ -1,7 +1,6 @@
-/***
+/**
  * Author: shuashuai
  * @description 批量将 rankingList.json 中的 github 用户信息更新到对应的 index.md 的 front-matter 中，同时对于不存在的用户，会自动创建对应目录，生成默认 index.md 文件。
- * 
  */
 
 const fs = require('fs').promises;
@@ -89,7 +88,6 @@ async function main(year) {
         console.error('Error:', error);
     }
 }
-
 
 // 执行主程序
 main(2024);

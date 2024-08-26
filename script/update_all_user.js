@@ -1,9 +1,8 @@
-/***
+/**
  * Author: shuashuai
  * @description 根据 rankingList.json de login 字段来从 github 批量获取 github 用户信息，更推荐使用 update_year_user.js 脚本，按照年份更新用户信息
  * @param GITHUB_TOKEN  github token,不配置会被 github api 限制，无法大量获取没使用前请先去配置
  * @param TIME_DELAY  防止速度过快被 github 限制,间隔 多少 ms 请求一次信息
- * 
  */
 
 const fs = require('fs').promises;
