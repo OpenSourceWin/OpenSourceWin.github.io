@@ -1,67 +1,39 @@
 ---
 slug: AlexV525
-name: Alex Li (李承峻)
+name: Alex Li
 description: Shanghai, China.
 avatar: avatar.png
 github_id: 15884415
 github_avatar: https://avatars.githubusercontent.com/u/15884415?v=4
 ---
 
-Alex is a [GDE](https://developers.google.com/community/experts/directory/profile/profile-chengjun-li) of Flutter/Dart, a contributor with contributor access to the [Flutter GitHub organization](https://github.com/flutter), and he actively replies in the Flutter GitHub repos and the Discord channel, helping identify issues, review and submit PRs. Meanwhile, he’s a member of the localization team which maintains [flutter.cn](https://flutter.cn)/[dart.cn](https://dart.cn).
+Alex is a [GDE](https://developers.google.com/community/experts/directory/profile/profile-chengjun-li) of Flutter & Dart,
+a contributor with contributor access to the [Flutter GitHub organization](https://github.com/flutter),
+and he actively replies in the Flutter GitHub repos and the Discord channel, helping identify issues, and review and submit PRs.
+Meanwhile, he’s a member of the localization team that maintains [flutter.cn](https://flutter.cn)/[dart.cn](https://dart.cn).
 
-Below are his contributions ([PRs](https://github.com/pulls?q=is%3Apr+author%3AAlexV525) and [Issues](https://github.com/issues?q=is%3Aissue+author%3AAlexV525)) to GitHub open-source projects:
+## Google Open Source Peer Bonus
+- Wins [2022 OSPB](https://opensource.googleblog.com/2022/03/Announcing-First-Group-of-Google-Open-Source-Peer-Bonus-Winners-in-2022.html).
+  ![2022 GOSPB](https://img.shields.io/badge/Google%20Open%20Source%20Peer%20Bonus-2022-orange)
+- Wins 2024 OSPB (no blog announced yet).
+  ![2024 GOSPB](https://img.shields.io/badge/Google%20Open%20Source%20Peer%20Bonus-2024-orange)
 
-- **♏️** _means he is the creator or maintainer of the project_
-- **©️** _means he has contributed to the project_
+## Participating groups/organizations 💭
 
-## Flutter/Dart content/tutorials/doc/cookbook
-* ©️ <https://github.com/flutter/website>
-* ©️ <https://github.com/dart-lang/site-www>
-* ♏️ <https://github.com/cfug/flutter.cn>
-* ♏️ <https://github.com/cfug/dart.cn>
-* ♏️ <https://github.com/AlexV525/effective_flutter>
+### As an owner
 
-## Flutter Projects
-* ♏️ <https://github.com/openjmu/OpenJMU>
-* ♏️ <https://github.com/AlexV525/flutter_touch_fish_on_macos>
+| LOGO                                                                         | Name                                                    | Description                                                   |
+|:-----------------------------------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------------------|
+| ![FlutterCandies](https://avatars.githubusercontent.com/u/47586449?s=48&v=4) | FlutterCandies https://github.com/fluttercandies        | Based in China, builds massive great quality Flutter plugins. |
+| ![CFUG](https://avatars.githubusercontent.com/u/44133785?s=48&v=4)           | CFUG (China Flutter User Group) https://github.com/cfug | Maintains flutter.cn / dart.cn and `dio`.                     |
 
-## Flutter/Dart ecosystem
-* ©️ <https://github.com/flutter/flutter>
-* ©️ <https://github.com/flutter/packages>
-* ©️ <https://github.com/flutter/plugins>
-* ©️ <https://github.com/flutter/flutter-intellij>
-* ©️ <https://github.com/google/flutter.widgets>
-* ©️ <https://github.com/dart-archive/isolate>
-* ©️ <https://github.com/dart-lang/pub>
-* ♏️ <https://github.com/fluttercandies/flutter_photo_manager>
-* ♏️ <https://github.com/fluttercandies/flutter_wechat_assets_picker>
-* ♏️ <https://github.com/fluttercandies/flutter_wechat_camera_picker>
-* ♏️ <https://github.com/fluttercandies/ff_annotation_route>
-* ♏️ <https://github.com/RxReader/wechat_kit>
-* ♏️ <https://github.com/AlexV525/dart_aliyun_sign>
-* ♏️ <https://github.com/AlexV525/flutter_aliyun_saf>
-* ♏️ <https://github.com/AlexV525/flutter_android_scheme_search>
-* ♏️ <https://github.com/CaiJingLong/flutter_resource_generator>
-* ♏️ <https://github.com/OpenFlutter/flutter_oktoast>
-* ♏️ <https://github.com/crazecoder/flutter_bugly>
-* ©️ <https://github.com/fluttercandies/extended_image>
-* ©️ <https://github.com/fluttercandies/extended_image_library>
-* ©️ <https://github.com/fluttercandies/extended_text>
-* ©️ <https://github.com/fluttercandies/extended_text_field>
-* ©️ <https://github.com/flutterchina/dio>
-* ©️ <https://github.com/alibaba/flutter_boost>
-* ©️ <https://github.com/bytedance/flutter_ume>
-* ©️ <https://github.com/LianjiaTech/bruno>
-* ©️ <https://github.com/rongcloud/rongcloud-im-flutter-sdk>
-* ©️ <https://github.com/rrousselGit/provider>
-* ©️ <https://github.com/hivedb/hive>
-* ©️ <https://github.com/flame-engine/flame>
-* ©️ <https://github.com/itzmeanjan/intent>
-* ©️ <https://github.com/a14n/dart-decimal>
-* ©️ <https://github.com/pichillilorenzo/flutter_inappwebview>
-* ©️ <https://github.com/ajinasokan/flutter_displaymode>
-* ©️ <https://github.com/crazecoder/open_file>
-* ©️ <https://github.com/florent37/Flutter-AssetsAudioPlayer>
-* ©️ <https://github.com/Solido/awesome-flutter>
-* ©️ <https://github.com/OpenFlutter/flutter_screenutil>
-* ©️ <https://github.com/flutter-stripe/flutter_stripe>
+### As a regular maintainer
+
+| LOGO                                                                       | Name/Link                                    | Description                       |
+|:---------------------------------------------------------------------------|:---------------------------------------------|:----------------------------------|
+| ![Flutter](https://avatars.githubusercontent.com/u/14101776?s=48&v=4)      | Flutter https://github.com/flutter           | Role as `flutter-hackers`.        |
+| ![FlutterGen](https://avatars.githubusercontent.com/u/70014310?s=48&v=4)   | FlutterGen https://github.com/FlutterGen     | Maintains `flutter_gen` packages. |
+| ![openwebf](https://avatars.githubusercontent.com/u/109506137?s=48&v=4)    | openwebf https://github.com/openwebf         | Maintains `webf` packages.        |
+| ![OpenFlutter](https://avatars.githubusercontent.com/u/42670328?s=48&v=4)  | OpenFlutter https://github.com/OpenFlutter   | Maintains several packages.       |
+| ![flutterchina](https://avatars.githubusercontent.com/u/38549573?s=48&v=4) | flutterchina https://github.com/flutterchina | Maintains `cookie_jar` packages.  |
+| ![RxReader](https://avatars.githubusercontent.com/u/68266204?s=48&v=4)     | RxReader https://github.com/RxReader         | Maintains `*kits` packages.       |

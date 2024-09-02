@@ -1,7 +1,6 @@
-/***
+/**
  * Author: shuashuai
  * @description 按照年份从 xlab 接口获取数据，更新到 rankingList.json 中, 该操作会覆盖重置现有数据，之后需要执行 update_year_user.js 去github 拉取用户信息， 最后使用 front-matter.js 更新用户详情。
- * 
  */
 
 const fs = require('fs').promises;
@@ -15,7 +14,7 @@ async function fetchXlab(year) {
   const { data: res } = data;
   console.log(res.length);
   if (res.length > 0) {
-    // 现根据 rank 排名在截取前99 为
+    // 根据 rank 排名截取前 99 位
     const res100 = res.sort((a, b) => a.rank - b.rank).slice(0, 99);
     return res100.map(v => ({
       ranking: v.rank,
@@ -52,7 +51,7 @@ async function main(year) {
 
   const yearIndex = rankingData.findIndex(v => v.year === year);
   // 获取当前时间戳
-  const update = `${new Date().getFul8Year()} 年 ${new Date().getMonth() + 1} 月`;
+  const update = `${new Date().getFullYear()} 年 ${new Date().getMonth() + 1} 月`;
   const ranking =  {
     year,
     update: update,
