@@ -9,7 +9,7 @@ const fs = require('fs').promises;
 const path = require('path');
 
 // 运行此脚本 需要配置 github_token 否则会 API 拉取会被 github 限制
-const GITHUB_TOKEN = ''; // 替换为你的 GitHub 个人访问令牌
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN; // 替换为你的 GitHub 个人访问令牌
 // 防止速度过快被 github 限制
 const TIME_DELAY = 600;
 
@@ -96,7 +96,8 @@ async function enrichRankingData(data) {
 }
 
 // 主函数
-async function main(year) {
+async function main() {
+    const year = new Date().getFullYear();
     try {
         const rankingsData = await readRankingData();
         const yearData = rankingsData.find(yearData => yearData.year === year);
@@ -114,4 +115,4 @@ async function main(year) {
     }
 }
 
-main(2024);
+main();

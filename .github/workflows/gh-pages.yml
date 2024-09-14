@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - main
+  workflow_run:
+    workflows: ["Monthly Script Runner"]
+    types:
+      - completed    
 
 jobs:
   build-deploy:
