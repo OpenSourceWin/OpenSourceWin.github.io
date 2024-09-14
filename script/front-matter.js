@@ -67,7 +67,8 @@ async function updateFrontMatter(login, item) {
 }
 
 // 主函数
-async function main(year) {
+async function main() {
+    const year = new Date().getFullYear();
     try {
         const rankingsData = await readRankingData(year);
 
@@ -90,4 +91,4 @@ async function main(year) {
 }
 
 // 执行主程序
-main(2024);
+main();
