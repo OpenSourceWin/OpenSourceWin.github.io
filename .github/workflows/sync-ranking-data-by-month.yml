@@ -3,7 +3,7 @@ name: Monthly Script Runner
 # 触发条件：每月的1号运行
 on:
   schedule:
-    - cron: "0 0 0 * *"  # 每月一号的00:00 UTC时间运行
+    - cron: "0 0 1 * *"  # 每月一号的00:00 UTC时间运行
   workflow_dispatch:
 
 jobs:
