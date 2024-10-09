@@ -11,15 +11,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 检出代码
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 设置 Node.js 环境
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'  # 使用 Node.js 18
+          node-version: '20'
 
       # 运行第一个脚本 sync_xlab.js，从接口获取最新数据
       - name: Run sync_xlab.js
@@ -44,24 +42,4 @@ jobs:
           git commit -m "chore: Automated data update from scripts"
           git push origin main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
-
-      #  # 创建并推送 PR
-      # - name: Create Pull Request
-      #   id: create_pr
-      #   uses: peter-evans/create-pull-request@v7
-      #   with:
-      #     commit-message: "chore: Updating data from xlab"
-      #     title: "chore: Updating data from xlab"
-      #     body: "Updating data from xlab,and create user homepages"
-      #     branch: update-ranking-data
-      #     base: "main"
-      #     delete-branch: true
-
-      # # 启用自动合并
-      # - name: Enable auto-merge
-      #   uses: peter-evans/enable-pull-request-automerge@v3
-      #   with:
-      #     token: ${{ secrets.GITHUB_TOKEN }}
-      #     pull-request-number: ${{ steps.create_pr.outputs.pull-request-number }}
-      #     merge-method: merge    
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   
