@@ -97,7 +97,9 @@ async function enrichRankingData(data) {
 
 // 主函数
 async function main() {
-    const year = new Date().getFullYear();
+    const date = new Date();
+    date.setMonth(date.getMonth() - 1);
+    const year = date.getFullYear();
     try {
         const rankingsData = await readRankingData();
         const yearData = rankingsData.find(yearData => yearData.year === year);

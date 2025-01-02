@@ -68,7 +68,9 @@ async function updateFrontMatter(login, item) {
 
 // 主函数
 async function main() {
-    const year = new Date().getFullYear();
+    const date = new Date();
+    date.setMonth(date.getMonth() - 1);
+    const year = date.getFullYear();
     try {
         const rankingsData = await readRankingData(year);
 
