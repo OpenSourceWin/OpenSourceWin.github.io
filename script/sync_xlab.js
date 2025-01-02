@@ -41,7 +41,10 @@ async function writeRankingData(data) {
 
 // 主函数
 async function main() {
-  const year = new Date().getFullYear();
+  const date = new Date();
+  // 在每个月的 1 号获取上个月的年份
+  date.setMonth(date.getMonth() - 1);
+  const year = date.getFullYear();
   console.log(year);
   const rankingData = await readRankingData();
   const xlabData = await fetchXlab(year);
@@ -54,7 +57,7 @@ async function main() {
   const yearIndex = rankingData.findIndex(v => Number(v.year) === year);
   // 获取当前时间戳
   const update = `${new Date().getFullYear()} 年 ${new Date().getMonth() + 1} 月`;
-  const ranking =  {
+  const ranking = {
     year,
     update: update,
     annualRanking: xlabData,
@@ -67,7 +70,7 @@ async function main() {
     rankingData.push(ranking);
   }
 
-  console.log(`Update ${year} ranking data successfully!`,yearIndex, ranking);
+  console.log(`Update ${year} ranking data successfully!`, yearIndex, ranking);
 
   // 写入 JSON 数据
   await writeRankingData(rankingData);
