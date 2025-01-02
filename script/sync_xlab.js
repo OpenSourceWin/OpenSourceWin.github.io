@@ -6,7 +6,7 @@
 const fs = require('fs').promises;
 const path = require('path');
 
-// fetch 请求改接口： https://oss.x-lab.info/open_leaderboard/activity/company/chinese/20247.json
+// fetch 请求接口：https://oss.x-lab.info/open_leaderboard/open_rank/actor/chinese/2024.json
 // 然后将数据写入到 source/_data/rankingList.json 中
 async function fetchXlab(year) {
   const response = await fetch(`https://oss.x-lab.info/open_leaderboard/open_rank/actor/chinese/${year}.json`);
