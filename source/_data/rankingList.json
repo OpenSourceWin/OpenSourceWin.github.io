@@ -3160,7 +3160,7 @@
   },
   {
     "year": 2025,
-    "update": "2025 年 8 月",
+    "update": "2025 年 9 月",
     "annualRanking": [
       {
         "ranking": 1,
@@ -3180,11 +3180,11 @@
       },
       {
         "ranking": 3,
-        "login": "hiyouga",
-        "github_id": 16256802,
-        "github_avatar": "https://avatars.githubusercontent.com/u/16256802?v=4",
-        "location": "Beijing, China",
-        "github_name": "Yaowei Zheng"
+        "login": "Jintao-Huang",
+        "github_id": 45290347,
+        "github_avatar": "https://avatars.githubusercontent.com/u/45290347?v=4",
+        "location": "Hangzhou China",
+        "github_name": "Jintao"
       },
       {
         "ranking": 4,
@@ -3196,14 +3196,22 @@
       },
       {
         "ranking": 5,
-        "login": "Jintao-Huang",
-        "github_id": 45290347,
-        "github_avatar": "https://avatars.githubusercontent.com/u/45290347?v=4",
-        "location": "Hangzhou China",
-        "github_name": "Jintao"
+        "login": "hiyouga",
+        "github_id": 16256802,
+        "github_avatar": "https://avatars.githubusercontent.com/u/16256802?v=4",
+        "location": "Beijing, China",
+        "github_name": "Yaowei Zheng"
       },
       {
         "ranking": 6,
+        "login": "Aleksanaa",
+        "github_id": 42209822,
+        "github_avatar": "https://avatars.githubusercontent.com/u/42209822?v=4",
+        "location": "Singapore",
+        "github_name": "Aleksana"
+      },
+      {
+        "ranking": 7,
         "login": "chenjiahan",
         "github_id": 7237365,
         "github_avatar": "https://avatars.githubusercontent.com/u/7237365?v=4",
@@ -3211,7 +3219,7 @@
         "github_name": "neverland"
       },
       {
-        "ranking": 7,
+        "ranking": 8,
         "login": "arvinxx",
         "github_id": 28616219,
         "github_avatar": "https://avatars.githubusercontent.com/u/28616219?v=4",
@@ -3219,7 +3227,7 @@
         "github_name": "Arvin Xu"
       },
       {
-        "ranking": 8,
+        "ranking": 9,
         "login": "TCOTC",
         "github_id": 78434827,
         "github_avatar": "https://avatars.githubusercontent.com/u/78434827?v=4",
@@ -3227,7 +3235,7 @@
         "github_name": "Jeffrey Chen"
       },
       {
-        "ranking": 9,
+        "ranking": 10,
         "login": "csukuangfj",
         "github_id": 5284924,
         "github_avatar": "https://avatars.githubusercontent.com/u/5284924?v=4",
@@ -3235,15 +3243,15 @@
         "github_name": "Fangjun Kuang"
       },
       {
-        "ranking": 10,
-        "login": "Aleksanaa",
-        "github_id": 42209822,
-        "github_avatar": "https://avatars.githubusercontent.com/u/42209822?v=4",
-        "location": "Chengdu, Sichuan, China",
-        "github_name": "Aleksana"
+        "ranking": 11,
+        "login": "wanghe-fit2cloud",
+        "github_id": 46734380,
+        "github_avatar": "https://avatars.githubusercontent.com/u/46734380?v=4",
+        "location": "Beijing, China",
+        "github_name": "王贺"
       },
       {
-        "ranking": 11,
+        "ranking": 12,
         "login": "MingcongBai",
         "github_id": 5006263,
         "github_avatar": "https://avatars.githubusercontent.com/u/5006263?v=4",
@@ -3251,20 +3259,12 @@
         "github_name": "白铭骢 (Mingcong Bai)"
       },
       {
-        "ranking": 12,
+        "ranking": 13,
         "login": "c121914yu",
         "github_id": 50446880,
         "github_avatar": "https://avatars.githubusercontent.com/u/50446880?v=4",
         "location": "HangZhou",
         "github_name": "Archer"
-      },
-      {
-        "ranking": 13,
-        "login": "wanghe-fit2cloud",
-        "github_id": 46734380,
-        "github_avatar": "https://avatars.githubusercontent.com/u/46734380?v=4",
-        "location": "Beijing, China",
-        "github_name": "王贺"
       },
       {
         "ranking": 14,
@@ -3316,14 +3316,6 @@
       },
       {
         "ranking": 20,
-        "login": "88250",
-        "github_id": 873584,
-        "github_avatar": "https://avatars.githubusercontent.com/u/873584?v=4",
-        "location": "Kunming, China",
-        "github_name": "D"
-      },
-      {
-        "ranking": 21,
         "login": "windsonsea",
         "github_id": 79828097,
         "github_avatar": "https://avatars.githubusercontent.com/u/79828097?v=4",
@@ -3331,12 +3323,20 @@
         "github_name": "Michael Yao"
       },
       {
+        "ranking": 21,
+        "login": "88250",
+        "github_id": 873584,
+        "github_avatar": "https://avatars.githubusercontent.com/u/873584?v=4",
+        "location": "Kunming, China",
+        "github_name": "D"
+      },
+      {
         "ranking": 22,
-        "login": "dtcxzyw",
-        "github_id": 15650457,
-        "github_avatar": "https://avatars.githubusercontent.com/u/15650457?v=4",
-        "location": "Shanghai",
-        "github_name": "Yingwei Zheng"
+        "login": "derekbit",
+        "github_id": 12527233,
+        "github_avatar": "https://avatars.githubusercontent.com/u/12527233?v=4",
+        "location": "Taipei, Taiwan",
+        "github_name": "Derek Su"
       },
       {
         "ranking": 23,
@@ -3348,14 +3348,6 @@
       },
       {
         "ranking": 24,
-        "login": "derekbit",
-        "github_id": 12527233,
-        "github_avatar": "https://avatars.githubusercontent.com/u/12527233?v=4",
-        "location": "Taipei, Taiwan",
-        "github_name": "Derek Su"
-      },
-      {
-        "ranking": 25,
         "login": "yanglbme",
         "github_id": 21008209,
         "github_avatar": "https://avatars.githubusercontent.com/u/21008209?v=4",
@@ -3363,20 +3355,28 @@
         "github_name": "Libin YANG"
       },
       {
-        "ranking": 26,
-        "login": "JounQin",
-        "github_id": 8336744,
-        "github_avatar": "https://avatars.githubusercontent.com/u/8336744?v=4",
-        "location": "Nanjing, Jiangsu, PRC",
-        "github_name": "JounQin"
-      },
-      {
-        "ranking": 27,
+        "ranking": 25,
         "login": "chia7712",
         "github_id": 6234750,
         "github_avatar": "https://avatars.githubusercontent.com/u/6234750?v=4",
         "location": "Taiwan",
         "github_name": "Chia-Ping Tsai"
+      },
+      {
+        "ranking": 26,
+        "login": "1715173329",
+        "github_id": 22235437,
+        "github_avatar": "https://avatars.githubusercontent.com/u/22235437?v=4",
+        "location": "Chongqing, China",
+        "github_name": "Tianling Shen"
+      },
+      {
+        "ranking": 27,
+        "login": "JounQin",
+        "github_id": 8336744,
+        "github_avatar": "https://avatars.githubusercontent.com/u/8336744?v=4",
+        "location": "Nanjing, Jiangsu, PRC",
+        "github_name": "JounQin"
       },
       {
         "ranking": 28,
@@ -3388,22 +3388,6 @@
       },
       {
         "ranking": 29,
-        "login": "hsluoyz",
-        "github_id": 3787410,
-        "github_avatar": "https://avatars.githubusercontent.com/u/3787410?v=4",
-        "location": null,
-        "github_name": "Yang Luo"
-      },
-      {
-        "ranking": 30,
-        "login": "antfu",
-        "github_id": 11247099,
-        "github_avatar": "https://avatars.githubusercontent.com/u/11247099?v=4",
-        "location": "undefined",
-        "github_name": "Anthony Fu"
-      },
-      {
-        "ranking": 31,
         "login": "PeterDaveHello",
         "github_id": 3691490,
         "github_avatar": "https://avatars.githubusercontent.com/u/3691490?v=4",
@@ -3411,23 +3395,31 @@
         "github_name": "Peter Dave Hello"
       },
       {
+        "ranking": 30,
+        "login": "hsluoyz",
+        "github_id": 3787410,
+        "github_avatar": "https://avatars.githubusercontent.com/u/3787410?v=4",
+        "location": null,
+        "github_name": "Yang Luo"
+      },
+      {
+        "ranking": 31,
+        "login": "dtcxzyw",
+        "github_id": 15650457,
+        "github_avatar": "https://avatars.githubusercontent.com/u/15650457?v=4",
+        "location": "Shanghai",
+        "github_name": "Yingwei Zheng"
+      },
+      {
         "ranking": 32,
-        "login": "1715173329",
-        "github_id": 22235437,
-        "github_avatar": "https://avatars.githubusercontent.com/u/22235437?v=4",
-        "location": "Chongqing, China",
-        "github_name": "Tianling Shen"
+        "login": "antfu",
+        "github_id": 11247099,
+        "github_avatar": "https://avatars.githubusercontent.com/u/11247099?v=4",
+        "location": "undefined",
+        "github_name": "Anthony Fu"
       },
       {
         "ranking": 33,
-        "login": "huacnlee",
-        "github_id": 5518,
-        "github_avatar": "https://avatars.githubusercontent.com/u/5518?v=4",
-        "location": "Chengdu, China",
-        "github_name": "Jason Lee"
-      },
-      {
-        "ranking": 34,
         "login": "fangsmile",
         "github_id": 3468473,
         "github_avatar": "https://avatars.githubusercontent.com/u/3468473?v=4",
@@ -3435,39 +3427,15 @@
         "github_name": "方帅"
       },
       {
+        "ranking": 34,
+        "login": "huacnlee",
+        "github_id": 5518,
+        "github_avatar": "https://avatars.githubusercontent.com/u/5518?v=4",
+        "location": "Chengdu, China",
+        "github_name": "Jason Lee"
+      },
+      {
         "ranking": 35,
-        "login": "afc163",
-        "github_id": 507615,
-        "github_avatar": "https://avatars.githubusercontent.com/u/507615?v=4",
-        "location": "Hangzhou, China",
-        "github_name": "afc163"
-      },
-      {
-        "ranking": 36,
-        "login": "huiyadanli",
-        "github_id": 15783049,
-        "github_avatar": "https://avatars.githubusercontent.com/u/15783049?v=4",
-        "location": "Hangzhou, China",
-        "github_name": "辉鸭蛋"
-      },
-      {
-        "ranking": 37,
-        "login": "uyarn",
-        "github_id": 26377630,
-        "github_avatar": "https://avatars.githubusercontent.com/u/26377630?v=4",
-        "location": "Shenzhen/Hong Kong, China",
-        "github_name": "wū yāng"
-      },
-      {
-        "ranking": 38,
-        "login": "wing328",
-        "github_id": 934260,
-        "github_avatar": "https://avatars.githubusercontent.com/u/934260?v=4",
-        "location": null,
-        "github_name": "William Cheng"
-      },
-      {
-        "ranking": 39,
         "login": "msyyc",
         "github_id": 70930885,
         "github_avatar": "https://avatars.githubusercontent.com/u/70930885?v=4",
@@ -3475,23 +3443,47 @@
         "github_name": "Yuchao Yan"
       },
       {
+        "ranking": 36,
+        "login": "afc163",
+        "github_id": 507615,
+        "github_avatar": "https://avatars.githubusercontent.com/u/507615?v=4",
+        "location": "Hangzhou, China",
+        "github_name": "afc163"
+      },
+      {
+        "ranking": 37,
+        "login": "wing328",
+        "github_id": 934260,
+        "github_avatar": "https://avatars.githubusercontent.com/u/934260?v=4",
+        "location": null,
+        "github_name": "William Cheng"
+      },
+      {
+        "ranking": 38,
+        "login": "uyarn",
+        "github_id": 26377630,
+        "github_avatar": "https://avatars.githubusercontent.com/u/26377630?v=4",
+        "location": "Shenzhen/Hong Kong, China",
+        "github_name": "wū yāng"
+      },
+      {
+        "ranking": 39,
+        "login": "huiyadanli",
+        "github_id": 15783049,
+        "github_avatar": "https://avatars.githubusercontent.com/u/15783049?v=4",
+        "location": "Hangzhou, China",
+        "github_name": "辉鸭蛋"
+      },
+      {
         "ranking": 40,
-        "login": "andyzhangx",
-        "github_id": 4178417,
-        "github_avatar": "https://avatars.githubusercontent.com/u/4178417?v=4",
-        "location": "Shanghai",
-        "github_name": "Andy Zhang"
+        "login": "zirain",
+        "github_id": 4354057,
+        "github_avatar": "https://avatars.githubusercontent.com/u/4354057?v=4",
+        "location": "Hangzhou,China",
+        "github_name": "zirain"
       },
       {
         "ranking": 41,
-        "login": "fisker",
-        "github_id": 172584,
-        "github_avatar": "https://avatars.githubusercontent.com/u/172584?v=4",
-        "location": "China",
-        "github_name": "fisker Cheung"
-      },
-      {
-        "ranking": 42,
         "login": "hengfeiyang",
         "github_id": 1628250,
         "github_avatar": "https://avatars.githubusercontent.com/u/1628250?v=4",
@@ -3499,12 +3491,20 @@
         "github_name": "Hengfei Yang"
       },
       {
+        "ranking": 42,
+        "login": "andyzhangx",
+        "github_id": 4178417,
+        "github_avatar": "https://avatars.githubusercontent.com/u/4178417?v=4",
+        "location": "Shanghai",
+        "github_name": "Andy Zhang"
+      },
+      {
         "ranking": 43,
-        "login": "zirain",
-        "github_id": 4354057,
-        "github_avatar": "https://avatars.githubusercontent.com/u/4354057?v=4",
-        "location": "Hangzhou,China",
-        "github_name": "zirain"
+        "login": "btea",
+        "github_id": 24516654,
+        "github_avatar": "https://avatars.githubusercontent.com/u/24516654?v=4",
+        "location": "HangZhou,China",
+        "github_name": null
       },
       {
         "ranking": 44,
@@ -3516,11 +3516,11 @@
       },
       {
         "ranking": 45,
-        "login": "SigureMo",
-        "github_id": 38436475,
-        "github_avatar": "https://avatars.githubusercontent.com/u/38436475?v=4",
-        "location": "Beijing, China",
-        "github_name": "Nyakku Shigure"
+        "login": "fisker",
+        "github_id": 172584,
+        "github_avatar": "https://avatars.githubusercontent.com/u/172584?v=4",
+        "location": "China",
+        "github_name": "fisker Cheung"
       },
       {
         "ranking": 46,
@@ -3540,30 +3540,6 @@
       },
       {
         "ranking": 48,
-        "login": "btea",
-        "github_id": 24516654,
-        "github_avatar": "https://avatars.githubusercontent.com/u/24516654?v=4",
-        "location": "HangZhou,China",
-        "github_name": null
-      },
-      {
-        "ranking": 49,
-        "login": "tchaikov",
-        "github_id": 59071,
-        "github_avatar": "https://avatars.githubusercontent.com/u/59071?v=4",
-        "location": "Shanghai, China",
-        "github_name": "Kefu Chai"
-      },
-      {
-        "ranking": 50,
-        "login": "cloud-fan",
-        "github_id": 3182036,
-        "github_avatar": "https://avatars.githubusercontent.com/u/3182036?v=4",
-        "location": "Hangzhou, China",
-        "github_name": "Wenchen Fan"
-      },
-      {
-        "ranking": 51,
         "login": "yuluo-yx",
         "github_id": 77964041,
         "github_avatar": "https://avatars.githubusercontent.com/u/77964041?v=4",
@@ -3571,12 +3547,36 @@
         "github_name": "shown"
       },
       {
+        "ranking": 49,
+        "login": "cloud-fan",
+        "github_id": 3182036,
+        "github_avatar": "https://avatars.githubusercontent.com/u/3182036?v=4",
+        "location": "Hangzhou, China",
+        "github_name": "Wenchen Fan"
+      },
+      {
+        "ranking": 50,
+        "login": "SigureMo",
+        "github_id": 38436475,
+        "github_avatar": "https://avatars.githubusercontent.com/u/38436475?v=4",
+        "location": "Beijing, China",
+        "github_name": "Nyakku Shigure"
+      },
+      {
+        "ranking": 51,
+        "login": "tchaikov",
+        "github_id": 59071,
+        "github_avatar": "https://avatars.githubusercontent.com/u/59071?v=4",
+        "location": "Shanghai, China",
+        "github_name": "Kefu Chai"
+      },
+      {
         "ranking": 52,
-        "login": "RockChinQ",
-        "github_id": 45992437,
-        "github_avatar": "https://avatars.githubusercontent.com/u/45992437?v=4",
-        "location": "Suzhou, China",
-        "github_name": "Junyan Qin (Chin)"
+        "login": "Yikun",
+        "github_id": 1736354,
+        "github_avatar": "https://avatars.githubusercontent.com/u/1736354?v=4",
+        "location": "Xi'an, China",
+        "github_name": "Yikun Jiang"
       },
       {
         "ranking": 53,
@@ -3588,14 +3588,6 @@
       },
       {
         "ranking": 54,
-        "login": "gaius-qi",
-        "github_id": 15955374,
-        "github_avatar": "https://avatars.githubusercontent.com/u/15955374?v=4",
-        "location": "Hangzhou",
-        "github_name": "Gaius"
-      },
-      {
-        "ranking": 55,
         "login": "yihong0618",
         "github_id": 15976103,
         "github_avatar": "https://avatars.githubusercontent.com/u/15976103?v=4",
@@ -3603,23 +3595,15 @@
         "github_name": "yihong"
       },
       {
+        "ranking": 55,
+        "login": "gaius-qi",
+        "github_id": 15955374,
+        "github_avatar": "https://avatars.githubusercontent.com/u/15955374?v=4",
+        "location": "Hangzhou",
+        "github_name": "Gaius"
+      },
+      {
         "ranking": 56,
-        "login": "xile611",
-        "github_id": 6111424,
-        "github_avatar": "https://avatars.githubusercontent.com/u/6111424?v=4",
-        "location": "Hang Zhou",
-        "github_name": "xile611"
-      },
-      {
-        "ranking": 57,
-        "login": "zhengruifeng",
-        "github_id": 7322292,
-        "github_avatar": "https://avatars.githubusercontent.com/u/7322292?v=4",
-        "location": "Beijing <> Singapore",
-        "github_name": "Ruifeng Zheng"
-      },
-      {
-        "ranking": 58,
         "login": "anlyyao",
         "github_id": 51158141,
         "github_avatar": "https://avatars.githubusercontent.com/u/51158141?v=4",
@@ -3627,28 +3611,44 @@
         "github_name": "Y."
       },
       {
+        "ranking": 57,
+        "login": "RockChinQ",
+        "github_id": 45992437,
+        "github_avatar": "https://avatars.githubusercontent.com/u/45992437?v=4",
+        "location": "Suzhou, China",
+        "github_name": "Junyan Qin (Chin)"
+      },
+      {
+        "ranking": 58,
+        "login": "zhengruifeng",
+        "github_id": 7322292,
+        "github_avatar": "https://avatars.githubusercontent.com/u/7322292?v=4",
+        "location": "Beijing <> Singapore",
+        "github_name": "Ruifeng Zheng"
+      },
+      {
         "ranking": 59,
-        "login": "fit2cloudrd",
-        "github_id": 985347,
-        "github_avatar": "https://avatars.githubusercontent.com/u/985347?v=4",
-        "location": "Beijing",
-        "github_name": "fit2cloudrd"
-      },
-      {
-        "ranking": 60,
-        "login": "LuciferYang",
-        "github_id": 1475305,
-        "github_avatar": "https://avatars.githubusercontent.com/u/1475305?v=4",
-        "location": "Beijing",
-        "github_name": "YangJie"
-      },
-      {
-        "ranking": 61,
         "login": "seisman",
         "github_id": 3974108,
         "github_avatar": "https://avatars.githubusercontent.com/u/3974108?v=4",
         "location": "Wuhan, China",
         "github_name": "Dongdong Tian"
+      },
+      {
+        "ranking": 60,
+        "login": "xile611",
+        "github_id": 6111424,
+        "github_avatar": "https://avatars.githubusercontent.com/u/6111424?v=4",
+        "location": "Hang Zhou",
+        "github_name": "xile611"
+      },
+      {
+        "ranking": 61,
+        "login": "thinkasany",
+        "github_id": 117748716,
+        "github_avatar": "https://avatars.githubusercontent.com/u/117748716?v=4",
+        "location": "HangZhou",
+        "github_name": null
       },
       {
         "ranking": 62,
@@ -3660,118 +3660,6 @@
       },
       {
         "ranking": 63,
-        "login": "zombieJ",
-        "github_id": 5378891,
-        "github_avatar": "https://avatars.githubusercontent.com/u/5378891?v=4",
-        "location": "Shanghai, China",
-        "github_name": "二货爱吃白萝卜"
-      },
-      {
-        "ranking": 64,
-        "login": "hyoban",
-        "github_id": 38493346,
-        "github_avatar": "https://avatars.githubusercontent.com/u/38493346?v=4",
-        "location": "undefined",
-        "github_name": "Stephen Zhou"
-      },
-      {
-        "ranking": 65,
-        "login": "thinkasany",
-        "github_id": 117748716,
-        "github_avatar": "https://avatars.githubusercontent.com/u/117748716?v=4",
-        "location": "HangZhou",
-        "github_name": null
-      },
-      {
-        "ranking": 66,
-        "login": "tisonkun",
-        "github_id": 18818196,
-        "github_avatar": "https://avatars.githubusercontent.com/u/18818196?v=4",
-        "location": null,
-        "github_name": "tison"
-      },
-      {
-        "ranking": 67,
-        "login": "frostming",
-        "github_id": 16336606,
-        "github_avatar": "https://avatars.githubusercontent.com/u/16336606?v=4",
-        "location": "Shenzhen, China",
-        "github_name": "Frost Ming"
-      },
-      {
-        "ranking": 68,
-        "login": "an-lee",
-        "github_id": 22209056,
-        "github_avatar": "https://avatars.githubusercontent.com/u/22209056?v=4",
-        "location": "@Shenzhen",
-        "github_name": "an-lee"
-      },
-      {
-        "ranking": 69,
-        "login": "wzshiming",
-        "github_id": 6565744,
-        "github_avatar": "https://avatars.githubusercontent.com/u/6565744?v=4",
-        "location": "Shanghai",
-        "github_name": "Shiming Zhang"
-      },
-      {
-        "ranking": 70,
-        "login": "fengmk2",
-        "github_id": 156269,
-        "github_avatar": "https://avatars.githubusercontent.com/u/156269?v=4",
-        "location": "Hangzhou, China",
-        "github_name": "fengmk2"
-      },
-      {
-        "ranking": 71,
-        "login": "CH3CHO",
-        "github_id": 2909796,
-        "github_avatar": "https://avatars.githubusercontent.com/u/2909796?v=4",
-        "location": "Shanghai, China",
-        "github_name": "Kent Dong"
-      },
-      {
-        "ranking": 72,
-        "login": "youkaichao",
-        "github_id": 23236638,
-        "github_avatar": "https://avatars.githubusercontent.com/u/23236638?v=4",
-        "location": "Beijing, China",
-        "github_name": "youkaichao"
-      },
-      {
-        "ranking": 73,
-        "login": "Integral-Tech",
-        "github_id": 71180087,
-        "github_avatar": "https://avatars.githubusercontent.com/u/71180087?v=4",
-        "location": "China",
-        "github_name": "Integral"
-      },
-      {
-        "ranking": 74,
-        "login": "yin1999",
-        "github_id": 15844309,
-        "github_avatar": "https://avatars.githubusercontent.com/u/15844309?v=4",
-        "location": "Hangzhou, China",
-        "github_name": "A1lo"
-      },
-      {
-        "ranking": 75,
-        "login": "chihsuan",
-        "github_id": 4344253,
-        "github_avatar": "https://avatars.githubusercontent.com/u/4344253?v=4",
-        "location": "Taiwan",
-        "github_name": "Chi-Hsuan Huang"
-      },
-      {
-        "ranking": 76,
-        "login": "sendaoYan",
-        "github_id": 24123821,
-        "github_avatar": "https://avatars.githubusercontent.com/u/24123821?v=4",
-        "location": "shanghai",
-        "github_name": "sendaoYan"
-      },
-      {
-        "ranking": 77,
         "login": "hustcc",
         "github_id": 7856674,
         "github_avatar": "https://avatars.githubusercontent.com/u/7856674?v=4",
@@ -3779,79 +3667,71 @@
         "github_name": "hustcc"
       },
       {
-        "ranking": 78,
-        "login": "Kudo",
-        "github_id": 46429,
-        "github_avatar": "https://avatars.githubusercontent.com/u/46429?v=4",
-        "location": "Taipei, Taiwan",
-        "github_name": "Kudo Chien"
+        "ranking": 64,
+        "login": "fengmk2",
+        "github_id": 156269,
+        "github_avatar": "https://avatars.githubusercontent.com/u/156269?v=4",
+        "location": "Hangzhou, China",
+        "github_name": "MK (fengmk2)"
       },
       {
-        "ranking": 79,
-        "login": "ioito",
-        "github_id": 13750250,
-        "github_avatar": "https://avatars.githubusercontent.com/u/13750250?v=4",
-        "location": "Xi'an",
-        "github_name": "屈轩"
+        "ranking": 65,
+        "login": "LuciferYang",
+        "github_id": 1475305,
+        "github_avatar": "https://avatars.githubusercontent.com/u/1475305?v=4",
+        "location": "Beijing",
+        "github_name": "YangJie"
       },
       {
-        "ranking": 80,
-        "login": "zhiyuanliang-ms",
-        "github_id": 141655842,
-        "github_avatar": "https://avatars.githubusercontent.com/u/141655842?v=4",
+        "ranking": 66,
+        "login": "yin1999",
+        "github_id": 15844309,
+        "github_avatar": "https://avatars.githubusercontent.com/u/15844309?v=4",
+        "location": "Hangzhou, China",
+        "github_name": "A1lo"
+      },
+      {
+        "ranking": 67,
+        "login": "fit2cloudrd",
+        "github_id": 985347,
+        "github_avatar": "https://avatars.githubusercontent.com/u/985347?v=4",
+        "location": "Beijing",
+        "github_name": "fit2cloudrd"
+      },
+      {
+        "ranking": 68,
+        "login": "hyoban",
+        "github_id": 38493346,
+        "github_avatar": "https://avatars.githubusercontent.com/u/38493346?v=4",
+        "location": "undefined",
+        "github_name": "Stephen Zhou"
+      },
+      {
+        "ranking": 69,
+        "login": "zombieJ",
+        "github_id": 5378891,
+        "github_avatar": "https://avatars.githubusercontent.com/u/5378891?v=4",
         "location": "Shanghai, China",
-        "github_name": "Zhiyuan Liang"
+        "github_name": "二货爱吃白萝卜"
       },
       {
-        "ranking": 81,
-        "login": "Lee-W",
-        "github_id": 5144808,
-        "github_avatar": "https://avatars.githubusercontent.com/u/5144808?v=4",
-        "location": "Taiwan",
-        "github_name": "Wei Lee"
+        "ranking": 70,
+        "login": "frostming",
+        "github_id": 16336606,
+        "github_avatar": "https://avatars.githubusercontent.com/u/16336606?v=4",
+        "location": "Shenzhen, China",
+        "github_name": "Frost Ming"
       },
       {
-        "ranking": 82,
-        "login": "Yikun",
-        "github_id": 1736354,
-        "github_avatar": "https://avatars.githubusercontent.com/u/1736354?v=4",
-        "location": "Xi'an, China",
-        "github_name": "Yikun Jiang"
+        "ranking": 71,
+        "login": "tisonkun",
+        "github_id": 18818196,
+        "github_avatar": "https://avatars.githubusercontent.com/u/18818196?v=4",
+        "location": null,
+        "github_name": "tison"
       },
       {
-        "ranking": 83,
-        "login": "AlexV525",
-        "github_id": 15884415,
-        "github_avatar": "https://avatars.githubusercontent.com/u/15884415?v=4",
-        "location": "China, Shanghai",
-        "github_name": "Alex Li"
-      },
-      {
-        "ranking": 84,
-        "login": "Vanessa219",
-        "github_id": 970828,
-        "github_avatar": "https://avatars.githubusercontent.com/u/970828?v=4",
-        "location": "Kunming, China",
-        "github_name": "V"
-      },
-      {
-        "ranking": 85,
-        "login": "kerthcet",
-        "github_id": 18364341,
-        "github_avatar": "https://avatars.githubusercontent.com/u/18364341?v=4",
-        "location": "London",
-        "github_name": "Kante Yin"
-      },
-      {
-        "ranking": 86,
-        "login": "wu-sheng",
-        "github_id": 5441976,
-        "github_avatar": "https://avatars.githubusercontent.com/u/5441976?v=4",
-        "location": "Beijing & HK (China), SF(US)",
-        "github_name": "吴晟 Wu Sheng"
-      },
-      {
-        "ranking": 87,
+        "ranking": 72,
         "login": "weizhoublue",
         "github_id": 45163302,
         "github_avatar": "https://avatars.githubusercontent.com/u/45163302?v=4",
@@ -3859,7 +3739,79 @@
         "github_name": "weizhoublue"
       },
       {
-        "ranking": 88,
+        "ranking": 73,
+        "login": "CH3CHO",
+        "github_id": 2909796,
+        "github_avatar": "https://avatars.githubusercontent.com/u/2909796?v=4",
+        "location": "Shanghai, China",
+        "github_name": "Kent Dong"
+      },
+      {
+        "ranking": 74,
+        "login": "ioito",
+        "github_id": 13750250,
+        "github_avatar": "https://avatars.githubusercontent.com/u/13750250?v=4",
+        "location": "Xi'an",
+        "github_name": "屈轩"
+      },
+      {
+        "ranking": 75,
+        "login": "an-lee",
+        "github_id": 22209056,
+        "github_avatar": "https://avatars.githubusercontent.com/u/22209056?v=4",
+        "location": "@Shenzhen",
+        "github_name": "an-lee"
+      },
+      {
+        "ranking": 76,
+        "login": "wzshiming",
+        "github_id": 6565744,
+        "github_avatar": "https://avatars.githubusercontent.com/u/6565744?v=4",
+        "location": "Shanghai",
+        "github_name": "Shiming Zhang"
+      },
+      {
+        "ranking": 77,
+        "login": "Kudo",
+        "github_id": 46429,
+        "github_avatar": "https://avatars.githubusercontent.com/u/46429?v=4",
+        "location": "Taipei, Taiwan",
+        "github_name": "Kudo Chien"
+      },
+      {
+        "ranking": 78,
+        "login": "morrySnow",
+        "github_id": 101034200,
+        "github_avatar": "https://avatars.githubusercontent.com/u/101034200?v=4",
+        "location": "Beijing, China",
+        "github_name": null
+      },
+      {
+        "ranking": 79,
+        "login": "zhiyuanliang-ms",
+        "github_id": 141655842,
+        "github_avatar": "https://avatars.githubusercontent.com/u/141655842?v=4",
+        "location": "Shanghai, China",
+        "github_name": "Zhiyuan Liang"
+      },
+      {
+        "ranking": 80,
+        "login": "Vanessa219",
+        "github_id": 970828,
+        "github_avatar": "https://avatars.githubusercontent.com/u/970828?v=4",
+        "location": "Kunming, China",
+        "github_name": "V"
+      },
+      {
+        "ranking": 81,
+        "login": "AlexV525",
+        "github_id": 15884415,
+        "github_avatar": "https://avatars.githubusercontent.com/u/15884415?v=4",
+        "location": "China, Shanghai",
+        "github_name": "Alex Li"
+      },
+      {
+        "ranking": 82,
         "login": "chaokunyang",
         "github_id": 12445254,
         "github_avatar": "https://avatars.githubusercontent.com/u/12445254?v=4",
@@ -3867,23 +3819,15 @@
         "github_name": "Shawn Yang"
       },
       {
-        "ranking": 89,
-        "login": "RainbowMango",
-        "github_id": 8268873,
-        "github_avatar": "https://avatars.githubusercontent.com/u/8268873?v=4",
-        "location": "HangZhou, China",
-        "github_name": "Hongcai Ren"
+        "ranking": 83,
+        "login": "Lee-W",
+        "github_id": 5144808,
+        "github_avatar": "https://avatars.githubusercontent.com/u/5144808?v=4",
+        "location": "Taiwan",
+        "github_name": "Wei Lee"
       },
       {
-        "ranking": 90,
-        "login": "googs1025",
-        "github_id": 86391540,
-        "github_avatar": "https://avatars.githubusercontent.com/u/86391540?v=4",
-        "location": "Chengdu",
-        "github_name": "CYJiang"
-      },
-      {
-        "ranking": 91,
+        "ranking": 84,
         "login": "hydai",
         "github_id": 2776756,
         "github_avatar": "https://avatars.githubusercontent.com/u/2776756?v=4",
@@ -3891,23 +3835,23 @@
         "github_name": "hydai"
       },
       {
-        "ranking": 92,
-        "login": "He-Pin",
-        "github_id": 501740,
-        "github_avatar": "https://avatars.githubusercontent.com/u/501740?v=4",
-        "location": "Hangzhou, Zhejiang, China",
-        "github_name": "He-Pin(kerr)"
-      },
-      {
-        "ranking": 93,
-        "login": "guanlisheng",
-        "github_id": 721973,
-        "github_avatar": "https://avatars.githubusercontent.com/u/721973?v=4",
+        "ranking": 85,
+        "login": "youkaichao",
+        "github_id": 23236638,
+        "github_avatar": "https://avatars.githubusercontent.com/u/23236638?v=4",
         "location": "Beijing, China",
-        "github_name": "Gong Guan"
+        "github_name": "youkaichao"
       },
       {
-        "ranking": 94,
+        "ranking": 86,
+        "login": "RainbowMango",
+        "github_id": 8268873,
+        "github_avatar": "https://avatars.githubusercontent.com/u/8268873?v=4",
+        "location": "HangZhou, China",
+        "github_name": "Hongcai Ren"
+      },
+      {
+        "ranking": 87,
         "login": "domchen",
         "github_id": 6849001,
         "github_avatar": "https://avatars.githubusercontent.com/u/6849001?v=4",
@@ -3915,12 +3859,68 @@
         "github_name": "Dom Chen"
       },
       {
+        "ranking": 88,
+        "login": "pan3793",
+        "github_id": 26535726,
+        "github_avatar": "https://avatars.githubusercontent.com/u/26535726?v=4",
+        "location": "Hangzhou, China",
+        "github_name": "Cheng Pan"
+      },
+      {
+        "ranking": 89,
+        "login": "sendaoYan",
+        "github_id": 24123821,
+        "github_avatar": "https://avatars.githubusercontent.com/u/24123821?v=4",
+        "location": "shanghai",
+        "github_name": "sendaoYan"
+      },
+      {
+        "ranking": 90,
+        "login": "ABA2396",
+        "github_id": 99072975,
+        "github_avatar": "https://avatars.githubusercontent.com/u/99072975?v=4",
+        "location": "HangZhou, China",
+        "github_name": "uye"
+      },
+      {
+        "ranking": 91,
+        "login": "wu-sheng",
+        "github_id": 5441976,
+        "github_avatar": "https://avatars.githubusercontent.com/u/5441976?v=4",
+        "location": "Beijing & HK (China), SF(US)",
+        "github_name": "吴晟 Wu Sheng"
+      },
+      {
+        "ranking": 92,
+        "login": "googs1025",
+        "github_id": 86391540,
+        "github_avatar": "https://avatars.githubusercontent.com/u/86391540?v=4",
+        "location": "Chengdu",
+        "github_name": "CYJiang"
+      },
+      {
+        "ranking": 93,
+        "login": "Integral-Tech",
+        "github_id": 71180087,
+        "github_avatar": "https://avatars.githubusercontent.com/u/71180087?v=4",
+        "location": "China",
+        "github_name": "Integral"
+      },
+      {
+        "ranking": 94,
+        "login": "kerthcet",
+        "github_id": 18364341,
+        "github_avatar": "https://avatars.githubusercontent.com/u/18364341?v=4",
+        "location": "London",
+        "github_name": "Kante Yin"
+      },
+      {
         "ranking": 95,
-        "login": "zexi",
-        "github_id": 10767027,
-        "github_avatar": "https://avatars.githubusercontent.com/u/10767027?v=4",
-        "location": "Beijing",
-        "github_name": "Zexi Li"
+        "login": "ArcturusZhang",
+        "github_id": 10554446,
+        "github_avatar": "https://avatars.githubusercontent.com/u/10554446?v=4",
+        "location": "Shanghai, China",
+        "github_name": "Dapeng Zhang"
       },
       {
         "ranking": 96,
@@ -3932,27 +3932,27 @@
       },
       {
         "ranking": 97,
-        "login": "felixonmars",
-        "github_id": 1006477,
-        "github_avatar": "https://avatars.githubusercontent.com/u/1006477?v=4",
-        "location": "Wuhan, China",
-        "github_name": "Felix Yan"
+        "login": "chihsuan",
+        "github_id": 4344253,
+        "github_avatar": "https://avatars.githubusercontent.com/u/4344253?v=4",
+        "location": "Taiwan",
+        "github_name": "Chi-Hsuan Huang"
       },
       {
         "ranking": 98,
-        "login": "pan3793",
-        "github_id": 26535726,
-        "github_avatar": "https://avatars.githubusercontent.com/u/26535726?v=4",
-        "location": "Hangzhou, China",
-        "github_name": "Cheng Pan"
+        "login": "He-Pin",
+        "github_id": 501740,
+        "github_avatar": "https://avatars.githubusercontent.com/u/501740?v=4",
+        "location": "Hangzhou, Zhejiang, China",
+        "github_name": "He-Pin(kerr)"
       },
       {
         "ranking": 99,
-        "login": "ABA2396",
-        "github_id": 99072975,
-        "github_avatar": "https://avatars.githubusercontent.com/u/99072975?v=4",
-        "location": "HangZhou, China",
-        "github_name": "uye"
+        "login": "zuston",
+        "github_id": 8609142,
+        "github_avatar": "https://avatars.githubusercontent.com/u/8609142?v=4",
+        "location": "shanghai",
+        "github_name": "Junfan Zhang"
       }
     ]
   }
