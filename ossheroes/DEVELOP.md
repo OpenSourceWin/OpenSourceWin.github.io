@@ -66,7 +66,7 @@
 ```md
 ---
 title: 榜单详情 2022
-permalink: /ranking-2022
+permalink: /ossheroes/ranking-2022
 data_year: 2022
 ---
 
