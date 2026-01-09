@@ -13,7 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://opensource.win
+url: # 在 _config.yml 中添加/修改：
+url: https://opensource.win/ossheroes
 permalink: :slug/
 permalink_defaults:
 pretty_urls:
