@@ -8,11 +8,15 @@ on:
 
 jobs:
   run-scripts:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # ensure history for pushing changes
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -39,6 +43,9 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit" && exit 0
+          fi
           git commit -m "chore: Automated data update from scripts"
           git push origin main
         env:

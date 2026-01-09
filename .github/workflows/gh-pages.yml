@@ -11,10 +11,14 @@ on:
 
 jobs:
   build-deploy:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     if: "!contains(github.event.head_commit.message, 'skip ci')"
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # required so the deploy action can push
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
