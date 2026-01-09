@@ -1,7 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { Languages, Terminal, Github, Share2 } from "lucide-react";
-import { cn } from "@/lib/utils";
+import { Languages, Terminal } from "lucide-react";
 
 export function Navbar() {
   const { language, toggleLanguage } = useLanguage();
@@ -25,9 +24,10 @@ export function Navbar() {
             {language === 'en' ? 'EN / 中文' : '中文 / EN'}
           </Button>
           
-          <Button variant="outline" size="sm" className="hidden sm:flex">
-            <Github className="mr-2 h-4 w-4" />
-            GitHub
+          <Button variant="outline" size="sm" className="hidden sm:flex" asChild>
+            <a href="https://opensource.win/ossheroes/">
+              Heroes
+            </a>
           </Button>
         </div>
       </div>
